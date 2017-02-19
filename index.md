@@ -1,6 +1,5 @@
 ---
 title: Home
-permalink: "/"
 layout: discorddownloader
 ---
 
