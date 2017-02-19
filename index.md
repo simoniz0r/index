@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: "index.html"
+permalink: "/"
 layout: discorddownloader
 ---
 
