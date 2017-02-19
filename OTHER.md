@@ -3,11 +3,14 @@ title: Other Stuff
 layout: discorddownloader
 ---
 
-[Some random useful bash scripts for Linux](https://github.com/simoniz0r/UsefulScripts)
-===========================================
+<center><b>
+  <a href="https://github.com/simoniz0r/UsefulScripts" target="_blank">Some bash scripts that I find useful for Linux.</a>
+</center></b>
 
-<br>
-<br>
 
-[Things I have made for Windows](https://github.com/simoniz0r/WindowsStuff)
-================================
+  <br>
+  <br>
+
+<center><b>
+  <a href="https://github.com/simoniz0r/WindowsStuff" target="_blank">Things I have made for Windows.</a>
+</center></b>
