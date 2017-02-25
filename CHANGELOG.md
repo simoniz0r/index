@@ -1,5 +1,7 @@
 ---
+title: Changelog
 layout: discorddownloader
+permalink: /CHANGELOG
 ---
 
 ![discorddownloader](https://raw.githubusercontent.com/simoniz0r/discorddownloader/master/Screenshot.png)
