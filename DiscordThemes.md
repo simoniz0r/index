@@ -1,7 +1,7 @@
 ---
 layout: discorddownloader
 title: Discord Themes
-permalink: /DiscordThemes
+permalink: /discordthemes
 ---
 
 [Arc Dark Autohide Mod](https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css)
