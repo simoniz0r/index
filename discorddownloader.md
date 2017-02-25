@@ -4,6 +4,8 @@ layout: discorddownloader
 permalink: /discorddownloader
 ---
 
+#### A bash script that will download, extract, and create symbolic links for all versions of Discord on any distro. It can also be used to update all versions of Discord just by going through the installation process again. This script can also install BetterDiscord and BeautifulDiscord. 
+
 ![discorddownloader](https://raw.githubusercontent.com/simoniz0r/discorddownloader/master/Screenshot.png)
 <br>
 <br>
