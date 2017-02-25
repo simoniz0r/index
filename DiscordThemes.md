@@ -7,7 +7,7 @@ permalink: /discordthemes
 <h3 align="center">A couple of themes that I have put together for Discord. They should work either in your browser with Stylish, with BeautifulDiscord, or with BetterDiscord. Feel free to use parts of my themes to create your own (please give credit if you do).</h3>
 <br>
 <br>
-<h1 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css">Arc Dark Autohode Mod</h1></a>
+<h1 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css">Arc Dark Autohode Mod</a></h1>
 <br>
 <h4  align="center">A of modifications of <a href="https://userstyles.org/styles/127986/discord-arc-dark">sans' ArcDark theme</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">license</a>).  The guilds wrapper will be hidden to the left, and the channel and member list will be hidden to the right when the window width is below 1000px.  After being hidden, both can be activated by hovering your mouse at the edge.</h4>
 <br>
