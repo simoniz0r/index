@@ -3,6 +3,12 @@ layout: discorddownloader
 title: Discord Themes
 permalink: /discordthemes
 ---
+<h1 align="center">Discord Themes</h1>
+
+<h4 align="center">A couple of themes that I have put together for Discord. They should work either in your browser with Stylish, with BeautifulDiscord, or with BetterDiscord. Feel free to use parts of my themes to create your own (please give credit if you do).</h4>
+
+<br>
+<br>
 
 [Arc Dark Autohide Mod](https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css)
 =======================
