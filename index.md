@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: discorddownloader
+permalink: /index.html
 ---
 
 ### My current projects are [discorddownloader](https://simoniz0r.github.io/discorddownloader/) and creating [Discord themes](https://simoniz0r.github.io/DiscordThemes/) in my spare time.
