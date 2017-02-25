@@ -24,5 +24,5 @@ permalink: /discordthemes
 <h4 align="center">Included in this script is a hotkey to make windowed games run in a borderless window.  The default hotkey is `Ctrl+Alt+Shift+Q`</h4>
 <br>
 <h3 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.theme.css">Download (right click -> save as)</a></h3>
-
+<br>
 <center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.gif" alt="VoiceOnly"></center>
