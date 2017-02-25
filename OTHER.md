@@ -1,6 +1,7 @@
 ---
 title: Other Stuff
 layout: discorddownloader
+permalink: /other
 ---
 
 <center><b>
