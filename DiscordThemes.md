@@ -9,7 +9,7 @@ permalink: /discordthemes
 <br>
 <h1 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css">Arc Dark Autohode Mod</a></h1>
 <br>
-<h4  align="center">A of modifications of <a href="https://userstyles.org/styles/127986/discord-arc-dark">sans' ArcDark theme</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">license</a>).  The guilds wrapper will be hidden to the left, and the channel and member list will be hidden to the right when the window width is below 1000px.  After being hidden, both can be activated by hovering your mouse at the edge.</h4>
+<h4  align="center">A modifications of <a href="https://userstyles.org/styles/127986/discord-arc-dark">sans' ArcDark theme</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">license</a>).  The guilds wrapper will be hidden to the left, and the channel and member list will be hidden to the right when the window width is below 1000px.  After being hidden, both can be activated by hovering your mouse at the edge.</h4>
 <br>
 <h3 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css">Download (right click -> save as)</a></h3>
 <center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.gif" alt="ArcDarkAutohideMod" align="middle"></center>
