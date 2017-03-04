@@ -40,6 +40,8 @@ permalink: /discorddownloader
 6. Uninstall: choose the version of Discord to uninstall.
 
 7. Exit script without installing.
+
+#### Note: This script can only maintain one install directory of each Discord version.  You will be prompted to remove your previous install if you try to install the same version of Discord twice.
 	
 #### After your selected version of Discord has been installed, you will then be asked if you would like to install BetterDiscord or BeautifulDiscord.
 
