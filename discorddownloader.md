@@ -16,6 +16,8 @@ permalink: /discorddownloader
 # Installation
 
 #### Just download `discorddownloader.sh` from the [releases page](https://github.com/simoniz0r/discorddownloader/releases/latest) or grab the [raw script](https://raw.githubusercontent.com/simoniz0r/discorddownloader/master/discorddownloader.sh) and run it.
+
+#### All of the install options require `wget`.
 <br>
 <br>
 
