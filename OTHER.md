@@ -5,7 +5,7 @@ permalink: /other
 ---
 
 <center><b>
-  <a href="http://simonizor.gq/kde-gaps" target="_blank">KDE-gaps, an Aurorae Window Decoration theme that simulates the look of a tiling Window Manager.</a>
+  <a href="http://simonizor.gq/kde-gaps">KDE-gaps, an Aurorae Window Decoration theme that simulates the look of a tiling Window Manager.</a>
   <br>
   <br>
 <center><b>
