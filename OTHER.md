@@ -5,6 +5,10 @@ permalink: /other
 ---
 
 <center><b>
+  <a href="http://simonizor.gq/kde-gaps" target="_blank">KDE-gaps, an Aurorae Window Decoration theme that simulates the look of a tiling Window Manager.</a>
+  <br>
+  <br>
+<center><b>
   <a href="https://github.com/simoniz0r/UsefulScripts" target="_blank">Some bash scripts that I find useful for Linux.</a>
   <br>
   <br>
