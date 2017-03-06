@@ -12,7 +12,7 @@ permalink: /kde-gaps
     
 <br>
     
-![kde-gaps](https://raw.githubusercontent.com/simoniz0r/kde-gaps/master/KDE-gaps.png)
+<center><img src="https://raw.githubusercontent.com/simoniz0r/kde-gaps/master/KDE-gaps.png" alt="KDE-gaps"></center>
 
 
 
