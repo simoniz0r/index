@@ -3,16 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Destroy all styles given by the theme. We'll reconstruct them ourselves! */
-div#header > nav,
-div#header > nav > ul.main_nav > li,
-div#header > nav > ul.main_nav > li > a,
-div#header > nav > ul.main_nav > li > a:hover
-div#header > nav > ul.main_nav.right > li > a,
-div#header > nav > ul.main_nav.right > li > a:hover {
-    all: initial;
-}
-
 .wrapper {
     max-width: 100%;
 }
