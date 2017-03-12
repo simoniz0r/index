@@ -7,6 +7,16 @@
     max-width: 100%;
 }
 
+a {
+  color:#3e71ad;
+  font-weight:400;
+  text-decoration:none;
+
+  &:hover {
+    color: #5294e2;
+  }
+}
+
 #header {
     z-index: 100;
     left: 0;
