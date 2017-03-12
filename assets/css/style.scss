@@ -23,6 +23,12 @@
         margin: auto;
         padding: 0 10px;
         background: blue;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-align-content: center;
+        align-content: center;
         li {
             font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-weight: normal;
