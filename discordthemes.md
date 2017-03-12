@@ -4,7 +4,7 @@ layout: discorddownloader
 permalink: /discordthemes
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -49,5 +49,4 @@ tr:nth-child(odd) {
 <h4 align="center">Included in this script is a hotkey to make windowed games run in a borderless window.  The default hotkey is `Ctrl+Alt+Shift+Q`</h4></td>
     <td><center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.gif" alt="VoiceOnly"></center></td>
   </tr>
-</body>
-</html>
+
