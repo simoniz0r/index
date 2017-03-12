@@ -1,3 +1,9 @@
+---
+layout: discorddownloader
+title: Discord Themes
+permalink: /discordthemes
+---
+
 <!DOCTYPE html>
 <html>
 <head>
