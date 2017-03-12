@@ -34,7 +34,7 @@ tr:nth-child(odd) {
 <br>
 <table>
   <tr>
-    <th>Installation</th>
+    <th>Downloads</th>
     <th>Usage</th>
     <th>Related links</th>
   </tr>
