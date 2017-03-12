@@ -29,8 +29,6 @@ tr:nth-child(odd) {
 }
 </style>
 </head>
-<body>
-
 <table>
   <tr>
     <th>Theme</th>
