@@ -23,7 +23,6 @@
         margin: auto;
         padding: 0 10px;
         background: blue;
-        align-content: center;
         li {
             font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-weight: normal;
@@ -33,7 +32,6 @@
             line-height: 50px;
             text-shadow: 0px 1px 0px rgba(0, 0, 0, .2);
             font-size: 14px;
-            align-content: center;
             a {
                 color: white;
                 border: 1px solid #27476d;
@@ -47,7 +45,6 @@
                 font-size: 14px;
                 display: inline-block;
                 text-align: center;
-                align-content: center;
                 &:hover {
                     background: linear_gradient(#1f589b, #184172);
                     background-color: #3e71ad;
@@ -58,12 +55,10 @@
             &.fork {
                 float: left;
                 margin-left: 6px;
-                align-content: center;
             }
             &.downloads {
                 float: left;
                 margin-left: 6px;
-                align-content: center;
             }
             &.title {
                 float: right;
