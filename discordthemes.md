@@ -37,7 +37,7 @@ tr:nth-child(odd) {
   <tr>
     <td valign="top"><p><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css" target="_blank">Arc Dark Autohode Mod</a></h4><br><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css" download>Download</a></h4></p></td>
     <td valign="top"><h4  align="center">A modifications of <a href="https://userstyles.org/styles/127986/discord-arc-dark" target="_blank">sans' ArcDark theme</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank">license</a>).  The guilds wrapper will be hidden to the left, and the channel and member list will be hidden to the right when the window width is below 1000px.  After being hidden, both can be activated by hovering your mouse at the edge.</h4></td>
-    <td valign="center"><a href="https://github.com/simoniz0r/DiscordThemes/blob/master/ArcDarkMods/ArcDarkAutohideMod.gif" target="_blank"><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.gif" alt="ArcDarkAutohideMod" align="middle"></a></td>
+    <td valign="center"><a href="https://github.com/simoniz0r/DiscordThemes/blob/master/ArcDarkMods/ArcDarkAutohideMod.gif" target="_blank"><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.gif" alt="ArcDarkAutohideMod"></a></td>
   </tr>
   <tr>
     <td valign="top"><p><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.theme.css" target="_blank">VoiceOnly</a></h4><br><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.theme.css" download>Download</a></h4></p></td>
@@ -47,4 +47,3 @@ tr:nth-child(odd) {
 <h4 align="center">Included in this script is a hotkey to make windowed games run in a borderless window.  The default hotkey is `Ctrl+Alt+Shift+Q`</h4></td>
     <td valign="center"><a href="https://github.com/simoniz0r/DiscordThemes/blob/master/VoiceOnly/VoiceOnly.gif" target="_blank"><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.gif" alt="VoiceOnly"></a></td>
   </tr>
-
