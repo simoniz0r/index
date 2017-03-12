@@ -39,7 +39,7 @@ tr:nth-child(odd) {
   <tr>
     <td valign="top"><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css">Arc Dark Autohode Mod</a></h4><br><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css" download>Download</a></h4></td>
     <td valign="top"><h4  align="center">A modifications of <a href="https://userstyles.org/styles/127986/discord-arc-dark">sans' ArcDark theme</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">license</a>).  The guilds wrapper will be hidden to the left, and the channel and member list will be hidden to the right when the window width is below 1000px.  After being hidden, both can be activated by hovering your mouse at the edge.</h4></td>
-    <td><center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.gif" alt="ArcDarkAutohideMod" align="middle"></center></td>
+    <td><a href="https://github.com/simoniz0r/DiscordThemes/blob/master/ArcDarkMods/ArcDarkAutohideMod.gif"><center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.gif" alt="ArcDarkAutohideMod" align="middle"></center></a></td>
   </tr>
   <tr>
     <td valign="top"><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.theme.css">VoiceOnly</a></h4><br><h4 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.theme.css" download>Download</a></h4></td>
@@ -47,6 +47,6 @@ tr:nth-child(odd) {
 <h4 align="center">If you want the theme to be transparent, you will need <a href="https://github.com/Jiiks/BetterDiscordApp">BetterDiscord</a> and the <a href="https://github.com/HoLLy-HaCKeR/BetterDiscord-Themes-and-Plugins/blob/master/Plugins/transparency_patcher.md">Transparency Patcher by HoLLy</a>.  After patching with the plugin, apply the theme in BetterDiscord's settings.  After this, you will have to reload for the transparency to take effect.  You will also have to refresh every time you restart Discord.</h4>
 <h4 align="center">If you're on Windows, you can use the <a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/DiscordClickthrough.ahk">AutoHotkey script</a> to make the Discord window be always on top and able to be clicked through.  It is set to use Discord by default, so you will have to make some edits if you're using PTB.  The default hotkey is `Ctrl+Space`</h4>
 <h4 align="center">Included in this script is a hotkey to make windowed games run in a borderless window.  The default hotkey is `Ctrl+Alt+Shift+Q`</h4></td>
-    <td><center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.gif" alt="VoiceOnly"></center></td>
+    <td><a href="https://github.com/simoniz0r/DiscordThemes/blob/master/VoiceOnly/VoiceOnly.gif"><center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.gif" alt="VoiceOnly"></center></a></td>
   </tr>
 
