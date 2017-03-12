@@ -26,7 +26,7 @@ tr:nth-child(odd) {
 </style>
 </head>
 <p><h1 align="center">Discord Themes</h1>
-<h3 align="center">A couple of themes that I have put together for Discord. They should work either in your browser with Stylish, with BeautifulDiscord, or with BetterDiscord. Feel free to use parts of my themes to create your own (please give credit if you do).</h3><br></p>
+<h3 align="center">A couple of themes that I have put together for Discord. They should work either in your browser with Stylish, with <a href="https://github.com/leovoel/BeautifulDiscord" target="_blank">BeautifulDiscord</a>, or with <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a>. Feel free to use parts of my themes to create your own (please give credit if you do).</h3><br></p>
 <table>
   <tr>
     <th>Theme</th>
