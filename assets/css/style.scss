@@ -23,6 +23,7 @@
         margin: 0 auto;
         background: #333333;
         margin: 6px auto;
+        margin-right: 6px;
         li {
             font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-weight: normal;
@@ -58,7 +59,7 @@
             }
             &.downloads {
                 float: right;
-                margin-right: 6px;
+                margin-left: 6px;
             }
             &.title {
                 float: right;
