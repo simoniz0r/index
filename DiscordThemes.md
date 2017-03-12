@@ -4,30 +4,6 @@ title: Discord Themes
 permalink: /discordthemes
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #000000;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #252525;
-}
-tr:nth-child(odd) {
-	background-color: #353535;
-}
-</style>
-</head>
 <body>
 
 <table>
@@ -50,4 +26,3 @@ tr:nth-child(odd) {
     <td><center><img src="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/VoiceOnly/VoiceOnly.gif" alt="VoiceOnly"></center></td>
   </tr>
 </body>
-</html>
