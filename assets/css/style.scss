@@ -40,11 +40,9 @@ a {
     nav {
         max-width: 100%;
         min-width: 800px;
-        margin: 0 auto;
         padding: 0 10px 0 10px;
         background: #333333;
-        margin: 6px auto;
-        margin-right: 6px;
+        margin: 6px 6px 6px 6px auto;
         li {
             font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-weight: normal;
@@ -83,9 +81,7 @@ a {
                 margin-left: 6px;
             }
             &.title {
-                float: right;
-                margin-right: 0px;
-                font-size: 11px;
+                display: none;
             }
         }
     }
