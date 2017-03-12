@@ -23,7 +23,6 @@
         margin: 0 auto;
         padding: 0 10px;
         background: #333333;
-        margin: 6px auto;
         li {
             font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-weight: normal;
@@ -63,7 +62,7 @@
             }
             &.title {
                 float: right;
-                margin-right: 10px;
+                margin-right: 0px;
                 font-size: 11px;
             }
         }
