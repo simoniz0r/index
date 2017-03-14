@@ -59,6 +59,7 @@ nav > ul.main_nav > li > a {
     font-size: 14px;
     font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
+    text-align: center;
     border-radius: 1px;
     box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
 }
