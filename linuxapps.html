@@ -38,7 +38,7 @@
                 </ul>
                 <ul class="main_nav right">
                     <li>
-                        <a href="/linuxapps.html">Linux apps</a>
+                        <a href="/linuxstuff.html">Linux stuff</a>
                     </li>
                     <li>
                         <a href="/other.html">Other Projects</a>
@@ -66,11 +66,11 @@
 table {
     border-collapse: collapse;
     margin: auto;
-    width: 25%;
+    width: 70%;
 }
 
 td, th {
-    border: 0px solid #353535;
+    border: 20px solid #252525;
     text-align: left;
     padding: 8px;
 }
@@ -83,11 +83,23 @@ tr:nth-child(odd) {
 }
 </style>
 </head>
+<table>
+  <tr>
+    <th><h3 align="center"><a href="/linuxapps.html">Linux apps</a></h3></th>
+    <th><h3 align="center"><a href="/scripts.html">Bash Scripts </a></h3></th>
+    <th><h3 align="center"><a href="/dotfiles.html">dotfiles</a></h3></th>
+    <th><h3 align="center"><a href="/kde-gaps.html">KDE-gaps</a></h3></th>
+  </tr>
+</table>
 <br>
 <table>
   <tr>
-    <th><h3 align="center"><a href="/apttool.html">apttool</a></h3></th>
-    <th><h3 align="center"><a href="/gpgpassman.html">gpgpassman</a></h3></th>
+    <td valign="center"><center><img src="https://github.com/simoniz0r/UsefulScripts/blob/master/apttool/Screenshot.png?raw=true"></center></td>
+    <td valign="top"><h3 align="left">apttool</h3><h4 align="left">A bash script that provides a simple GUI for running apt options if 'zenity' is installed; run 'apttool gui' to launch with the 'zenity' GUI. It can also be run in a terminal by executing 'apttool'.</h4><h4 align="left"><a href="https://github.com/simoniz0r/UsefulScripts/blob/master/apttool/apttool.sh" target="_blank">View Source</a></h4><h4 align="left"><a href="https://github.com/simoniz0r/UsefulScripts/releases/tag/apttool" target="_blank">Download installer</a></h4></h3></td>
+  </tr>
+  <tr>
+    <td valign="center"><center><img src="https://github.com/simoniz0r/UsefulScripts/blob/master/gpgpassman/Screenshot.png?raw=true"></center></td>
+    <td valign="top"><h3 align="left">gpgpassman</h3><h4 align="left">A bash script that uses gpg to encrypt and decrypt passwords stored in '~/.gpgpassman'. Passwords are copied to the clipboard for 45 seconds after decryption. If you have 'zenity' installed, executing 'gpgpassman gui' will launch the 'zenity' GUI. gpgpassman decryption can be ran directly through 'gpgpassman dec' for quick access to your passwords.</h4><h4 align="left"><a href="https://github.com/simoniz0r/UsefulScripts/blob/master/gpgpassman/gpgpassman.sh" target="_blank">View Source</a></h4><h4 align="left"><a href="https://github.com/simoniz0r/UsefulScripts/releases/tag/gpgpassman" target="_blank">Download installer</a></h4></td>
   </tr>
 </table>
         </section>
