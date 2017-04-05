@@ -105,6 +105,7 @@ tr:nth-child(odd) {
 <h4>Run <code>discordownloader.sh</code> and select one of the installation options.</h4>
 <h4>Some of the commands involved in the install process will require root access.</h4>
 <h4>You do not need to run this script as root; you will be asked to input your password when root access is needed.</h4>
+<h4>Note: This script can only maintain one install directory of each Discord version.  You will be prompted to remove your previous install if you try to install the same version of Discord twice.</h4>
 <ol>
 <li><p>Choose a version of Discord to install.</p>
 </li>
@@ -117,17 +118,16 @@ tr:nth-child(odd) {
 <li><p>Exit script without installing.</p>
 </li>
 </ol>
-<h4>Note: This script can only maintain one install directory of each Discord version.  You will be prompted to remove your previous install if you try to install the same version of Discord twice.</h4>
 <h4>discorddownloader can also install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> and <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a></h4>
 <ol>
-<li><p>Install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> (requires python3.x, python3-pip)</p>
+<li><p><a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> (requires python3.x, python3-pip)</p>
 <ul>
 <li><a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> is a fork of <a href="https://github.com/leovoel/BeautifulDiscord" target="_blank">beautifuldiscord</a> that can hot-load CSS and JavaScript.</li>
 <li>To use <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a>, just run it while Discord is already running.</li>
 <li><a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> requires <code>psutil</code>; the script will take care of installing it for you.  If you have an older version of psutil on your system, you should remove it before running this script or update it yourself using <code>python3-pip</code></li>
 </ul>
 </li>
-<li><p>Install <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> (requires npm, nodejs, unzip)</p>
+<li><p><a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> (requires npm, nodejs, unzip)</p>
 <ul>
 <li><a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> install uses <a href="https://github.com/Ckath/Discord-stuff/blob/master/scripts/tape.sh" target="_blank">tape.sh</a> to allow installation to any directory and with multiple Discord installs.</li>
 <li><a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> does not fully support Linux and may break at any time.</li>
