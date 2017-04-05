@@ -298,6 +298,6 @@ section #title .credits.left { float: left; }
 section #title .credits.right { float: right; }
 
 section #title p {
-  max-width: 70% !important;
+  max-width: 50% !important;
   margin: auto !important;
 }
