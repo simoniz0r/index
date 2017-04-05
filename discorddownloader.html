@@ -56,7 +56,7 @@
         <section>
             <div id="title">
                 <h1>discorddownloader</h1>
-                <p>A bash script that will download, extract, and create symbolic links for all versions of Discord on any distro. It can also be used to update all versions of Discord just by going through the installation process again. This script can also install BetterDiscord and BeautifulDiscord.  If run into any problems, join the <a href="https://discord.gg/FFWVWPA" target="_blank">discorddownloader Discord Server</a> and ask for help in #dd-help.</p>
+                <p>A bash script that will download, extract, and create symbolic links for all versions of Discord on any distro. It can also be used to update all versions of Discord just by going through the installation process again. This script can also install BetterDiscord and mydiscord.  If run into any problems, join the <a href="https://discord.gg/FFWVWPA" target="_blank">discorddownloader Discord Server</a> and ask for help in #dd-help.</p>
                 <hr>
                 <span class="credits left">Project maintained by <a href="https://github.com/simoniz0r" target="_blank">simoniz0r</a></span>
                 <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham" target="_blank">mattgraham</a>, customized by <a href="https://github.com/simoniz0r" target="_blank">simoniz0r</a> and <a href="https://github.com/pazuzu156" target="_blank">pazuzu156</a></span>
@@ -100,7 +100,8 @@ tr:nth-child(odd) {
   <tr>
 	<td valign="top"><h1 id="usage">Usage</h1>
 <h3>discorddownloader requires curl and wget.  There may be other dependencies based on which options you choose to install.</h3>
-<h3>curl is used to check for new versions of discorddownloader.  If you don't have curl installed, discorddownloader will ask if you would like to run without updating.</h3>
+<h3>curl is used to check for new versions of discorddownloader.</h3>
+<h3>dialog is used to create a GUI for discorddownloader; install dialog to check out the new GUI!</h3>
 <h4 id="run-discordownloader-sh-and-select-one-of-the-installation-options-">Run <code>discordownloader.sh</code> and select one of the installation options.</h4>
 <h4 id="some-of-the-commands-involved-in-the-install-process-will-require-root-access-">Some of the commands involved in the install process will require root access.</h4>
 <h4 id="you-do-not-need-to-run-this-script-as-root-you-will-be-asked-to-input-your-password-when-root-access-is-needed-">You do not need to run this script as root; you will be asked to input your password when root access is needed.</h4>
@@ -111,9 +112,9 @@ tr:nth-child(odd) {
 </li>
 <li><p>Discord Stable will be installed to either <code>/opt/Discord/</code> or the directory of your choice.</p>
 </li>
-<li><p>Install <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> to existing Discord install directory (requires npm, nodejs, unzip).</p>
+<li><p>Install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> (requires python3.x, python3-pip).</p>
 </li>
-<li><p>Install <a href="https://github.com/leovoel/BeautifulDiscord" target="_blank">BeautifulDiscord</a> (requires python3.x, python3-pip).</p>
+<li><p>Install <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> to existing Discord install directory (requires npm, nodejs, unzip).</p>
 </li>
 <li><p>Uninstall: choose the version of Discord to uninstall.</p>
 </li>
@@ -121,20 +122,19 @@ tr:nth-child(odd) {
 </li>
 </ol>
 <h4 id="note-this-script-can-only-maintain-one-install-directory-of-each-discord-version-you-will-be-prompted-to-remove-your-previous-install-if-you-try-to-install-the-same-version-of-discord-twice-">Note: This script can only maintain one install directory of each Discord version.  You will be prompted to remove your previous install if you try to install the same version of Discord twice.</h4>
-<h4 id="after-your-selected-version-of-discord-has-been-installed-you-will-then-be-asked-if-you-would-like-to-install-betterdiscord-or-beautifuldiscord-">After your selected version of Discord has been installed, you will then be asked if you would like to install BetterDiscord or BeautifulDiscord.</h4>
+<h4 id="after-your-selected-version-of-discord-has-been-installed-you-will-then-be-asked-if-you-would-like-to-install-betterdiscord-or-mydiscord-">After your selected version of Discord has been installed, you will then be asked if you would like to install BetterDiscord or mydiscord.</h4>
 <ol>
+<li><p>Install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> (requires python3.x, python3-pip)</p>
+<ul>
+<li>To use mydiscord, just run it while Discord is already running.</li>
+<li>mydiscord requires <code>psutil</code>; the script will take care of installing it for you.  If you have an older version of psutil on your system, you should remove it before running this script or update it yourself using <code>python3-pip</code></li>
+</ul>
+</li>
 <li><p>Install <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> (requires npm, nodejs, unzip)</p>
 <ul>
 <li>BetterDiscord install uses <a href="https://github.com/Ckath/Discord-stuff/blob/master/scripts/tape.sh" target="_blank">tape.sh</a> to allow installation to any directory and with multiple Discord installs.</li>
 <li>BetterDiscord does not fully support Linux and may break at any time.</li>
 <li>If you install BetterDiscord, I recommend grabbing the <a href="https://github.com/IRDeNial/BD-Even-Better-Repo" target="_blank">Even Better Repo</a> plugin.  It allows you to install plugins and themes through the Discord Settings menu.</li>
-</ul>
-</li>
-<li><p>Install <a href="https://github.com/leovoel/BeautifulDiscord" target="_blank">BeautifulDiscord</a> (requires python3.x, python3-pip)</p>
-<ul>
-<li>BeautifulDiscord will be installed and the <a href="https://raw.githubusercontent.com/simoniz0r/DiscordThemes/master/ArcDarkMods/ArcDarkAutohideMod.theme.css" target="_blank">Arc Dark Autohide Mod theme</a> will be downloaded to <code>~/.config/discorddownloader/ArcDarkAutohideMod.css</code></li>
-<li>To use BeautifulDiscord, run Discord, and then execute <code>beautifuldiscord --css ~/.config/discorddownloader/ArcDarkAutohideMod.css</code></li>
-<li>BeautifulDiscord requires <code>psutil</code>; the script will take care of installing it for you.  If you have an older version of psutil on your system, you should remove it before running this script or update it yourself using <code>python3-pip</code></li>
 </ul>
 </li>
 <li><p>No thanks.  Just let me use Discord.</p>
