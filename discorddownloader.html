@@ -89,7 +89,7 @@ tr:nth-child(odd) {
 <table>
   <tr>
     <th><h3 align="center"><a href="https://raw.githubusercontent.com/simoniz0r/discorddownloader/master/discorddownloader.sh" download="">Download</a></h3></th>
-    <th><h3 align="center"><a href="https://github.com/simoniz0r/discorddownloader/releases/latest" target="_blank">Releases Page</a></h3></th>
+    <th><h3 align="center"><a href="https://github.com/simoniz0r/discorddownloader/releases/tag/discorddownloader" target="_blank">Download Installer</a></h3></th>
     <th><h3 align="center"><a href="/discorddownloader.html">Usage</a></h3></th>
     <th><h3 align="center"><a href="/CHANGELOG.html">Changelog</a></h3></th>
     <th><h3 align="center"><a href="/CREDITS.html">Credits</a></h3></th>
@@ -102,15 +102,11 @@ tr:nth-child(odd) {
 <h3>discorddownloader requires curl and wget.  There may be other dependencies based on which options you choose to install.</h3>
 <h3>curl is used to check for new versions of discorddownloader.</h3>
 <h3>dialog is used to create a GUI for discorddownloader; install dialog to check out the new GUI!</h3>
-<h4 id="run-discordownloader-sh-and-select-one-of-the-installation-options-">Run <code>discordownloader.sh</code> and select one of the installation options.</h4>
-<h4 id="some-of-the-commands-involved-in-the-install-process-will-require-root-access-">Some of the commands involved in the install process will require root access.</h4>
-<h4 id="you-do-not-need-to-run-this-script-as-root-you-will-be-asked-to-input-your-password-when-root-access-is-needed-">You do not need to run this script as root; you will be asked to input your password when root access is needed.</h4>
+<h4>Run <code>discordownloader.sh</code> and select one of the installation options.</h4>
+<h4>Some of the commands involved in the install process will require root access.</h4>
+<h4>You do not need to run this script as root; you will be asked to input your password when root access is needed.</h4>
 <ol>
-<li><p>Discord Canary will be installed to either <code>/opt/DiscordCanary/</code> or the directory of your choice.</p>
-</li>
-<li><p>Discord PTB will be installed to either <code>/opt/DiscordPTB/</code> or the directory of your choice.</p>
-</li>
-<li><p>Discord Stable will be installed to either <code>/opt/Discord/</code> or the directory of your choice.</p>
+<li><p>Choose a version of Discord to install.</p>
 </li>
 <li><p>Install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> (requires python3.x, python3-pip).</p>
 </li>
@@ -121,23 +117,22 @@ tr:nth-child(odd) {
 <li><p>Exit script without installing.</p>
 </li>
 </ol>
-<h4 id="note-this-script-can-only-maintain-one-install-directory-of-each-discord-version-you-will-be-prompted-to-remove-your-previous-install-if-you-try-to-install-the-same-version-of-discord-twice-">Note: This script can only maintain one install directory of each Discord version.  You will be prompted to remove your previous install if you try to install the same version of Discord twice.</h4>
-<h4 id="after-your-selected-version-of-discord-has-been-installed-you-will-then-be-asked-if-you-would-like-to-install-betterdiscord-or-mydiscord-">After your selected version of Discord has been installed, you will then be asked if you would like to install BetterDiscord or mydiscord.</h4>
+<h4>Note: This script can only maintain one install directory of each Discord version.  You will be prompted to remove your previous install if you try to install the same version of Discord twice.</h4>
+<h4>discorddownloader can also install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> and <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a></h4>
 <ol>
 <li><p>Install <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> (requires python3.x, python3-pip)</p>
 <ul>
-<li>To use mydiscord, just run it while Discord is already running.</li>
-<li>mydiscord requires <code>psutil</code>; the script will take care of installing it for you.  If you have an older version of psutil on your system, you should remove it before running this script or update it yourself using <code>python3-pip</code></li>
+<li><a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> is a fork of <a href="https://github.com/leovoel/BeautifulDiscord" target="_blank">beautifuldiscord</a> that can hot-load CSS and JavaScript.</li>
+<li>To use <a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a>, just run it while Discord is already running.</li>
+<li><a href="https://github.com/justinoboyle/mydiscord" target="_blank">mydiscord</a> requires <code>psutil</code>; the script will take care of installing it for you.  If you have an older version of psutil on your system, you should remove it before running this script or update it yourself using <code>python3-pip</code></li>
 </ul>
 </li>
 <li><p>Install <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> (requires npm, nodejs, unzip)</p>
 <ul>
-<li>BetterDiscord install uses <a href="https://github.com/Ckath/Discord-stuff/blob/master/scripts/tape.sh" target="_blank">tape.sh</a> to allow installation to any directory and with multiple Discord installs.</li>
-<li>BetterDiscord does not fully support Linux and may break at any time.</li>
-<li>If you install BetterDiscord, I recommend grabbing the <a href="https://github.com/IRDeNial/BD-Even-Better-Repo" target="_blank">Even Better Repo</a> plugin.  It allows you to install plugins and themes through the Discord Settings menu.</li>
+<li><a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> install uses <a href="https://github.com/Ckath/Discord-stuff/blob/master/scripts/tape.sh" target="_blank">tape.sh</a> to allow installation to any directory and with multiple Discord installs.</li>
+<li><a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a> does not fully support Linux and may break at any time.</li>
+<li>If you install <a href="https://github.com/Jiiks/BetterDiscordApp" target="_blank">BetterDiscord</a>, I recommend grabbing the <a href="https://github.com/IRDeNial/BD-Even-Better-Repo" target="_blank">Even Better Repo</a> plugin.  It allows you to install plugins and themes through the Discord Settings menu.</li>
 </ul>
-</li>
-<li><p>No thanks.  Just let me use Discord.</p>
 </li>
 </ol></td>
   </tr>
