@@ -106,6 +106,7 @@ tr:nth-child(odd) {
   <tr>
 	<td valign="top"><h1 id="changelog">Changelog</h1>
 <ul>
+    <li>v1.6.7 - Moved update check to a menu option instead of running at start.  Removed 'curl' dependency by using 'wget' for update check instead, and also changed update check to read from discorddownloader.sh instead of version.txt by piping 'wget' through 'sed -n '8p''</li>
     <li>v1.6.6 - Fixed some minor bugs (thanks unrealcroissant).</li>
     <li>v1.6.5 - Kill Discord processes before uninstalling.</li>
     <li>v1.6.4 - Changed BetterDiscord install to use master version from github; if you have any issues, let me know and I'll switch back to the old method. Also added warning about BetterDiscord settings menu currently not working in Canary and PTB.</li>
