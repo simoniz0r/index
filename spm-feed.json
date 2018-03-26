@@ -7512,7 +7512,7 @@
         "aria2": "aria2",
         "name": "aria2",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7534,7 +7534,7 @@
         "audacity": "audacity",
         "name": "Audacity",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7556,7 +7556,7 @@
         "avidemux": "avidemux",
         "name": "Avidemux",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7578,7 +7578,7 @@
         "blender": "blender",
         "name": "Blender",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7600,7 +7600,7 @@
         "blubvolley": "blubvolley",
         "name": "blubVolley",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7622,7 +7622,7 @@
         "bscc": "bscc",
         "name": "bscc",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7644,7 +7644,7 @@
         "carrot-man": "carrot-man",
         "name": "carrot-man",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7666,7 +7666,7 @@
         "cura": "cura",
         "name": "Cura",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7688,7 +7688,7 @@
         "cutereport": "cutereport",
         "name": "CuteReport",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7710,7 +7710,7 @@
         "dbkoda": "dbkoda",
         "name": "dbKoda",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7732,7 +7732,7 @@
         "digikam": "digikam",
         "name": "digiKam",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7754,7 +7754,7 @@
         "drawpile": "drawpile",
         "name": "Drawpile",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7776,7 +7776,7 @@
         "easeldriver": "easeldriver",
         "name": "EaselDriver",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7798,7 +7798,7 @@
         "emu-player": "emu-player",
         "name": "emu-player",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7820,7 +7820,7 @@
         "evothings-studio": "evothings-studio",
         "name": "evothings-studio",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7842,7 +7842,7 @@
         "firefox": "firefox",
         "name": "firefox",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7864,7 +7864,7 @@
         "flexvdi": "flexvdi",
         "name": "flexVDI",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7886,7 +7886,7 @@
         "freeter": "freeter",
         "name": "Freeter",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7908,7 +7908,7 @@
         "geometrize": "geometrize",
         "name": "geometrize",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7930,7 +7930,7 @@
         "godot": "godot",
         "name": "Godot",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7952,7 +7952,7 @@
         "ibm_dsx_desktop": "ibm_dsx_desktop",
         "name": "IBM_DSX_Desktop",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7974,7 +7974,7 @@
         "ipe": "ipe",
         "name": "ipe",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -7996,7 +7996,7 @@
         "kate": "kate",
         "name": "Kate",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8018,7 +8018,7 @@
         "kdenlive": "kdenlive",
         "name": "Kdenlive",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8040,7 +8040,7 @@
         "kdevelop": "kdevelop",
         "name": "Kdevelop",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8062,7 +8062,7 @@
         "krita": "krita",
         "name": "Krita",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8084,7 +8084,7 @@
         "ldview": "ldview",
         "name": "ldview",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8106,7 +8106,7 @@
         "libreoffice": "libreoffice",
         "name": "LibreOffice",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8128,7 +8128,7 @@
         "libreofficedaily": "libreofficedaily",
         "name": "LibreOfficeDaily",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8150,7 +8150,7 @@
         "libreofficedev": "libreofficedev",
         "name": "LibreOfficeDev",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8172,7 +8172,7 @@
         "librepcb-nightly": "librepcb-nightly",
         "name": "LibrePCB-Nightly",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8194,7 +8194,7 @@
         "livezilla": "livezilla",
         "name": "LiveZilla",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8216,7 +8216,7 @@
         "mandelbulber2": "mandelbulber2",
         "name": "mandelbulber2",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8238,7 +8238,7 @@
         "medleytext": "medleytext",
         "name": "MedleyText",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8260,7 +8260,7 @@
         "mirtk": "mirtk",
         "name": "MIRTK",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8282,7 +8282,7 @@
         "mockoon": "mockoon",
         "name": "mockoon",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8304,7 +8304,7 @@
         "ms-teams-capsule": "ms-teams-capsule",
         "name": "ms-teams-capsule",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8326,7 +8326,7 @@
         "musescore": "musescore",
         "name": "MuseScore",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8348,7 +8348,7 @@
         "nbb": "nbb",
         "name": "nbb",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8370,7 +8370,7 @@
         "nextcloud": "nextcloud",
         "name": "Nextcloud",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8392,7 +8392,7 @@
         "nootka": "nootka",
         "name": "Nootka",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8414,7 +8414,7 @@
         "ocsstore": "ocsstore",
         "name": "ocsstore",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8436,7 +8436,7 @@
         "opentodolist": "opentodolist",
         "name": "OpenTodoList",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8458,7 +8458,7 @@
         "openxcom": "openxcom",
         "name": "OpenXcom",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8480,7 +8480,7 @@
         "optifmus": "optifmus",
         "name": "Optifmus",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8502,7 +8502,7 @@
         "otter-browser": "otter-browser",
         "name": "otter-browser",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8524,7 +8524,7 @@
         "owncloud": "owncloud",
         "name": "ownCloud",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8546,7 +8546,7 @@
         "peruse": "peruse",
         "name": "Peruse",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8568,7 +8568,7 @@
         "plex": "plex",
         "name": "Plex",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8590,7 +8590,7 @@
         "pomello": "pomello",
         "name": "Pomello",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8612,7 +8612,7 @@
         "prusacontrol": "prusacontrol",
         "name": "PrusaControl",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8634,7 +8634,7 @@
         "qjackctl": "qjackctl",
         "name": "QjackCtl",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8656,7 +8656,7 @@
         "qmidictl": "qmidictl",
         "name": "QmidiCtl",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8678,7 +8678,7 @@
         "qmidinet": "qmidinet",
         "name": "QmidiNet",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8700,7 +8700,7 @@
         "qownnotes": "qownnotes",
         "name": "QOwnNotes",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8722,7 +8722,7 @@
         "qsynth": "qsynth",
         "name": "Qsynth",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8744,7 +8744,7 @@
         "qtractor": "qtractor",
         "name": "Qtractor",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8766,7 +8766,7 @@
         "qupzilla": "qupzilla",
         "name": "QupZilla",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8788,7 +8788,7 @@
         "qxgedit": "qxgedit",
         "name": "QXGEdit",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8810,7 +8810,7 @@
         "red_eclipse-development": "red_eclipse-development",
         "name": "Red_Eclipse-Development",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8832,7 +8832,7 @@
         "red_eclipse-stable": "red_eclipse-stable",
         "name": "Red_Eclipse-stable",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8854,7 +8854,7 @@
         "repetier-host": "repetier-host",
         "name": "Repetier-Host",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8876,7 +8876,7 @@
         "ricin": "ricin",
         "name": "Ricin",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8898,7 +8898,7 @@
         "rpcs3": "rpcs3",
         "name": "RPCS3",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8920,7 +8920,7 @@
         "scribus": "scribus",
         "name": "Scribus",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8942,7 +8942,7 @@
         "serialplot": "serialplot",
         "name": "SerialPlot",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8964,7 +8964,7 @@
         "sigrok": "sigrok",
         "name": "Sigrok",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -8986,7 +8986,7 @@
         "simplescreenrecorder": "simplescreenrecorder",
         "name": "simplescreenrecorder",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9008,7 +9008,7 @@
         "sky": "sky",
         "name": "Sky",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9030,7 +9030,7 @@
         "skycoin": "skycoin",
         "name": "Skycoin",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9052,7 +9052,7 @@
         "snoost": "snoost",
         "name": "Snoost",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9074,7 +9074,7 @@
         "stopgo": "stopgo",
         "name": "StopGo",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9096,7 +9096,7 @@
         "stremio": "stremio",
         "name": "Stremio",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9118,7 +9118,7 @@
         "superproductivity": "superproductivity",
         "name": "superProductivity",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9140,7 +9140,7 @@
         "sylk": "sylk",
         "name": "Sylk",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9162,7 +9162,7 @@
         "synfigstudio": "synfigstudio",
         "name": "SynfigStudio",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9184,7 +9184,7 @@
         "tagflow": "tagflow",
         "name": "TagFlow",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9206,7 +9206,7 @@
         "taisei": "taisei",
         "name": "taisei",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9228,7 +9228,7 @@
         "texstudio": "texstudio",
         "name": "TeXstudio",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9250,7 +9250,7 @@
         "tubcloud": "tubcloud",
         "name": "tubCloud",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9272,7 +9272,7 @@
         "voltra": "voltra",
         "name": "Voltra",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9294,7 +9294,7 @@
         "xlights": "xlights",
         "name": "xlights",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
@@ -9316,7 +9316,7 @@
         "xnviewmp": "xnviewmp",
         "name": "XnViewMP",
         "type": "AppImage",
-        "description": null,
+        "description": "N/A",
         "authors": [
           {
             "name": "N/A",
