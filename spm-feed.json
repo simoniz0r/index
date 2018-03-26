@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Mon Mar 26 01:30:06 CDT 2018",
+  "updated_at": "Mon Mar 26 01:40:31 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -250,11 +250,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/ansiweather"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/ansiweather/releases"
         }
       ]
     },
@@ -964,11 +964,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/cantata"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/cantata/releases"
         }
       ]
     },
@@ -1531,11 +1531,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/Discord-Canary-AppImage"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/Discord-Canary-AppImage/releases"
         }
       ]
     },
@@ -1573,11 +1573,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/Discord-PTB-AppImage"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/Discord-PTB-AppImage/releases"
         }
       ]
     },
@@ -1594,11 +1594,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/Discord-AppImage"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/Discord-AppImage/releases"
         }
       ]
     },
@@ -3547,11 +3547,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/maim"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/maim/releases"
         }
       ]
     },
@@ -5773,11 +5773,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/speedtest-cli"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/speedtest-cli/releases"
         }
       ]
     },
@@ -7042,27 +7042,6 @@
       ]
     },
     {
-      "name": "xdgfetch",
-      "type": "AppImage",
-      "description": "xdgfetch - A bash script that lists system information",
-      "authors": [
-        {
-          "name": "simoniz0r",
-          "url": "https://github.com/simoniz0r"
-        }
-      ],
-      "links": [
-        {
-          "type": "GitHub",
-          "url": "simoniz0r/xdgfetch"
-        },
-        {
-         "type": "Install",
-          "url": "https://github.com/simoniz0r/xdgfetch/releases"
-        }
-      ]
-    },
-    {
       "name": "yadshot",
       "type": "AppImage",
       "description": "yadshot provides a GUI frontend for taking screenshots using imagemagickslop and uploads files and pastes to teknikio",
@@ -7080,27 +7059,6 @@
         {
          "type": "Install",
           "url": "https://github.com/simoniz0r/yadshot/releases"
-        }
-      ]
-    },
-    {
-      "name": "yad-twitch-streamlink",
-      "type": "AppImage",
-      "description": "yad-twitch-streamlink is a bash script using yad for a GUI that lists your live followed streamers from Twitch for playback using Streamlink After selecting a stream yad-twitch-streamlink opens Streamlink with the configured player and also opens the configured chat program",
-      "authors": [
-        {
-          "name": "simoniz0r",
-          "url": "https://github.com/simoniz0r"
-        }
-      ],
-      "links": [
-        {
-          "type": "GitHub",
-          "url": "simoniz0r/yad-twitch-streamlink"
-        },
-        {
-         "type": "Install",
-          "url": "https://github.com/simoniz0r/yad-twitch-streamlink/releases"
         }
       ]
     },
@@ -7479,27 +7437,6 @@
         {
           "type": "Install",
           "url": "https://s3-eu-west-1.amazonaws.com/evothings-download/evothings-studio-2.2.0-beta7.AppImage"
-        }
-      ]
-    },
-    {
-      "name": "firefox",
-      "type": "AppImage",
-      "description": "AppImage for firefox",
-      "authors": [
-        {
-          "name": "https://bintray.com/probono/AppImages",
-          "url": "https://bintray.com/probono/AppImages"
-        }
-      ],
-      "links": [
-        {
-          "type": "Other",
-          "url": "https://bintray.com/probono/AppImages"
-        },
-        {
-          "type": "Install",
-          "url": "https://bintray.com/probono/AppImages/download_file?file_path=Firefox-latest.glibc2.3.4-x86_64.AppImage"
         }
       ]
     },
