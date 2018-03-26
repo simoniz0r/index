@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Mon Mar 26 01:40:31 CDT 2018",
+  "updated_at": "Mon Mar 26 02:14:45 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -276,27 +276,6 @@
         {
          "type": "Install",
           "url": "https://github.com/klauscfhq/ao/releases"
-        }
-      ]
-    },
-    {
-      "name": "appimagebuild",
-      "type": "AppImage",
-      "description": "spm-repo - spm's package repository containing the information for installing and maintianing AppImages and precompiled tar packages",
-      "authors": [
-        {
-          "name": "simoniz0r",
-          "url": "https://github.com/simoniz0r"
-        }
-      ],
-      "links": [
-        {
-          "type": "GitHub",
-          "url": "simoniz0r/spm-repo"
-        },
-        {
-         "type": "Install",
-          "url": "https://github.com/simoniz0r/spm-repo/releases"
         }
       ]
     },
@@ -1389,6 +1368,27 @@
         {
          "type": "Install",
           "url": "https://github.com/datproject/dat-desktop/releases"
+        }
+      ]
+    },
+    {
+      "name": "deb2appimage",
+      "type": "AppImage",
+      "description": "Build AppImages from deb packages on any distro with simple json configuration",
+      "authors": [
+        {
+          "name": "simoniz0r",
+          "url": "https://github.com/simoniz0r"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "simoniz0r/deb2appimage"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/simoniz0r/deb2appimage/releases"
         }
       ]
     },
