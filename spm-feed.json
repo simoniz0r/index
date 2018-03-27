@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Mon Mar 26 02:46:04 CDT 2018",
+  "updated_at": "Mon Mar 26 22:52:58 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -4062,7 +4062,7 @@
     {
       "name": "neofetch",
       "type": "AppImage",
-      "description": "This repository contains appimagebuild and AppImage build scripts for building AppImages easily",
+      "description": "A fast highly customizable system info script that supports a variety of OSes",
       "authors": [
         {
           "name": "simoniz0r",
@@ -4072,11 +4072,11 @@
       "links": [
         {
           "type": "GitHub",
-          "url": "simoniz0r/AppImages"
+          "url": "simoniz0r/neofetch"
         },
         {
          "type": "Install",
-          "url": "https://github.com/simoniz0r/AppImages/releases"
+          "url": "https://github.com/simoniz0r/neofetch/releases"
         }
       ]
     },
