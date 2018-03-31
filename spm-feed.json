@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Mon Mar 26 22:52:58 CDT 2018",
+  "updated_at": "Sat Mar 31 00:15:08 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -1095,6 +1095,27 @@
         {
          "type": "Install",
           "url": "https://github.com/martinribelotta/embedded-ide-builder/releases"
+        }
+      ]
+    },
+    {
+      "name": "CleepDesktop",
+      "type": "AppImage",
+      "description": "Desktop application to manage your Cleep devices",
+      "authors": [
+        {
+          "name": "tangb",
+          "url": "https://github.com/tangb"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "tangb/CleepDesktop"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/tangb/CleepDesktop/releases"
         }
       ]
     },
@@ -4165,6 +4186,27 @@
       ]
     },
     {
+      "name": "Nitrokey",
+      "type": "AppImage",
+      "description": "Manage your Nitrokey devices",
+      "authors": [
+        {
+          "name": "Nitrokey",
+          "url": "https://github.com/Nitrokey"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "Nitrokey/nitrokey-app"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/Nitrokey/nitrokey-app/releases"
+        }
+      ]
+    },
+    {
       "name": "notepadqq",
       "type": "AppImage",
       "description": "notepadqq - Notepad-like editor for Linux",
@@ -5152,6 +5194,27 @@
       ]
     },
     {
+      "name": "QuickTwitch",
+      "type": "AppImage",
+      "description": "electron-react-redux-boilerplate",
+      "authors": [
+        {
+          "name": "mhmiles",
+          "url": "https://github.com/mhmiles"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "mhmiles/QuickTwitch"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/mhmiles/QuickTwitch/releases"
+        }
+      ]
+    },
+    {
       "name": "QuickViewer",
       "type": "AppImage",
       "description": "quickviewer - A imagecomic viewer application for Windows and Linux it can show images very fast",
@@ -5803,6 +5866,27 @@
       ]
     },
     {
+      "name": "SPlayer",
+      "type": "AppImage",
+      "description": "a media player",
+      "authors": [
+        {
+          "name": "chiflix",
+          "url": "https://github.com/chiflix"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "chiflix/splayerx"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/chiflix/splayerx/releases"
+        }
+      ]
+    },
+    {
       "name": "spm",
       "type": "AppImage",
       "description": "spm is a simple commandline package manager that installs AppImages and precompiled tar archives",
@@ -6450,6 +6534,27 @@
         {
          "type": "Install",
           "url": "https://github.com/champloohq/tusk/releases"
+        }
+      ]
+    },
+    {
+      "name": "tweet-tray",
+      "type": "AppImage",
+      "description": "Tweet quickly from the desktop without any more distractions.",
+      "authors": [
+        {
+          "name": "jonathontoon",
+          "url": "https://github.com/jonathontoon"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "jonathontoon/tweet-tray"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/jonathontoon/tweet-tray/releases"
         }
       ]
     },
@@ -7695,7 +7800,7 @@
     {
       "name": "LibreOfficeDev",
       "type": "AppImage",
-      "description": "The office productivity suite compatible to the open and standardized ODF document   format. Supported by The Document Foundation. ",
+      "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation. ",
       "authors": [
         {
           "name": "null",
@@ -8241,7 +8346,7 @@
     {
       "name": "QOwnNotes",
       "type": "AppImage",
-      "description": "Plain text notepad and todo list manager with markdown support that works together   with ownCloud/Nextcloud ",
+      "description": "Plain text notepad and todo list manager with markdown support that works together with ownCloud/Nextcloud ",
       "authors": [
         {
           "name": "null",
