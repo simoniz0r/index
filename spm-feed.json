@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Sun Apr  1 12:12:14 CDT 2018",
+  "updated_at": "Sun Apr  1 12:25:40 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -3825,6 +3825,27 @@
         {
          "type": "Install",
           "url": "https://github.com/marcoancona/MineTime/releases"
+        }
+      ]
+    },
+    {
+      "name": "Minions",
+      "type": "AppImage",
+      "description": "null",
+      "authors": [
+        {
+          "name": "blahgeek",
+          "url": "https://github.com/blahgeek"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "blahgeek/Minions"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/blahgeek/Minions/releases"
         }
       ]
     },
