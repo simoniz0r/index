@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Sun Apr  1 12:25:40 CDT 2018",
+  "updated_at": "Sun Apr  1 13:40:26 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -843,6 +843,27 @@
         {
          "type": "Install",
           "url": "https://github.com/Microsoft/BotFramework-Emulator/releases"
+        }
+      ]
+    },
+    {
+      "name": "BottleBats",
+      "type": "AppImage",
+      "description": "Client for the 2018 edition of the BottleBats AI competition",
+      "authors": [
+        {
+          "name": "ZeusWPI",
+          "url": "https://github.com/ZeusWPI"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "ZeusWPI/MOZAIC"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/ZeusWPI/MOZAIC/releases"
         }
       ]
     },
@@ -3636,6 +3657,27 @@
         {
          "type": "Install",
           "url": "https://github.com/hql287/Manta/releases"
+        }
+      ]
+    },
+    {
+      "name": "marktext",
+      "type": "AppImage",
+      "description": "Next generation markdown editor",
+      "authors": [
+        {
+          "name": "marktext",
+          "url": "https://github.com/marktext"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "marktext/marktext"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/marktext/marktext/releases"
         }
       ]
     },
