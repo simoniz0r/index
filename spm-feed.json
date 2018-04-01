@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Sat Mar 31 00:15:08 CDT 2018",
+  "updated_at": "Sun Apr  1 08:52:11 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -4669,6 +4669,27 @@
       ]
     },
     {
+      "name": "Pext",
+      "type": "AppImage",
+      "description": "",
+      "authors": [
+        {
+          "name": "Pext",
+          "url": "https://github.com/Pext"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "Pext/Pext"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/Pext/Pext/releases"
+        }
+      ]
+    },
+    {
       "name": "PhotoFlow",
       "type": "AppImage",
       "description": "PhotoFlow - A fully non-destructive photo retouching program providing a complete layer-based workflow including RAW image development",
@@ -6891,6 +6912,27 @@
         {
          "type": "Install",
           "url": "https://github.com/vterm/vterm/releases"
+        }
+      ]
+    },
+    {
+      "name": "vue-calc",
+      "type": "AppImage",
+      "description": "An electron-vue project",
+      "authors": [
+        {
+          "name": "el3um4s",
+          "url": "https://github.com/el3um4s"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "el3um4s/vue-calc"
+        },
+        {
+         "type": "Install",
+          "url": "https://github.com/el3um4s/vue-calc/releases"
         }
       ]
     },
