@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Tue Apr 10 00:46:08 CDT 2018",
+  "updated_at": "Tue Apr 10 22:42:24 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -24,6 +24,14 @@
         {
           "type": "Install",
           "url": "https://github.com/makinacorpus/accessimap-lecteur-der/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -46,6 +54,14 @@
           "type": "Install",
           "url": "https://github.com/TroopTrack/AHGequip/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -66,6 +82,14 @@
         {
           "type": "Install",
           "url": "https://github.com/jmerle/ai-bot-workspace/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -88,6 +112,14 @@
           "type": "Install",
           "url": "https://github.com/AidosKuneen/aidos-wallet/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -108,6 +140,14 @@
         {
           "type": "Install",
           "url": "https://github.com/rockiger/akiee-release/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -130,6 +170,14 @@
           "type": "Install",
           "url": "https://github.com/Xstoudi/alduin/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -150,6 +198,14 @@
         {
           "type": "Install",
           "url": "https://github.com/sigoden/alphat/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -172,6 +228,14 @@
           "type": "Install",
           "url": "https://github.com/imolorhe/altair/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -192,6 +256,14 @@
         {
           "type": "Install",
           "url": "https://github.com/coryo/amphetype2/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -214,6 +286,14 @@
           "type": "Install",
           "url": "https://github.com/learningmedia/anavis/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -234,6 +314,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Artanidos/AnimationMaker/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -256,6 +344,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/ansiweather/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -276,6 +372,14 @@
         {
           "type": "Install",
           "url": "https://github.com/klauscfhq/ao/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -298,6 +402,14 @@
           "type": "Install",
           "url": "https://github.com/AppImage/AppImageKit/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -318,6 +430,14 @@
         {
           "type": "Install",
           "url": "https://github.com/simoniz0r/AppImageHub-Electron/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -340,6 +460,14 @@
           "type": "Install",
           "url": "https://github.com/AppImage/AppImageKit/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -360,6 +488,14 @@
         {
           "type": "Install",
           "url": "https://github.com/AppImage/AppImageUpdate/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -382,6 +518,14 @@
           "type": "Install",
           "url": "https://github.com/AppImage/AppImageUpdate/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -402,6 +546,14 @@
         {
           "type": "Install",
           "url": "https://github.com/appium/appium-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -424,6 +576,14 @@
           "type": "Install",
           "url": "https://github.com/MichaelMure/Arbore/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -444,6 +604,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/aria2-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -466,6 +634,14 @@
           "type": "Install",
           "url": "https://github.com/ZencashOfficial/arizen/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -486,6 +662,14 @@
         {
           "type": "Install",
           "url": "https://github.com/uzudil/arkona2/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -508,6 +692,14 @@
           "type": "Install",
           "url": "https://github.com/sithlord48/atcore/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -528,6 +720,14 @@
         {
           "type": "Install",
           "url": "https://bintray.com/probono/AppImages/download_file?file_path=Audacity-2.1.2.glibc2.15-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -550,6 +750,14 @@
           "type": "Install",
           "url": "https://github.com/Superjo149/auryo/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -570,6 +778,14 @@
         {
           "type": "Install",
           "url": "http://www.avidemux.org/nightly/appImage/avidemuxUniversal_amd64_170814_112.app"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -592,6 +808,14 @@
           "type": "Install",
           "url": "https://github.com/Symbian9/azpainter/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -612,6 +836,14 @@
         {
           "type": "Install",
           "url": "https://github.com/shizkun/manga-viewer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -634,6 +866,14 @@
           "type": "Install",
           "url": "https://github.com/mike-engel/Barnacal/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -654,6 +894,14 @@
         {
           "type": "Install",
           "url": "https://github.com/dsslimshaddy/barter-dex/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -676,6 +924,14 @@
           "type": "Install",
           "url": "https://github.com/Azure/BatchLabs/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -696,6 +952,14 @@
         {
           "type": "Install",
           "url": "https://github.com/beakerbrowser/beaker/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -718,6 +982,14 @@
           "type": "Install",
           "url": "https://github.com/fr33mind/Belle/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -738,6 +1010,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Sriep/Bezique/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -760,6 +1040,14 @@
           "type": "Install",
           "url": "https://github.com/haimich/billy/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -780,6 +1068,14 @@
         {
           "type": "Install",
           "url": "https://github.com/bitshares/bitshares-ui/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -802,6 +1098,14 @@
           "type": "Install",
           "url": "https://github.com/sithlord48/blackchocobo/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -822,6 +1126,14 @@
         {
           "type": "Install",
           "url": "https://github.com/sorentycho/blackmirror/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -844,6 +1156,14 @@
           "type": "Install",
           "url": "https://bintray.com/probono/AppImages/download_file?file_path=Blender-2.78c.glibc2.17-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -864,6 +1184,14 @@
         {
           "type": "Install",
           "url": "https://github.com/todbot/Blink1Control2/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -886,6 +1214,14 @@
           "type": "Install",
           "url": "https://www.blub-game.com/d/linux64/blubVolley.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -906,6 +1242,14 @@
         {
           "type": "Install",
           "url": "https://github.com/layerssss/bnb/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -928,6 +1272,14 @@
           "type": "Install",
           "url": "https://github.com/bodhiproject/bodhi-app/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -948,6 +1300,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Microsoft/BotFramework-Emulator/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -970,6 +1330,14 @@
           "type": "Install",
           "url": "https://github.com/ZeusWPI/MOZAIC/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -990,6 +1358,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ReproNim/brainverse/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1012,6 +1388,14 @@
           "type": "Install",
           "url": "https://ftp.brainsick.cc/pub/brainsick/bscc/v0.2.1/bscc-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1032,6 +1416,14 @@
         {
           "type": "Install",
           "url": "https://github.com/BunqCommunity/BunqDesktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1054,6 +1446,14 @@
           "type": "Install",
           "url": "https://github.com/buttercup/buttercup-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1074,6 +1474,14 @@
         {
           "type": "Install",
           "url": "https://github.com/calculist/calculist-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1096,6 +1504,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/cantata/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1116,6 +1532,14 @@
         {
           "type": "Install",
           "url": "https://github.com/sindresorhus/caprine/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1138,6 +1562,14 @@
           "type": "Install",
           "url": "https://w3g3a5v6.ssl.hwcdn.net/upload2/game/103038/336578?GoogleAccessId=507810471102@developer.gserviceaccount.com&Expires=1503077834&Signature=NSYPG%2BkIUcaRPBlPAc15LuwpaU8dyvVg3oxmhqQQFsZz5EZDWRhkXw%2BhgJmO3YBatUzddOCWFQw74UotyejxmisbrmeOtZltymQ7Mk1%2FSC2wsHd3nesYcAnqkMOP%2Bn5QMNce9LMgiViiiCgK4rnGnhcJUHZT5Spi1OnS4VAk%2B8U=&hwexp=1503078094&hwsig=b782d9d0cc39a126e7f4a1b5db855a5f"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1158,6 +1590,14 @@
         {
           "type": "Install",
           "url": "https://github.com/CARTAvis/carta/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1180,6 +1620,14 @@
           "type": "Install",
           "url": "https://github.com/CCI-Tools/cate/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1200,6 +1648,14 @@
         {
           "type": "Install",
           "url": "https://github.com/cerebral/cerebral-debugger/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1222,6 +1678,14 @@
           "type": "Install",
           "url": "https://github.com/KELiON/cerebro/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1242,6 +1706,14 @@
         {
           "type": "Install",
           "url": "https://github.com/chigraph/chigraph/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1264,6 +1736,14 @@
           "type": "Install",
           "url": "https://github.com/martinribelotta/embedded-ide-builder/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1284,6 +1764,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tangb/CleepDesktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1306,6 +1794,14 @@
           "type": "Install",
           "url": "https://github.com/Toinane/colorpicker/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1326,6 +1822,14 @@
         {
           "type": "Install",
           "url": "https://github.com/cozy-labs/cozy-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1348,6 +1852,14 @@
           "type": "Install",
           "url": "https://github.com/Kthulu120/Cryplicity/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1368,6 +1880,14 @@
         {
           "type": "Install",
           "url": "https://github.com/HR/Crypter/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1390,6 +1910,14 @@
           "type": "Install",
           "url": "https://github.com/CuarzoSoftware/CuarzoBrowser/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1410,6 +1938,14 @@
         {
           "type": "Install",
           "url": "https://github.com/cjcliffe/CubicSDR/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1432,6 +1968,14 @@
           "type": "Install",
           "url": "https://github.com/z-------------/cumulonimbus/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1452,6 +1996,14 @@
         {
           "type": "Install",
           "url": "https://github.com/vadrian89/cumulus-qt/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1474,6 +2026,14 @@
           "type": "Install",
           "url": "https://software.ultimaker.com/current/Cura-2.7.0.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1494,6 +2054,14 @@
         {
           "type": "Install",
           "url": "https://github.com/labsquare/CutePeaks/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1516,6 +2084,14 @@
           "type": "Install",
           "url": "https://sourceforge.net/projects/qreport/files/Linux/CuteReport-GPL-1.3.2.AppImage/download"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1536,6 +2112,14 @@
         {
           "type": "Install",
           "url": "https://github.com/radareorg/cutter/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1558,6 +2142,14 @@
           "type": "Install",
           "url": "https://github.com/b00f/dana/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1578,6 +2170,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tuna/danmaQ/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1600,6 +2200,14 @@
           "type": "Install",
           "url": "https://github.com/datproject/dat-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1620,6 +2228,14 @@
         {
           "type": "Install",
           "url": "https://s3-us-west-1.amazonaws.com/uswest-nc.release.dbkoda/dbkoda-latest.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1642,6 +2258,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/deb2appimage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1662,6 +2286,14 @@
         {
           "type": "Install",
           "url": "https://github.com/DeDop/dedop-studio/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1684,6 +2316,14 @@
           "type": "Install",
           "url": "https://github.com/egoist/devdocs-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1704,6 +2344,14 @@
         {
           "type": "Install",
           "url": "https://github.com/free-easy/DeviceInterface/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1726,6 +2374,14 @@
           "type": "Install",
           "url": "https://github.com/devination-docs/devination/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1746,6 +2402,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tahnik/devRantron/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1768,6 +2432,14 @@
           "type": "Install",
           "url": "https://github.com/cfry/dde/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1788,6 +2460,14 @@
         {
           "type": "Install",
           "url": "https://download.kde.org/stable/digikam/digikam-5.7.0-01-x86-64.appimage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1810,6 +2490,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/Discord-Canary-AppImage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1830,6 +2518,14 @@
         {
           "type": "Install",
           "url": "https://github.com/simoniz0r/discord-css-injection/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1852,6 +2548,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/Discord-PTB-AppImage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1872,6 +2576,14 @@
         {
           "type": "Install",
           "url": "https://github.com/simoniz0r/Discord-AppImage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1894,6 +2606,14 @@
           "type": "Install",
           "url": "https://github.com/harshjv/donut/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1914,6 +2634,14 @@
         {
           "type": "Install",
           "url": "https://github.com/peteboothroyd/Dragoman/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1936,6 +2664,14 @@
           "type": "Install",
           "url": "https://github.com/jgraph/drawio-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1956,6 +2692,14 @@
         {
           "type": "Install",
           "url": "https://drawpile.net/files/appimage/Drawpile-2.0.5.1.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -1978,6 +2722,14 @@
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/mastercactapus/AppImage/EaselDriver-0.3.8-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -1998,6 +2750,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Tympanix/Electorrent/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2020,6 +2780,14 @@
           "type": "Install",
           "url": "https://github.com/FormidableLabs/electron-webpack-dashboard/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2040,6 +2808,14 @@
         {
           "type": "Install",
           "url": "https://github.com/eNkru/electron-xiami/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2062,6 +2838,14 @@
           "type": "Install",
           "url": "https://github.com/probonopd/Emacs.AppImage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2082,6 +2866,14 @@
         {
           "type": "Install",
           "url": "https://github.com/martinribelotta/embedded-ide/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2104,6 +2896,14 @@
           "type": "Install",
           "url": "https://github.com/Emotyco/Emoty-Desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2124,6 +2924,14 @@
         {
           "type": "Install",
           "url": "https://downloads.emustream.tv/emu-player-64-1.0.5.appimage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2146,6 +2954,14 @@
           "type": "Install",
           "url": "https://github.com/evpo/EncryptPad/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2166,6 +2982,14 @@
         {
           "type": "END",
           "url": "END"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2188,6 +3012,14 @@
           "type": "Install",
           "url": "https://github.com/envkey/envkey-ui/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2208,6 +3040,14 @@
         {
           "type": "Install",
           "url": "https://github.com/epl-viz/EPL-Viz/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2230,6 +3070,14 @@
           "type": "Install",
           "url": "https://github.com/Eqonomize/Eqonomize/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2250,6 +3098,14 @@
         {
           "type": "Install",
           "url": "https://github.com/felix557700/erdesigner/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2272,6 +3128,14 @@
           "type": "Install",
           "url": "https://s3-eu-west-1.amazonaws.com/evothings-download/evothings-studio-2.2.0-beta7.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2292,6 +3156,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tbrouns/eyestalker/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2314,6 +3186,14 @@
           "type": "Install",
           "url": "https://github.com/plotly/falcon-sql-client/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2334,6 +3214,14 @@
         {
           "type": "Install",
           "url": "https://github.com/labsquare/fastQt/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2356,6 +3244,14 @@
           "type": "Install",
           "url": "https://github.com/matthieuy/feedseries/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2376,6 +3272,14 @@
         {
           "type": "Install",
           "url": "https://github.com/hunterjm/fifa-autobuyer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2398,6 +3302,14 @@
           "type": "Install",
           "url": "https://github.com/CarVac/filmulator-gui/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2418,6 +3330,14 @@
         {
           "type": "Install",
           "url": "https://github.com/lupoDharkael/flameshot/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2440,6 +3360,14 @@
           "type": "Install",
           "url": "https://github.com/Artanidos/FlatSiteBuilder/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2460,6 +3388,14 @@
         {
           "type": "Install",
           "url": "http://depot.flexvdi.com/clients/linux-x86_64/flexvdi-linux-client-2.2.12-3-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2482,6 +3418,14 @@
           "type": "Install",
           "url": "https://github.com/foxfolio/foxfolio-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2502,6 +3446,14 @@
         {
           "type": "Install",
           "url": "https://github.com/meetfranz/franz/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2524,6 +3476,14 @@
           "type": "Install",
           "url": "https://github.com/FreeCAD/FreeCAD/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2544,6 +3504,14 @@
         {
           "type": "Install",
           "url": "https://freeter.io/download/Freeter.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2566,6 +3534,14 @@
           "type": "Install",
           "url": "https://github.com/fulcrumapp/fulcrum-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2586,6 +3562,14 @@
         {
           "type": "Install",
           "url": "https://github.com/trufflesuite/ganache/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2608,6 +3592,14 @@
           "type": "Install",
           "url": "https://geometrize-installer-bucket.s3.amazonaws.com/linux/geometrize_200.1_linux_g%2B%2B-7.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2628,6 +3620,14 @@
         {
           "type": "Install",
           "url": "https://github.com/groupgets/GetThermal/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2650,6 +3650,14 @@
           "type": "Install",
           "url": "https://github.com/Vladar4/ng2gggrotto/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2670,6 +3678,14 @@
         {
           "type": "Install",
           "url": "https://github.com/lettier/gifcurry/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2692,6 +3708,14 @@
           "type": "Install",
           "url": "https://github.com/aferrero2707/gimp-appimage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2712,6 +3736,14 @@
         {
           "type": "Download",
           "url": "https://github.com/gingko/client/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2734,6 +3766,14 @@
           "type": "Install",
           "url": "https://github.com/jojobyte/githoard/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2754,6 +3794,14 @@
         {
           "type": "Install",
           "url": "https://github.com/shiftkey/desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2776,6 +3824,14 @@
           "type": "Install",
           "url": "https://github.com/jimevins/glabels-qt/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2796,6 +3852,14 @@
         {
           "type": "Install",
           "url": "https://dl.bintray.com/calinou/godot/Godot-Linux-x86_64-2017-08-18.445b0ab.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2818,6 +3882,14 @@
           "type": "Install",
           "url": "https://github.com/csete/gpredict/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2838,6 +3910,14 @@
         {
           "type": "Install",
           "url": "https://github.com/nikolio/GradeStats/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2860,6 +3940,14 @@
           "type": "Install",
           "url": "https://github.com/bompi88/grand-view/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2880,6 +3968,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Gulden/gulden-official/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2902,6 +3998,14 @@
           "type": "Install",
           "url": "https://github.com/vim/vim-appimage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2922,6 +4026,14 @@
         {
           "type": "Install",
           "url": "https://github.com/JBBgameich/halium-install/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2944,6 +4056,14 @@
           "type": "Install",
           "url": "https://github.com/niklasi/halland-proxy/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -2964,6 +4084,14 @@
         {
           "type": "Install",
           "url": "https://github.com/vincelwt/harmony/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -2986,6 +4114,14 @@
           "type": "Download",
           "url": "https://github.com/aferrero2707/hdrmerge-appimage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3006,6 +4142,14 @@
         {
           "type": "Install",
           "url": "https://github.com/zhuzhuyule/HexoEditor/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3028,6 +4172,14 @@
           "type": "Install",
           "url": "https://github.com/matthinc/HomeAssistantElectron/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3048,6 +4200,14 @@
         {
           "type": "Install",
           "url": "https://github.com/KDAB/hotspot/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3070,6 +4230,14 @@
           "type": "Install",
           "url": "https://github.com/KurtPfeifle/htmldoc/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3090,6 +4258,14 @@
         {
           "type": "Install",
           "url": "https://github.com/zeit/hyper/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3112,6 +4288,14 @@
           "type": "Install",
           "url": "https://dsx-private-cloud.mybluemix.net/public/desktop/IBM_DSX_Desktop.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3132,6 +4316,14 @@
         {
           "type": "Install",
           "url": "https://github.com/FPGAwars/icestudio/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3154,6 +4346,14 @@
           "type": "Install",
           "url": "https://github.com/trazyn/ieaseMusic/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3174,6 +4374,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ifedapoolarewaju/igdm/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3196,6 +4404,14 @@
           "type": "Install",
           "url": "https://github.com/shahidhk/iitm-network-auth-app/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3216,6 +4432,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ImageMagick/ImageMagick/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3238,6 +4462,14 @@
           "type": "Install",
           "url": "https://github.com/cpvrlab/ImagePlay/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3258,6 +4490,14 @@
         {
           "type": "Install",
           "url": "https://github.com/meowtec/Imagine/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3280,6 +4520,14 @@
           "type": "Install",
           "url": "https://github.com/ridaamirini/ImapSyncClient/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3300,6 +4548,14 @@
         {
           "type": "Install",
           "url": "https://github.com/denysdovhan/inboxer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3322,6 +4578,14 @@
           "type": "Install",
           "url": "https://github.com/InfiniteLibrary/infinite-electron/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3342,6 +4606,14 @@
         {
           "type": "Install",
           "url": "https://github.com/fetacore/Infinitex/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3364,6 +4636,14 @@
           "type": "Install",
           "url": "https://github.com/getinsomnia/insomnia/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3384,6 +4664,14 @@
         {
           "type": "Download",
           "url": "https://github.com/antony-jr/instagram-py/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3406,6 +4694,14 @@
           "type": "Install",
           "url": "https://github.com/bhavyaagg/Invoice-Generator-Electron/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3426,6 +4722,14 @@
         {
           "type": "Install",
           "url": "https://github.com/simoniz0r/AppImages/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3448,6 +4752,14 @@
           "type": "Install",
           "url": "https://github.com/xx10t4/iota1k/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3468,6 +4780,14 @@
         {
           "type": "Install",
           "url": "https://github.com/iotaledger/iota-gui-beta/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3490,6 +4810,14 @@
           "type": "Install",
           "url": "https://dl.bintray.com/otfried/generic/ipe/7.2/ipe-7.2.7-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3510,6 +4838,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ElTh0r0/iqpuzzle/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3532,6 +4868,14 @@
           "type": "Install",
           "url": "https://github.com/irccloud/irccloud-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3552,6 +4896,14 @@
         {
           "type": "Install",
           "url": "https://github.com/OSSIA/i-score/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3574,6 +4926,14 @@
           "type": "Install",
           "url": "https://github.com/seleznevae/jag/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3594,6 +4954,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Jaxx-io/Jaxx/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3616,6 +4984,14 @@
           "type": "Install",
           "url": "https://github.com/icewolfz/jiMUD/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3636,6 +5012,14 @@
         {
           "type": "Install",
           "url": "https://github.com/anthonyraymond/joal-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3658,6 +5042,14 @@
           "type": "Install",
           "url": "https://github.com/laurent22/joplin/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3678,6 +5070,14 @@
         {
           "type": "Install",
           "url": "https://github.com/stedolan/jq/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3700,6 +5100,14 @@
           "type": "Install",
           "url": "https://github.com/Gilad-Kutiel-App/jumpfm/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3720,6 +5128,14 @@
         {
           "type": "Install",
           "url": "https://github.com/KaidanIM/Kaidan/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3742,6 +5158,14 @@
           "type": "Install",
           "url": "http://download.kde.org/unstable/kate/Kate-16.08-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3762,6 +5186,14 @@
         {
           "type": "Install",
           "url": "https://github.com/christian-mv/kate_pdf_converter/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3784,6 +5216,14 @@
           "type": "Install",
           "url": "https://api.github.com/repos/Kylart/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3804,6 +5244,14 @@
         {
           "type": "Install",
           "url": "http://files.kde.org/kdenlive/release/Kdenlive-17.12.0d-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3826,6 +5274,14 @@
           "type": "Install",
           "url": "http://kfunk.ddns.net:8080/job/kdevelop-appimage-centos/lastSuccessfulBuild/artifact/KDevelop-git-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3846,6 +5302,14 @@
         {
           "type": "Install",
           "url": "https://github.com/keepassxreboot/keepassxc/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3868,6 +5332,14 @@
           "type": "Install",
           "url": "https://github.com/Arquanite/KettleClient/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3888,6 +5360,14 @@
         {
           "type": "Install",
           "url": "https://github.com/cknave/kevedit/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3910,6 +5390,14 @@
           "type": "Install",
           "url": "https://download.kde.org/stable/krita/4.0.0/krita-4.0.0-x86_64.appimage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3930,6 +5418,14 @@
         {
           "type": "Install",
           "url": "https://github.com/DamirPorobic/ksnip/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3952,6 +5448,14 @@
           "type": "Install",
           "url": "https://github.com/keshavbhatt/Ktube-media-downloader/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -3972,6 +5476,14 @@
         {
           "type": "Install",
           "url": "https://github.com/crapp/labpowerqt/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -3994,6 +5506,14 @@
           "type": "Install",
           "url": "https://github.com/christofferok/langly/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4014,6 +5534,14 @@
         {
           "type": "Install",
           "url": "https://github.com/LaserWeb/LaserWeb4-Binaries/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4036,6 +5564,14 @@
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/pbartfai/AppImage/ldview-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4056,6 +5592,14 @@
         {
           "type": "Install",
           "url": "https://github.com/leozide/leocad/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4078,6 +5622,14 @@
           "type": "Install",
           "url": "https://github.com/hackjutsu/Lepton/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4098,6 +5650,14 @@
         {
           "type": "Install",
           "url": "https://libreoffice.soluzioniopen.com/daily/LibreOfficeDev-daily-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4120,6 +5680,14 @@
           "type": "Install",
           "url": "https://libreoffice.soluzioniopen.com/stable/standard/LibreOffice-fresh.standard-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4140,6 +5708,14 @@
         {
           "type": "Install",
           "url": "https://libreoffice.soluzioniopen.com/stable/standard/LibreOffice-still.standard-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4162,6 +5738,14 @@
           "type": "Install",
           "url": "https://dl.bintray.com/librepcb/LibrePCB-Nightly/LibrePCB-Nightly-Linux-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4182,6 +5766,14 @@
         {
           "type": "Install",
           "url": "https://github.com/probonopd/linuxdeployqt/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4204,6 +5796,14 @@
           "type": "Install",
           "url": "https://github.com/janekolszak/quizgenerator/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4224,6 +5824,14 @@
         {
           "type": "Install",
           "url": "https://github.com/LiskHQ/lisk-nano/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4246,6 +5854,14 @@
           "type": "Install",
           "url": "http://www.livezilla.net/downloads/pubfiles/livezilla_app_linux_x64_1.1.0.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4266,6 +5882,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tresf/lmms/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4288,6 +5912,14 @@
           "type": "Install",
           "url": "https://github.com/lcherone/lxd-ui/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4308,6 +5940,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Aztorius/magicfountain/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4330,6 +5970,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/maim/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4350,6 +5998,14 @@
         {
           "type": "Install",
           "url": "https://github.com/myst6re/makoureactor/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4372,6 +6028,14 @@
           "type": "Install",
           "url": "https://github.com/Cloud-V/Malice/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4392,6 +6056,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/lachs0r:/mandelbulber2/AppImage/mandelbulber2-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4414,6 +6086,14 @@
           "type": "Install",
           "url": "https://github.com/hql287/Manta/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4434,6 +6114,14 @@
         {
           "type": "Install",
           "url": "https://github.com/marktext/marktext/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4456,6 +6144,14 @@
           "type": "Install",
           "url": "https://github.com/akaJes/marlin-config/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4476,6 +6172,14 @@
         {
           "type": "Install",
           "url": "https://github.com/LightouchDev/MasterVyrn/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4498,6 +6202,14 @@
           "type": "Install",
           "url": "https://github.com/eugenemel/maven/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4518,6 +6230,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Arquanite/MazeSolver/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4540,6 +6260,14 @@
           "type": "Install",
           "url": "https://github.com/perry-mitchell/mead/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4560,6 +6288,14 @@
         {
           "type": "Install",
           "url": "https://github.com/willyb321/media_mate/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4582,6 +6318,14 @@
           "type": "Install",
           "url": "https://github.com/ex0dus-0x/medium-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4602,6 +6346,14 @@
         {
           "type": "Install",
           "url": "https://s3.amazonaws.com/medleytext/releases/medley-latest.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4624,6 +6376,14 @@
           "type": "Install",
           "url": "https://github.com/ColinDuquesnoy/MellowPlayer/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4644,6 +6404,14 @@
         {
           "type": "Install",
           "url": "https://github.com/marcoancona/MineTime/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4666,6 +6434,14 @@
           "type": "Install",
           "url": "https://github.com/blahgeek/Minions/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4686,6 +6462,14 @@
         {
           "type": "Install",
           "url": "https://dl.bintray.com/schuhschuh/AppImages/MIRTK-latest-x86_64-glibc2.14.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4708,6 +6492,14 @@
           "type": "Install",
           "url": "https://github.com/csprance/MisRCON/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4728,6 +6520,14 @@
         {
           "type": "Install",
           "url": "https://github.com/nandub/Mitmproxy.AppImage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4750,6 +6550,14 @@
           "type": "Install",
           "url": "https://github.com/mki1967/mki3dgame/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4770,6 +6578,14 @@
         {
           "type": "Install",
           "url": "https://github.com/darealshinji/mkvtoolnix-AppImage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4792,6 +6608,14 @@
           "type": "Install",
           "url": "https://github.com/ilia3101/MLV-App/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4812,6 +6636,14 @@
         {
           "type": "Install",
           "url": "https://releases.mockoon.com/mockoon-0.1.0-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4834,6 +6666,14 @@
           "type": "Install",
           "url": "https://github.com/lettier/movie-monad/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4854,6 +6694,14 @@
         {
           "type": "Install",
           "url": "https://github.com/unruhschuh/MrWriter/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4876,6 +6724,14 @@
           "type": "Install",
           "url": "https://dl.karmainside.com/ms-teams-capsule/ms-teams-capsule-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4896,6 +6752,14 @@
         {
           "type": "Install",
           "url": "https://github.com/OneMoreGres/multidir/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4918,6 +6782,14 @@
           "type": "Install",
           "url": "https://github.com/TheAssassin/mumble/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4938,6 +6810,14 @@
         {
           "type": "Install",
           "url": "https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.1/MuseScore-2.1-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -4960,6 +6840,14 @@
           "type": "Install",
           "url": "https://github.com/Leinnan/mybelka/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -4980,6 +6868,14 @@
         {
           "type": "Install",
           "url": "https://github.com/moecube/moecube/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5002,6 +6898,14 @@
           "type": "Install",
           "url": "https://files.kuudere.moe/nbb/linux/nbb-1.0.1-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5022,6 +6926,14 @@
         {
           "type": "Install",
           "url": "https://github.com/AppImage/NCSA-Mosaic-AppImage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5044,6 +6956,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/neofetch/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5064,6 +6984,14 @@
         {
           "type": "Install",
           "url": "https://github.com/CityOfZion/neon-wallet/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5086,6 +7014,14 @@
           "type": "Install",
           "url": "https://download.nextcloud.com/desktop/releases/Linux/Nextcloud-2.3.2-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5106,6 +7042,14 @@
         {
           "type": "Install",
           "url": "https://github.com/fa7ad/nfeh/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5128,6 +7072,14 @@
           "type": "Install",
           "url": "https://github.com/mgechev/ngrev/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5148,6 +7100,14 @@
         {
           "type": "Install",
           "url": "https://github.com/mujx/nheko/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5170,6 +7130,14 @@
           "type": "Install",
           "url": "https://github.com/Nitrokey/nitrokey-app/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5190,6 +7158,14 @@
         {
           "type": "Install",
           "url": "https://sourceforge.net/projects/nootka/files/Nootka-1.4.3/nootka-1.4.3-x86_64.AppImage/download"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5212,6 +7188,14 @@
           "type": "Install",
           "url": "https://github.com/notepadqq/notepadqq/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5232,6 +7216,14 @@
         {
           "type": "Install",
           "url": "https://github.com/NordicSemiconductor/pc-nrfconnect-core/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5254,6 +7246,14 @@
           "type": "Install",
           "url": "https://github.com/nteract/nteract/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5274,6 +7274,14 @@
         {
           "type": "Install",
           "url": "https://github.com/nukeop/nuclear/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5296,6 +7304,14 @@
           "type": "Install",
           "url": "https://github.com/neovim/neovim/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5316,6 +7332,14 @@
         {
           "type": "Install",
           "url": "https://dl.opendesktop.org/api/files/downloadfile/id/1522023543/s/ef35d9b6264e2543e4622144c126ff57/t/1523342406/u/71764/opendesktop-app-3.1.0-1-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5338,6 +7362,14 @@
           "type": "Install",
           "url": "https://github.com/patrikx3/onenote/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5358,6 +7390,14 @@
         {
           "type": "Install",
           "url": "https://github.com/develar/onshape-desktop-shell/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5380,6 +7420,14 @@
           "type": "Install",
           "url": "https://github.com/MainframeHQ/onyx/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5400,6 +7448,14 @@
         {
           "type": "Install",
           "url": "https://github.com/mmatyas/openblok/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5422,6 +7478,14 @@
           "type": "Install",
           "url": "http://github.com/OpenShot/openshot-qt/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5442,6 +7506,14 @@
         {
           "type": "Install",
           "url": "https://www.rpdev.net/public/appimages/linux/x86_64/OpenTodoList-stable.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5464,6 +7536,14 @@
           "type": "Install",
           "url": "http://knapsu.eu/openxcom/OpenXcom_1.0_x86-64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5484,6 +7564,14 @@
         {
           "type": "Install",
           "url": "https://gitlab.com/ciemat-psa/Optifmus/tree/master/bin/linux/Optifmus-0.1.0-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5506,6 +7594,14 @@
           "type": "Install",
           "url": "https://github.com/Adpa18/OTPManager-build/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5526,6 +7622,14 @@
         {
           "type": "Install",
           "url": "https://sourceforge.net/projects/otter-browser/files/latest/download?source=files"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5548,6 +7652,14 @@
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/ocfreitag/AppImage/owncloud-client-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5568,6 +7680,14 @@
         {
           "type": "Install",
           "url": "https://github.com/dgeibi/p2p-chat/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5590,6 +7710,14 @@
           "type": "Install",
           "url": "https://github.com/dannagle/PacketSender/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5610,6 +7738,14 @@
         {
           "type": "Install",
           "url": "https://github.com/MaKleSoft/padlock/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5632,6 +7768,14 @@
           "type": "Install",
           "url": "https://github.com/lazarus-pkgs/panini/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5652,6 +7796,14 @@
         {
           "type": "Download",
           "url": "https://github.com/E5ten/parsec-linux-AppImage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5674,6 +7826,14 @@
           "type": "Install",
           "url": "https://github.com/E5ten/parsec-linux-AppImage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5694,6 +7854,14 @@
         {
           "type": "Install",
           "url": "https://github.com/pathephone/pathephone-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5716,6 +7884,14 @@
           "type": "Install",
           "url": "https://github.com/pathephone/pathephone-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5736,6 +7912,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Blinkinlabs/PatternPaint/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5758,6 +7942,14 @@
           "type": "Install",
           "url": "https://github.com/sidneys/pb-for-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5778,6 +7970,14 @@
         {
           "type": "Install",
           "url": "https://github.com/phw/peek/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5800,6 +8000,14 @@
           "type": "Install",
           "url": "https://github.com/PeerioTechnologies/peerio-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5820,6 +8028,14 @@
         {
           "type": "Install",
           "url": "https://github.com/PendragonGame/pendragon/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5842,6 +8058,14 @@
           "type": "Install",
           "url": "https://download.kde.org/stable/peruse/Peruse-1.2-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5862,6 +8086,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Pext/Pext/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5884,6 +8116,14 @@
           "type": "Install",
           "url": "https://github.com/aferrero2707/PhotoFlow/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5904,6 +8144,14 @@
         {
           "type": "Install",
           "url": "https://github.com/LINCnil/pia-app/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5926,6 +8174,14 @@
           "type": "Install",
           "url": "https://github.com/pipam/pipam/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5946,6 +8202,14 @@
         {
           "type": "Install",
           "url": "https://github.com/akameco/PixivDeck/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -5968,6 +8232,14 @@
           "type": "Install",
           "url": "https://github.com/thorpelawrence/pixsrt/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -5988,6 +8260,14 @@
         {
           "type": "Install",
           "url": "https://github.com/blupi-games/planetblupi-dev/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6010,6 +8290,14 @@
           "type": "Install",
           "url": "https://github.com/graphcool/graphql-playground/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6030,6 +8318,14 @@
         {
           "type": "Install",
           "url": "https://github.com/pydt/client/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6052,6 +8348,14 @@
           "type": "Install",
           "url": "https://knapsu.eu/plex/Plex_Media_Player_2.1.1.703-79cdfa5c_x86-64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6072,6 +8376,14 @@
         {
           "type": "Install",
           "url": "https://github.com/openstenoproject/plover/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6094,6 +8406,14 @@
           "type": "Install",
           "url": "https://github.com/Sn8z/Poddr/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6114,6 +8434,14 @@
         {
           "type": "Install",
           "url": "https://github.com/vinnymac/PokeNurse/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6136,6 +8464,14 @@
           "type": "Install",
           "url": "https://pomelloapp.com/download/linux?package=appimage&arch=64"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6156,6 +8492,14 @@
         {
           "type": "Install",
           "url": "https://github.com/amilajack/popcorn-time-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6178,6 +8522,14 @@
           "type": "Install",
           "url": "https://github.com/showcheap/postman-appimage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6198,6 +8550,14 @@
         {
           "type": "Install",
           "url": "https://github.com/PowerShell/PowerShell/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6220,6 +8580,14 @@
           "type": "Install",
           "url": "https://github.com/prexview/prexview-studio/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6240,6 +8608,14 @@
         {
           "type": "Install",
           "url": "https://github.com/protonmail-desktop/application/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6262,6 +8638,14 @@
           "type": "Install",
           "url": "http://prusacontrol.org/update/linux"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6282,6 +8666,14 @@
         {
           "type": "Install",
           "url": "https://github.com/xwartz/PupaFM/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6304,6 +8696,14 @@
           "type": "Install",
           "url": "https://github.com/KmolYuan/Pyslvs-PyQt5/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6324,6 +8724,14 @@
         {
           "type": "Install",
           "url": "https://github.com/probonopd/qemu-ppc/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6346,6 +8754,14 @@
           "type": "Install",
           "url": "https://github.com/mavlink/qgroundcontrol/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6366,6 +8782,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qjackctl-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6388,6 +8812,14 @@
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6408,6 +8840,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6430,6 +8870,14 @@
           "type": "Install",
           "url": "https://github.com/QNapi/qnapi/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6450,6 +8898,14 @@
         {
           "type": "Install",
           "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6472,6 +8928,14 @@
           "type": "Install",
           "url": "https://github.com/qpdf/qpdf/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6492,6 +8956,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qsynth-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6514,6 +8986,14 @@
           "type": "Install",
           "url": "https://github.com/JvanKatwijk/qt-dab/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6534,6 +9014,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qtractor-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6556,6 +9044,14 @@
           "type": "Install",
           "url": "https://github.com/freemountain/quark/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6576,6 +9072,14 @@
         {
           "type": "Install",
           "url": "https://github.com/d1vanov/quentier/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6598,6 +9102,14 @@
           "type": "Install",
           "url": "https://github.com/mhmiles/QuickTwitch/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6618,6 +9130,14 @@
         {
           "type": "Install",
           "url": "https://github.com/kanryu/quickviewer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6640,6 +9160,14 @@
           "type": "Install",
           "url": "https://www.qupzilla.com/startdownload?appimage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6660,6 +9188,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qxgedit-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6682,6 +9218,14 @@
           "type": "Install",
           "url": "https://github.com/samcv/rakudo-appimage-module-test-automation/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6702,6 +9246,14 @@
         {
           "type": "Install",
           "url": "https://github.com/saenzramiro/rambox/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6724,6 +9276,14 @@
           "type": "Install",
           "url": "https://github.com/KurtPfeifle/rasterview/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6744,6 +9304,14 @@
         {
           "type": "Install",
           "url": "https://github.com/aferrero2707/rt-build/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6766,6 +9334,14 @@
           "type": "Install",
           "url": "https://github.com/rebaslight/rebaslight/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6786,6 +9362,14 @@
         {
           "type": "Install",
           "url": "https://download.assassinate-you.net/red-eclipse/appimage/latest/redeclipse-master-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6808,6 +9392,14 @@
           "type": "Install",
           "url": "https://download.assassinate-you.net/red-eclipse/appimage/latest/redeclipse-stable-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6828,6 +9420,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ujiro99/RedmineTimeTracker/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6850,6 +9450,14 @@
           "type": "Install",
           "url": "https://github.com/Strnadj/redmine_tracker/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6870,6 +9478,14 @@
         {
           "type": "Install",
           "url": "https://github.com/fathomssen/redtimer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6892,6 +9508,14 @@
           "type": "Install",
           "url": "https://github.com/azlyth/redub/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6912,6 +9536,14 @@
         {
           "type": "Install",
           "url": "https://github.com/l3laze/ReliefValve/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6934,6 +9566,14 @@
           "type": "Install",
           "url": "http://download.repetier.com/files/host/linux/Repetier-Host-x86_64-2.0.5.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6954,6 +9594,14 @@
         {
           "type": "Install",
           "url": "https://github.com/RetroShare/RetroShare/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -6976,6 +9624,14 @@
           "type": "Install",
           "url": "https://cdn.konv.im/linux/ricin-0.2.8-glibc2.14-x86-64.appimage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -6996,6 +9652,14 @@
         {
           "type": "Install",
           "url": "https://rpcs3.net/cdn/builds/rpcs3-v0.0.3-2017-09-19-5c93ace-8147_linux64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7018,6 +9682,14 @@
           "type": "Install",
           "url": "https://github.com/martinrotter/rssguard/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7038,6 +9710,14 @@
         {
           "type": "Install",
           "url": "https://github.com/yishn/Sabaki/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7060,6 +9740,14 @@
           "type": "Install",
           "url": "https://github.com/docsteer/sacnview/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7080,6 +9768,14 @@
         {
           "type": "Install",
           "url": "https://github.com/codeforscience/sciencefair/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7102,6 +9798,14 @@
           "type": "Install",
           "url": "https://transfer.sh/JjAuJ/Scribus-git5a088ba-glibc2.14.glibc2.14-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7122,6 +9826,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Przemol/seqplots_electron/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7144,6 +9856,14 @@
           "type": "Install",
           "url": "https://bitbucket.org/hyOzd/serialplot/downloads/serialplot-0.9.1-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7164,6 +9884,14 @@
         {
           "type": "Install",
           "url": "https://github.com/cgarry/ser-player/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7186,6 +9914,14 @@
           "type": "Install",
           "url": "https://github.com/shadowsocks/shadowsocks-qt5/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7206,6 +9942,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ShareXin/ShareXin/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7228,6 +9972,14 @@
           "type": "Install",
           "url": "https://github.com/binjospookie/--shots/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7248,6 +10000,14 @@
         {
           "type": "Install",
           "url": "https://github.com/arkottke/sigmaspectra/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7270,6 +10030,14 @@
           "type": "Install",
           "url": "https://sigrok.org/jenkins/job/sigrok-native-appimage/platform=native-amd64/lastSuccessfulBuild/artifact/cross-compile/appimage/out/PulseView-NIGHTLY.glibc2.14-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7290,6 +10058,14 @@
         {
           "type": "Install",
           "url": "https://github.com/lmcapacho/SimDSP/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7312,6 +10088,14 @@
           "type": "Install",
           "url": "https://bintray.com/probono/AppImages/download_file?file_path=SimpleScreenRecorder-0.3.8%2B1.glibc2.14-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7332,6 +10116,14 @@
         {
           "type": "Install",
           "url": "https://github.com/megahertz/electron-simple-updater/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7354,6 +10146,14 @@
           "type": "Install",
           "url": "https://github.com/Skrifa/Skrifa/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7374,6 +10174,14 @@
         {
           "type": "Install",
           "url": "http://downloads.skycoin.net/wallet/skycoin-0.19.0-gui-linux-x64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7396,6 +10204,14 @@
           "type": "Install",
           "url": "https://tel.red/linux/sky-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7416,6 +10232,14 @@
         {
           "type": "Install",
           "url": "https://github.com/erdii/sleep-timer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7438,6 +10262,14 @@
           "type": "Install",
           "url": "https://github.com/prusa3d/Slic3r/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7458,6 +10290,14 @@
         {
           "type": "Install",
           "url": "https://github.com/aenany/snake.js/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7480,6 +10320,14 @@
           "type": "Install",
           "url": "http://app.snoost.com/client/linux/latest/download/"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7500,6 +10348,14 @@
         {
           "type": "Install",
           "url": "https://github.com/thorpelawrence/spectrum-editor/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7522,6 +10378,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/speedtest-cli/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7542,6 +10406,14 @@
         {
           "type": "Install",
           "url": "https://github.com/gyunaev/spivak/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7564,6 +10436,14 @@
           "type": "Install",
           "url": "https://github.com/chiflix/splayerx/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7584,6 +10464,14 @@
         {
           "type": "Install",
           "url": "https://github.com/simoniz0r/spm/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7606,6 +10494,14 @@
           "type": "Install",
           "url": "https://github.com/oguzhaninan/Stacer/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7626,6 +10522,14 @@
         {
           "type": "Install",
           "url": "https://github.com/standardnotes/desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7648,6 +10552,14 @@
           "type": "Install",
           "url": "https://github.com/FrogTheFrog/steam-rom-manager/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7668,6 +10580,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Stellarium/stellarium/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7690,6 +10610,14 @@
           "type": "Install",
           "url": "https://github.com/pakokrew/stellar-portal/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7710,6 +10638,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Stemn/Stemn-Desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7732,6 +10668,14 @@
           "type": "Install",
           "url": "https://github.com/stencila/desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7752,6 +10696,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ranjak/StickyPlatforms/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7774,6 +10726,14 @@
           "type": "Install",
           "url": "http://makerbox.org.nz/software/stopgo/stopgo-0.0.9/stopgo.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7794,6 +10754,14 @@
         {
           "type": "Install",
           "url": "https://github.com/stoplightio/desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7816,6 +10784,14 @@
           "type": "Install",
           "url": "https://github.com/IndomaximTechID/storaji/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7836,6 +10812,14 @@
         {
           "type": "Install",
           "url": "https://dl.strem.io/linux/v4.0.0-beta.29/Stremio+4.0.0-beta.29.appimage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7858,6 +10842,14 @@
           "type": "Install",
           "url": "https://github.com/hovancik/stretchly/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7878,6 +10870,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Subsurface-divelog/subsurface/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7900,6 +10900,14 @@
           "type": "Install",
           "url": "https://github.com/nullism/subvertise/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7920,6 +10928,14 @@
         {
           "type": "Install",
           "url": "https://github.com/Xzandro/sw-exporter/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7942,6 +10958,14 @@
           "type": "Install",
           "url": "http://super-productivity.com/downloads/superProductivity-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -7962,6 +10986,14 @@
         {
           "type": "Install",
           "url": "https://github.com/JvanKatwijk/swradio-8/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -7984,6 +11016,14 @@
           "type": "Install",
           "url": "http://download.ag-projects.com/Sylk/Sylk-latest-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8004,6 +11044,14 @@
         {
           "type": "Install",
           "url": "https://github.com/giowck/symphytum/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8026,6 +11074,14 @@
           "type": "Install",
           "url": "https://sourceforge.net/projects/synfig/files/snapshots/1.3.4-20170810/SynfigStudio-1.3.4-testing-17.08.10-linux64-9fecd.appimage/download"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8046,6 +11102,14 @@
         {
           "type": "Install",
           "url": "http://www.tagflow.io/download/linux/appimage/64"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8068,6 +11132,14 @@
           "type": "Install",
           "url": "https://github.com/mykter/TagTime-desktop/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8088,6 +11160,14 @@
         {
           "type": "Install",
           "url": "http://download.opensuse.org/repositories/home:/lachs0r:/taisei/AppImage/taisei-latest-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8110,6 +11190,14 @@
           "type": "Install",
           "url": "https://github.com/mccxiv/tc/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8130,6 +11218,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ImaginarySense/Teleprompter-Electron/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8152,6 +11248,14 @@
           "type": "Install",
           "url": "https://dl.bintray.com/unruhschuh/AppImages/TeXstudio-2.10.8-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8172,6 +11276,14 @@
         {
           "type": "Install",
           "url": "https://github.com/yschutz/ThermusQt/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8194,6 +11306,14 @@
           "type": "Install",
           "url": "https://github.com/bjorn/tiled/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8214,6 +11334,14 @@
         {
           "type": "Install",
           "url": "https://github.com/MayGo/tockler/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8236,6 +11364,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/todo/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8256,6 +11392,14 @@
         {
           "type": "Install",
           "url": "https://github.com/uvarovserge/tomorrowex-client/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8278,6 +11422,14 @@
           "type": "Install",
           "url": "https://github.com/ivanseidel/TournamenterApp/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8298,6 +11450,14 @@
         {
           "type": "Install",
           "url": "https://github.com/p-edelman/Transcribe/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8320,6 +11480,14 @@
           "type": "Install",
           "url": "https://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8340,6 +11508,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tulip5/tulip/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8362,6 +11538,14 @@
           "type": "Install",
           "url": "https://github.com/neuro-sys/tumblr-downloader-client/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8382,6 +11566,14 @@
         {
           "type": "Install",
           "url": "https://github.com/radiium/turntable/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8404,6 +11596,14 @@
           "type": "Install",
           "url": "https://github.com/champloohq/tusk/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8424,6 +11624,14 @@
         {
           "type": "Install",
           "url": "https://github.com/jonathontoon/tweet-tray/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8446,6 +11654,14 @@
           "type": "Install",
           "url": "https://github.com/simoniz0r/twitch-wrapper/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8466,6 +11682,14 @@
         {
           "type": "Install",
           "url": "https://github.com/ubports/ubports-installer/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8488,6 +11712,14 @@
           "type": "Install",
           "url": "https://github.com/nirooj56/unicode/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8508,6 +11740,14 @@
         {
           "type": "Install",
           "url": "https://github.com/aricovindanevectone/hari/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8530,6 +11770,14 @@
           "type": "Install",
           "url": "https://github.com/pascalopitz/unoffical-sonos-controller-for-linux/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8550,6 +11798,14 @@
         {
           "type": "Install",
           "url": "https://github.com/toolkit-for-ynab/unofficial-desktop-for-ynab/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8572,6 +11828,14 @@
           "type": "Install",
           "url": "https://github.com/linux-man/unreel/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8592,6 +11856,14 @@
         {
           "type": "Install",
           "url": "https://github.com/railsware/upterm/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8614,6 +11886,14 @@
           "type": "Install",
           "url": "https://github.com/VespucciProject/Vespucci/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8634,6 +11914,14 @@
         {
           "type": "Install",
           "url": "https://github.com/aaroncox/vessel/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8656,6 +11944,14 @@
           "type": "Install",
           "url": "https://github.com/ozmartian/vidcutter/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8676,6 +11972,14 @@
         {
           "type": "Install",
           "url": "https://github.com/belltown/violetbug/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8698,6 +12002,14 @@
           "type": "Install",
           "url": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8718,6 +12030,14 @@
         {
           "type": "Download",
           "url": "https://github.com/hikiko4ern/vkap/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8740,6 +12060,14 @@
           "type": "Install",
           "url": "https://github.com/darealshinji/vlc-AppImage/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8760,6 +12088,14 @@
         {
           "type": "Install",
           "url": "https://github.com/tamlok/vnote/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8782,6 +12118,14 @@
           "type": "Install",
           "url": "https://s3.amazonaws.com/download.voltra.co/Voltra-3.1.4-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8802,6 +12146,14 @@
         {
           "type": "Install",
           "url": "https://github.com/vterm/vterm/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8824,6 +12176,14 @@
           "type": "Install",
           "url": "https://github.com/el3um4s/vue-calc/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8844,6 +12204,14 @@
         {
           "type": "Install",
           "url": "https://github.com/webcamoid/webcamoid/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8866,6 +12234,14 @@
           "type": "Install",
           "url": "https://github.com/webrecorder/webrecorderplayer-electron/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8886,6 +12262,14 @@
         {
           "type": "Install",
           "url": "https://github.com/AlbrechtL/welle.io/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8908,6 +12292,14 @@
           "type": "Install",
           "url": "https://github.com/trazyn/weweChat/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8928,6 +12320,14 @@
         {
           "type": "Install",
           "url": "https://github.com/mawie81/whatsdesktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8950,6 +12350,14 @@
           "type": "Install",
           "url": "https://github.com/michaelpb/whiteboard/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -8970,6 +12378,14 @@
         {
           "type": "Install",
           "url": "https://github.com/wireapp/wire-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -8992,6 +12408,14 @@
           "type": "Install",
           "url": "https://github.com/tmstieff/Woke/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -9012,6 +12436,14 @@
         {
           "type": "Install",
           "url": "https://github.com/workflowy/desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -9034,6 +12466,14 @@
           "type": "Install",
           "url": "https://github.com/Lange/x32-mute-matrix/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -9054,6 +12494,14 @@
         {
           "type": "Install",
           "url": "https://github.com/probonopd/XChat/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -9076,6 +12524,14 @@
           "type": "Install",
           "url": "https://github.com/expo/xde/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -9096,6 +12552,14 @@
         {
           "type": "Install",
           "url": "https://www.adebenham.com/wp-content/uploads/xlights/xLights-2017.29-bcfbc17.glibc2.17-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -9118,6 +12582,14 @@
           "type": "Install",
           "url": "http://download.xnview.com/XnViewMP.glibc2.14-x86_64.AppImage"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -9138,6 +12610,14 @@
         {
           "type": "Install",
           "url": "https://github.com/simoniz0r/yadshot/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
         }
       ]
     },
@@ -9160,6 +12640,14 @@
           "type": "Install",
           "url": "https://github.com/TheAssassin/zsync2/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -9181,6 +12669,14 @@
           "type": "Install",
           "url": "https://github.com/zulip/zulip-electron/releases"
         }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
       ]
     },
     {
@@ -9201,6 +12697,14 @@
         {
           "type": "END",
           "url": "END"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "END",
+          "size": "END",
+          "tag": "END",
+          "status": "END"
         }
       ]
     }
