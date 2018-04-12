@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Wed Apr 11 21:28:35 CDT 2018",
+  "updated_at": "Wed Apr 11 23:26:55 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -674,6 +674,35 @@
       ]
     },
     {
+      "name": "Astroffers",
+      "type": "null",
+      "description": "Take offers to watch at given nights by the NGC2000 catalog",
+      "authors": [
+        {
+          "name": "jayhasyee",
+          "url": "https://github.com/jayhasyee"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "jayhasyee/astroffers"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/jayhasyee/astroffers/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "AtCore",
       "type": "AppImage",
       "description": "atcore - Open Source 3D Printing Host - Core Components",
@@ -749,6 +778,35 @@
         {
           "type": "Install",
           "url": "https://github.com/Superjo149/auryo/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "autoEdit2",
+      "type": "null",
+      "description": "autoEdit2 Desktop Client for Linux",
+      "authors": [
+        {
+          "name": "OpenNewsLabs",
+          "url": "https://github.com/OpenNewsLabs"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "OpenNewsLabs/autoEdit_2"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/OpenNewsLabs/autoEdit_2/releases"
         }
       ],
       "installinfo": [
@@ -3429,6 +3487,35 @@
       ]
     },
     {
+      "name": "Fraktal",
+      "type": "null",
+      "description": "Podcast Manager in Electron",
+      "authors": [
+        {
+          "name": "Fraktal-JS",
+          "url": "https://github.com/Fraktal-JS"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "Fraktal-JS/fraktal"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/Fraktal-JS/fraktal/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "franz",
       "type": "AppImage",
       "description": "franz - Franz is a free messaging app for services like WhatsApp Slack Messenger and many more",
@@ -5082,6 +5169,35 @@
       ]
     },
     {
+      "name": "jscad-desktop",
+      "type": "null",
+      "description": "jscad desktop application",
+      "authors": [
+        {
+          "name": "jscad",
+          "url": "https://github.com/jscad"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "jscad/jscad-desktop"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/jscad/jscad-desktop/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "jumpfm",
       "type": "AppImage",
       "description": "jumpfm - A file manager that lets you jump",
@@ -5882,6 +5998,64 @@
         {
           "type": "Install",
           "url": "https://github.com/tresf/lmms/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "luminance-hdr",
+      "type": "null",
+      "description": "Create and tonemap HDR images",
+      "authors": [
+        {
+          "name": "aferrero2707",
+          "url": "https://github.com/aferrero2707"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "aferrero2707/lhdr-appimage"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/aferrero2707/lhdr-appimage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "luna",
+      "type": "null",
+      "description": "Manage your NPM packages.",
+      "authors": [
+        {
+          "name": "rvpanoz",
+          "url": "https://github.com/rvpanoz"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "rvpanoz/luna"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/rvpanoz/luna/releases"
         }
       ],
       "installinfo": [
