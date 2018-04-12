@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Tue Apr 10 23:57:37 CDT 2018",
+  "updated_at": "Wed Apr 11 21:28:35 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -7331,7 +7331,7 @@
         },
         {
           "type": "Install",
-          "url": "https://www.opendesktop.org/p/1175480/startdownload?file_id=1522023543&file_name=opendesktop-app-3.1.0-1-x86_64.AppImage&file_type=application/x-executable&file_size=74870688&url=https%3A%2F%2Fdl.opendesktop.org%2Fapi%2Ffiles%2Fdownloadfile%2Fid%2F1522023543%2Fs%2F45b36857d63fb1b3f87efb6c7b0f667e%2Ft%2F1523426168%2Fu%2F71764%2Fopendesktop-app-3.1.0-1-x86_64.AppImage"
+          "url": "https://dl.opendesktop.org/api/files/downloadfile/id/1522023543/s/310463650762b8c8e8f0ac584e38e50b/t/1523503424/u/71764/opendesktop-app-3.1.0-1-x86_64.AppImage"
         }
       ],
       "installinfo": [
