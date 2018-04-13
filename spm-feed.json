@@ -3,11 +3,12 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Fri Apr 13 00:02:21 CDT 2018",
+  "updated_at": "Fri Apr 13 00:10:19 CDT 2018",
   "expired": false,
   "appimages": [
     {
       "name": "accessimap-lecteur-der",
+      "installname": "accessimap-lecteur-der",
       "type": "AppImage",
       "description": "accessimap-lecteur-der - Lecteur de documents en relief interactif DERi",
       "authors": [
@@ -37,6 +38,7 @@
     },
     {
       "name": "AHGequip",
+      "installname": "AHGequip",
       "type": "AppImage",
       "description": "The public repository used by TroopTrack to release AHGequip",
       "authors": [
@@ -66,6 +68,7 @@
     },
     {
       "name": "ai-bot-workspace",
+      "installname": "ai-bot-workspace",
       "type": "AppImage",
       "description": "ai-bot-workspace -  Graphical bot runner for Riddlesio bots",
       "authors": [
@@ -95,6 +98,7 @@
     },
     {
       "name": "Aidos",
+      "installname": "Aidos",
       "type": "AppImage",
       "description": "aidos-wallet - Desktop wallet for Aidos Kuneen step1",
       "authors": [
@@ -124,6 +128,7 @@
     },
     {
       "name": "Akiee",
+      "installname": "Akiee",
       "type": "AppImage",
       "description": "Contribute to akiee-release development by creating an account on GitHub",
       "authors": [
@@ -153,6 +158,7 @@
     },
     {
       "name": "Alduin",
+      "installname": "Alduin",
       "type": "AppImage",
       "description": "alduin - An RSS Atom and JSON  feed aggregator available on Windows and Linux",
       "authors": [
@@ -182,6 +188,7 @@
     },
     {
       "name": "AlphaT",
+      "installname": "AlphaT",
       "type": "AppImage",
       "description": "alphat - AlphaT is a free open-source translation application powered by Electron",
       "authors": [
@@ -211,6 +218,7 @@
     },
     {
       "name": "altair",
+      "installname": "altair",
       "type": "AppImage",
       "description": "altair -  A beautiful feature-rich GraphQL Client for all platforms",
       "authors": [
@@ -240,6 +248,7 @@
     },
     {
       "name": "amphetype2",
+      "installname": "amphetype2",
       "type": "AppImage",
       "description": "amphetype2 - Cross-platform typing practice",
       "authors": [
@@ -269,6 +278,7 @@
     },
     {
       "name": "anavis",
+      "installname": "anavis",
       "type": "AppImage",
       "description": "anavis - AnaVis is a tool to visualize musical form",
       "authors": [
@@ -298,6 +308,7 @@
     },
     {
       "name": "AnimationMaker",
+      "installname": "AnimationMaker",
       "type": "AppImage",
       "description": "AnimationMaker - Create animated presentations and export them to a video or xml file",
       "authors": [
@@ -327,6 +338,7 @@
     },
     {
       "name": "ansiweather",
+      "installname": "ansiweather",
       "type": "AppImage",
       "description": "This repository contains appimagebuild and AppImage build scripts for building AppImages easily",
       "authors": [
@@ -356,6 +368,7 @@
     },
     {
       "name": "ao",
+      "installname": "ao",
       "type": "AppImage",
       "description": "ao -  Elegant Microsoft To-Do desktop app",
       "authors": [
@@ -385,6 +398,7 @@
     },
     {
       "name": "appimaged",
+      "installname": "appimaged",
       "type": "AppImage",
       "description": "AppImageKit - Package desktop applications as AppImages that run on common Linux-based operating systems such as RHEL CentOS openSUSE SLED Ubuntu Fedora debian and derivatives Join AppImage on ircfreenodenet",
       "authors": [
@@ -414,6 +428,7 @@
     },
     {
       "name": "AppImageHub",
+      "installname": "AppImageHub",
       "type": "AppImage",
       "description": "AppImageHub-Electron - Electron wrapper for downloading AppImages from httpsAppImagegithubio built using nativefier",
       "authors": [
@@ -443,6 +458,7 @@
     },
     {
       "name": "appimagetool",
+      "installname": "appimagetool",
       "type": "AppImage",
       "description": "AppImageKit - Package desktop applications as AppImages that run on common Linux-based operating systems such as RHEL CentOS openSUSE SLED Ubuntu Fedora debian and derivatives Join AppImage on ircfreenodenet",
       "authors": [
@@ -472,6 +488,7 @@
     },
     {
       "name": "AppImageUpdate",
+      "installname": "AppImageUpdate",
       "type": "AppImage",
       "description": "AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself",
       "authors": [
@@ -501,6 +518,7 @@
     },
     {
       "name": "appimageupdatetool",
+      "installname": "appimageupdatetool",
       "type": "AppImage",
       "description": "AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself",
       "authors": [
@@ -530,6 +548,7 @@
     },
     {
       "name": "appium-desktop",
+      "installname": "appium-desktop",
       "type": "AppImage",
       "description": "appium-desktop - Appium Server and Inspector in Desktop GUIs for Mac Windows and Linux",
       "authors": [
@@ -559,6 +578,7 @@
     },
     {
       "name": "arbore",
+      "installname": "arbore",
       "type": "AppImage",
       "description": "Arbore - Friend-to-friend filesharing app to save the world from dystopia ",
       "authors": [
@@ -588,6 +608,7 @@
     },
     {
       "name": "aria2",
+      "installname": "aria2",
       "type": "AppImage",
       "description": "AppImage for aria2",
       "authors": [
@@ -617,6 +638,7 @@
     },
     {
       "name": "Arizen",
+      "installname": "Arizen",
       "type": "AppImage",
       "description": "arizen - Arizen is new API wallet for ZenCash with encrypted locally stored files",
       "authors": [
@@ -646,6 +668,7 @@
     },
     {
       "name": "arkona2",
+      "installname": "arkona2",
       "type": "AppImage",
       "description": "arkona2 - open-world version of the original",
       "authors": [
@@ -675,6 +698,7 @@
     },
     {
       "name": "Astroffers",
+      "installname": "Astroffers",
       "type": "null",
       "description": "Take offers to watch at given nights by the NGC2000 catalog",
       "authors": [
@@ -704,6 +728,7 @@
     },
     {
       "name": "AtCore",
+      "installname": "AtCore",
       "type": "AppImage",
       "description": "atcore - Open Source 3D Printing Host - Core Components",
       "authors": [
@@ -733,6 +758,7 @@
     },
     {
       "name": "Audacity",
+      "installname": "Audacity",
       "type": "AppImage",
       "description": "AppImage for Audacity",
       "authors": [
@@ -762,6 +788,7 @@
     },
     {
       "name": "Auryo",
+      "installname": "Auryo",
       "type": "AppImage",
       "description": "auryo - A beautiful soundcloud desktop app",
       "authors": [
@@ -791,6 +818,7 @@
     },
     {
       "name": "autoEdit2",
+      "installname": "autoEdit2",
       "type": "null",
       "description": "autoEdit2 Desktop Client for Linux",
       "authors": [
@@ -820,6 +848,7 @@
     },
     {
       "name": "Avidemux",
+      "installname": "Avidemux",
       "type": "AppImage",
       "description": "AppImage for Avidemux",
       "authors": [
@@ -849,6 +878,7 @@
     },
     {
       "name": "AzPainter",
+      "installname": "AzPainter",
       "type": "AppImage",
       "description": "Full color painting software for Linux for illustration drawing This is un-official little fixed repository of AzPainter based on quotmlibquot toolkit Official repository - httpsosdnnetprojectsazpainter",
       "authors": [
@@ -878,6 +908,7 @@
     },
     {
       "name": "BaijiMangaViewer",
+      "installname": "BaijiMangaViewer",
       "type": "AppImage",
       "description": "Contribute to manga-viewer development by creating an account on GitHub",
       "authors": [
@@ -907,6 +938,7 @@
     },
     {
       "name": "barnacal",
+      "installname": "barnacal",
       "type": "AppImage",
       "description": "Barnacal - A simple menu bar app for viewing a calendar",
       "authors": [
@@ -936,6 +968,7 @@
     },
     {
       "name": "barter-dex",
+      "installname": "barter-dex",
       "type": "AppImage",
       "description": "barter-dex - b arterdex Decentralized Cryptocurrency Exchange  KOMODO ",
       "authors": [
@@ -965,6 +998,7 @@
     },
     {
       "name": "BatchLabs",
+      "installname": "BatchLabs",
       "type": "AppImage",
       "description": "BatchLabs - A client tool to help create debug and monitor Azure Batch Applications ",
       "authors": [
@@ -994,6 +1028,7 @@
     },
     {
       "name": "beaker",
+      "installname": "beaker",
       "type": "AppImage",
       "description": "beaker - A peer-to-peer Web browser",
       "authors": [
@@ -1023,6 +1058,7 @@
     },
     {
       "name": "Belle",
+      "installname": "Belle",
       "type": "AppImage",
       "description": "Belle - A cross-platform and easy-to-use visual novel maker that deploys games for the web",
       "authors": [
@@ -1052,6 +1088,7 @@
     },
     {
       "name": "Bezique",
+      "installname": "Bezique",
       "type": "AppImage",
       "description": "Contribute to Bezique development by creating an account on GitHub",
       "authors": [
@@ -1081,6 +1118,7 @@
     },
     {
       "name": "Billy",
+      "installname": "Billy",
       "type": "AppImage",
       "description": "billy - A simple invoice manager built with Electron",
       "authors": [
@@ -1110,6 +1148,7 @@
     },
     {
       "name": "BitShares",
+      "installname": "BitShares",
       "type": "AppImage",
       "description": "bitshares-ui - Graphical User Interface for BitShares Blockchain",
       "authors": [
@@ -1139,6 +1178,7 @@
     },
     {
       "name": "Black_Chocobo",
+      "installname": "Black_Chocobo",
       "type": "AppImage",
       "description": "blackchocobo - Save Editor For Final Fantasy VII",
       "authors": [
@@ -1168,6 +1208,7 @@
     },
     {
       "name": "blackmirror",
+      "installname": "blackmirror",
       "type": "AppImage",
       "description": "blackmirror - Multi-party automatic writing tool",
       "authors": [
@@ -1197,6 +1238,7 @@
     },
     {
       "name": "Blender",
+      "installname": "Blender",
       "type": "AppImage",
       "description": "AppImage for Blender",
       "authors": [
@@ -1226,6 +1268,7 @@
     },
     {
       "name": "Blink1Control2",
+      "installname": "Blink1Control2",
       "type": "AppImage",
       "description": "Blink1Control2 - Blink1Control in Electron React and Node  Control blink1 USB RGB LED devices",
       "authors": [
@@ -1255,6 +1298,7 @@
     },
     {
       "name": "blubVolley",
+      "installname": "blubVolley",
       "type": "AppImage",
       "description": "blubVolley - a fun volleyball game ",
       "authors": [
@@ -1284,6 +1328,7 @@
     },
     {
       "name": "bnb",
+      "installname": "bnb",
       "type": "AppImage",
       "description": "bnb - Run and serve your web apps in dev domains on your develop machine",
       "authors": [
@@ -1313,6 +1358,7 @@
     },
     {
       "name": "bodhi",
+      "installname": "bodhi",
       "type": "AppImage",
       "description": "bodhi-app - Bodhi Prediction Market desktop application",
       "authors": [
@@ -1342,6 +1388,7 @@
     },
     {
       "name": "BotFramework-Emulator",
+      "installname": "BotFramework-Emulator",
       "type": "AppImage",
       "description": "BotFramework-Emulator - Bot Framework Emulator",
       "authors": [
@@ -1371,6 +1418,7 @@
     },
     {
       "name": "BottleBats",
+      "installname": "BottleBats",
       "type": "AppImage",
       "description": "Client for the 2018 edition of the BottleBats AI competition",
       "authors": [
@@ -1400,6 +1448,7 @@
     },
     {
       "name": "BrainVerse",
+      "installname": "BrainVerse",
       "type": "AppImage",
       "description": "brainverse - Electronic Lab Notebook",
       "authors": [
@@ -1429,6 +1478,7 @@
     },
     {
       "name": "bscc",
+      "installname": "bscc",
       "type": "AppImage",
       "description": "AppImage for bscc",
       "authors": [
@@ -1458,6 +1508,7 @@
     },
     {
       "name": "bunqdesktop",
+      "installname": "bunqdesktop",
       "type": "AppImage",
       "description": "BunqDesktop - A desktop implementation for the bunq API",
       "authors": [
@@ -1487,6 +1538,7 @@
     },
     {
       "name": "buttercup",
+      "installname": "buttercup",
       "type": "AppImage",
       "description": "buttercup-desktop - key Javascript Password Vault - Multi-Platform Desktop Application",
       "authors": [
@@ -1516,6 +1568,7 @@
     },
     {
       "name": "Calculist",
+      "installname": "Calculist",
       "type": "AppImage",
       "description": "calculist-desktop - the desktop version of Calculist",
       "authors": [
@@ -1545,6 +1598,7 @@
     },
     {
       "name": "cantata",
+      "installname": "cantata",
       "type": "AppImage",
       "description": "This repository contains appimagebuild and AppImage build scripts for building AppImages easily",
       "authors": [
@@ -1574,6 +1628,7 @@
     },
     {
       "name": "caprine",
+      "installname": "caprine",
       "type": "AppImage",
       "description": "caprine - Elegant Facebook Messenger desktop app",
       "authors": [
@@ -1603,6 +1658,7 @@
     },
     {
       "name": "carrot-man",
+      "installname": "carrot-man",
       "type": "AppImage",
       "description": "AppImage for carrot-man",
       "authors": [
@@ -1632,6 +1688,7 @@
     },
     {
       "name": "CARTA",
+      "installname": "CARTA",
       "type": "AppImage",
       "description": "carta - CARTA stands for Cube Analysis and Rendering Tool for Astronomy a new visualization tool designed for the ALMA the JVLA and the SKA",
       "authors": [
@@ -1661,6 +1718,7 @@
     },
     {
       "name": "cate-desktop",
+      "installname": "cate-desktop",
       "type": "AppImage",
       "description": "cate - ESA CCI Toolbox Cate",
       "authors": [
@@ -1690,6 +1748,7 @@
     },
     {
       "name": "Cerebral-Debugger",
+      "installname": "Cerebral-Debugger",
       "type": "AppImage",
       "description": "cerebral-debugger - Debugger for Cerebral",
       "authors": [
@@ -1719,6 +1778,7 @@
     },
     {
       "name": "Cerebro",
+      "installname": "Cerebro",
       "type": "AppImage",
       "description": "cerebro - Open-source productivity booster with a brain",
       "authors": [
@@ -1748,6 +1808,7 @@
     },
     {
       "name": "Chigraph",
+      "installname": "Chigraph",
       "type": "AppImage",
       "description": "chigraph - A visual systems language for beginners compiled using LLVM",
       "authors": [
@@ -1777,6 +1838,7 @@
     },
     {
       "name": "CIAA_SUITE",
+      "installname": "CIAA_SUITE",
       "type": "AppImage",
       "description": "embedded-ide-builder - Embedded IDE automated build system",
       "authors": [
@@ -1806,6 +1868,7 @@
     },
     {
       "name": "CleepDesktop",
+      "installname": "CleepDesktop",
       "type": "AppImage",
       "description": "Desktop application to manage your Cleep devices",
       "authors": [
@@ -1835,6 +1898,7 @@
     },
     {
       "name": "colorpicker",
+      "installname": "colorpicker",
       "type": "AppImage",
       "description": "A mininal but complete colorpicker desktop app",
       "authors": [
@@ -1864,6 +1928,7 @@
     },
     {
       "name": "CozyDrive",
+      "installname": "CozyDrive",
       "type": "AppImage",
       "description": "cozy-desktop - File Synchronisation for Cozy on Desktop and Laptop",
       "authors": [
@@ -1893,6 +1958,7 @@
     },
     {
       "name": "Cryplicity",
+      "installname": "Cryplicity",
       "type": "AppImage",
       "description": "Cryplicity - A Crypto Portfolio Tracker Tool",
       "authors": [
@@ -1922,6 +1988,7 @@
     },
     {
       "name": "Crypter",
+      "installname": "Crypter",
       "type": "AppImage",
       "description": "Crypter - An innovative convenient and secure cross-platform encryption app  lt--gt",
       "authors": [
@@ -1951,6 +2018,7 @@
     },
     {
       "name": "CuarzoBrowser",
+      "installname": "CuarzoBrowser",
       "type": "AppImage",
       "description": "CuarzoBrowser - The Cuarzo OS Web Browser",
       "authors": [
@@ -1980,6 +2048,7 @@
     },
     {
       "name": "CubicSDR",
+      "installname": "CubicSDR",
       "type": "AppImage",
       "description": "CubicSDR - Cross-Platform Software-Defined Radio Application",
       "authors": [
@@ -2009,6 +2078,7 @@
     },
     {
       "name": "Cumulonimbus",
+      "installname": "Cumulonimbus",
       "type": "AppImage",
       "description": "cumulonimbus - CPod a simple beautiful podcast app",
       "authors": [
@@ -2038,6 +2108,7 @@
     },
     {
       "name": "Cumulus",
+      "installname": "Cumulus",
       "type": "AppImage",
       "description": "cumulus-qt - Qt port for Cumulus",
       "authors": [
@@ -2067,6 +2138,7 @@
     },
     {
       "name": "Cura",
+      "installname": "Cura",
       "type": "AppImage",
       "description": "AppImage for Cura",
       "authors": [
@@ -2096,6 +2168,7 @@
     },
     {
       "name": "CutePeaks",
+      "installname": "CutePeaks",
       "type": "AppImage",
       "description": "CutePeaks - A simple viewer for Sanger file ",
       "authors": [
@@ -2125,6 +2198,7 @@
     },
     {
       "name": "CuteReport",
+      "installname": "CuteReport",
       "type": "AppImage",
       "description": "AppImage for CuteReport",
       "authors": [
@@ -2154,6 +2228,7 @@
     },
     {
       "name": "Cutter",
+      "installname": "Cutter",
       "type": "AppImage",
       "description": "cutter - A Qt and C GUI for radare2 reverse engineering framework",
       "authors": [
@@ -2183,6 +2258,7 @@
     },
     {
       "name": "dana",
+      "installname": "dana",
       "type": "AppImage",
       "description": "dana - Dana Symbol of Wisdom ",
       "authors": [
@@ -2212,6 +2288,7 @@
     },
     {
       "name": "danmaQ",
+      "installname": "danmaQ",
       "type": "AppImage",
       "description": "danmaQ - danmaku implemented in Qt5",
       "authors": [
@@ -2241,6 +2318,7 @@
     },
     {
       "name": "dat-desktop",
+      "installname": "dat-desktop",
       "type": "AppImage",
       "description": "dat-desktop - Peer to peer data sharing app built for humans",
       "authors": [
@@ -2270,6 +2348,7 @@
     },
     {
       "name": "dbKoda",
+      "installname": "dbKoda",
       "type": "AppImage",
       "description": "AppImage for dbKoda",
       "authors": [
@@ -2299,6 +2378,7 @@
     },
     {
       "name": "deb2appimage",
+      "installname": "deb2appimage",
       "type": "AppImage",
       "description": "Build AppImages from deb packages on any distro with simple json configuration",
       "authors": [
@@ -2328,6 +2408,7 @@
     },
     {
       "name": "DeDop-studio",
+      "installname": "DeDop-studio",
       "type": "AppImage",
       "description": "dedop-studio - DeDop Desktop Application",
       "authors": [
@@ -2357,6 +2438,7 @@
     },
     {
       "name": "devdocs-desktop",
+      "installname": "devdocs-desktop",
       "type": "AppImage",
       "description": "devdocs-desktop -  A full-featured desktop app for DevDocsio",
       "authors": [
@@ -2386,6 +2468,7 @@
     },
     {
       "name": "DeviceInterface",
+      "installname": "DeviceInterface",
       "type": "AppImage",
       "description": "Contribute to DeviceInterface development by creating an account on GitHub",
       "authors": [
@@ -2415,6 +2498,7 @@
     },
     {
       "name": "devination",
+      "installname": "devination",
       "type": "AppImage",
       "description": "devination - documentation browser - do not use yet in early early alpha",
       "authors": [
@@ -2444,6 +2528,7 @@
     },
     {
       "name": "devRantron",
+      "installname": "devRantron",
       "type": "AppImage",
       "description": "devRantron - A cross platform desktop application for devRant",
       "authors": [
@@ -2473,6 +2558,7 @@
     },
     {
       "name": "dexter_dev_env",
+      "installname": "dexter_dev_env",
       "type": "AppImage",
       "description": "dde - Dexter Development  Environment",
       "authors": [
@@ -2502,6 +2588,7 @@
     },
     {
       "name": "digiKam",
+      "installname": "digiKam",
       "type": "AppImage",
       "description": "AppImage for digiKam",
       "authors": [
@@ -2531,6 +2618,7 @@
     },
     {
       "name": "discord-canary",
+      "installname": "discord-canary",
       "type": "AppImage",
       "description": "All-in-one voice and text chat for gamers that's free secure and works on both your desktop and phone",
       "authors": [
@@ -2560,6 +2648,7 @@
     },
     {
       "name": "discord-css-injection",
+      "installname": "discord-css-injection",
       "type": "AppImage",
       "description": "discord-css-injection - A bash script that uses 'asar' 'grep' and 'sed' to add CSS hotloading to Discord on Linux",
       "authors": [
@@ -2589,6 +2678,7 @@
     },
     {
       "name": "discord-ptb",
+      "installname": "discord-ptb",
       "type": "AppImage",
       "description": "All-in-one voice and text chat for gamers that's free secure and works on both your desktop and phone",
       "authors": [
@@ -2618,6 +2708,7 @@
     },
     {
       "name": "discord-stable",
+      "installname": "discord-stable",
       "type": "AppImage",
       "description": "All-in-one voice and text chat for gamers that's free secure and works on both your desktop and phone",
       "authors": [
@@ -2647,6 +2738,7 @@
     },
     {
       "name": "donut",
+      "installname": "donut",
       "type": "AppImage",
       "description": "donut -  Dead-simple cross-platform cryptocurrency tracker",
       "authors": [
@@ -2676,6 +2768,7 @@
     },
     {
       "name": "Dragoman",
+      "installname": "Dragoman",
       "type": "AppImage",
       "description": "Dragoman - GUI for polyglot",
       "authors": [
@@ -2705,6 +2798,7 @@
     },
     {
       "name": "drawio",
+      "installname": "drawio",
       "type": "AppImage",
       "description": "drawio-desktop - Official electron build of drawio",
       "authors": [
@@ -2734,6 +2828,7 @@
     },
     {
       "name": "Drawpile",
+      "installname": "Drawpile",
       "type": "AppImage",
       "description": "AppImage for Drawpile",
       "authors": [
@@ -2763,6 +2858,7 @@
     },
     {
       "name": "EaselDriver",
+      "installname": "EaselDriver",
       "type": "AppImage",
       "description": "AppImage for EaselDriver",
       "authors": [
@@ -2792,6 +2888,7 @@
     },
     {
       "name": "Electorrent",
+      "installname": "Electorrent",
       "type": "AppImage",
       "description": "Electorrent - A remote control client for Torrent qBittorrent rTorrent amp Transmission",
       "authors": [
@@ -2821,6 +2918,7 @@
     },
     {
       "name": "electron-webpack-dashboard",
+      "installname": "electron-webpack-dashboard",
       "type": "AppImage",
       "description": "electron-webpack-dashboard - Electron Desktop GUI for Webpack Dashboard",
       "authors": [
@@ -2850,6 +2948,7 @@
     },
     {
       "name": "electron-xiami",
+      "installname": "electron-xiami",
       "type": "AppImage",
       "description": "electron-xiami -  Linux amp Mac  Xiami Player desktop for Linux amp Mac supported by Electron ",
       "authors": [
@@ -2879,6 +2978,7 @@
     },
     {
       "name": "Emacs",
+      "installname": "Emacs",
       "type": "AppImage",
       "description": "EmacsAppImage - This repository builds GNU Emacs from git on Travis CI and packages it as an AppImage",
       "authors": [
@@ -2908,6 +3008,7 @@
     },
     {
       "name": "embedded-ide",
+      "installname": "embedded-ide",
       "type": "AppImage",
       "description": "embedded-ide - IDE for C embedded development centered on bare-metal ARM systems",
       "authors": [
@@ -2937,6 +3038,7 @@
     },
     {
       "name": "Emoty",
+      "installname": "Emoty",
       "type": "AppImage",
       "description": "Emoty-Desktop - Emoty application for desktops",
       "authors": [
@@ -2966,6 +3068,7 @@
     },
     {
       "name": "emu-player",
+      "installname": "emu-player",
       "type": "AppImage",
       "description": "AppImage for emu-player",
       "authors": [
@@ -2995,6 +3098,7 @@
     },
     {
       "name": "EncryptPad",
+      "installname": "EncryptPad",
       "type": "AppImage",
       "description": "EncryptPad - Minimalist secure text editor and binary encryptor that implements RFC 4880 Open PGP format symmetrically encrypted compressed and integrity protected The editor can protect files with passwords key files or both",
       "authors": [
@@ -3024,6 +3128,7 @@
     },
     {
       "name": "END",
+      "installname": "END",
       "type": "END",
       "description": "null",
       "authors": [
@@ -3053,6 +3158,7 @@
     },
     {
       "name": "EnvKey",
+      "installname": "EnvKey",
       "type": "AppImage",
       "description": "envkey-app - Secure human-friendly cross-platform secrets and config ",
       "authors": [
@@ -3082,6 +3188,7 @@
     },
     {
       "name": "EPL-Viz",
+      "installname": "EPL-Viz",
       "type": "AppImage",
       "description": "Qt-Frontend for the EPL-Viz project",
       "authors": [
@@ -3111,6 +3218,7 @@
     },
     {
       "name": "Eqonomize",
+      "installname": "Eqonomize",
       "type": "AppImage",
       "description": "Eqonomize Personal accounting cross-platform",
       "authors": [
@@ -3140,6 +3248,7 @@
     },
     {
       "name": "erdesigner",
+      "installname": "erdesigner",
       "type": "AppImage",
       "description": "Quick and easy creation of beautiful ER Diagrams - httpsfvitasgithubioerdesigner",
       "authors": [
@@ -3169,6 +3278,7 @@
     },
     {
       "name": "evothings-studio",
+      "installname": "evothings-studio",
       "type": "AppImage",
       "description": "AppImage for evothings-studio",
       "authors": [
@@ -3198,6 +3308,7 @@
     },
     {
       "name": "EyeStalker",
+      "installname": "EyeStalker",
       "type": "AppImage",
       "description": "eyestalker - Robust video-based eye tracking using recursive estimation of pupil characteristics",
       "authors": [
@@ -3227,6 +3338,7 @@
     },
     {
       "name": "falcon-sql-client",
+      "installname": "falcon-sql-client",
       "type": "AppImage",
       "description": "falcon-sql-client - Free open-source SQL client for Windows and Mac ",
       "authors": [
@@ -3256,6 +3368,7 @@
     },
     {
       "name": "FastQt",
+      "installname": "FastQt",
       "type": "AppImage",
       "description": "FastQt - FastQC port to Qt5 A quality control tool for high throughput sequence data",
       "authors": [
@@ -3285,6 +3398,7 @@
     },
     {
       "name": "feedseries",
+      "installname": "feedseries",
       "type": "AppImage",
       "description": "Contribute to feedseries development by creating an account on GitHub",
       "authors": [
@@ -3314,6 +3428,7 @@
     },
     {
       "name": "fifa-autobuyer",
+      "installname": "fifa-autobuyer",
       "type": "AppImage",
       "description": "fifa-autobuyer - FIFA 17 Autobuyer",
       "authors": [
@@ -3343,6 +3458,7 @@
     },
     {
       "name": "Filmulator",
+      "installname": "Filmulator",
       "type": "AppImage",
       "description": "filmulator-gui - Filmulator --- a film emulator with all of the positives and none of the negatives",
       "authors": [
@@ -3372,6 +3488,7 @@
     },
     {
       "name": "flameshot",
+      "installname": "flameshot",
       "type": "AppImage",
       "description": "flameshot - Powerful yet simple to use screenshot software",
       "authors": [
@@ -3401,6 +3518,7 @@
     },
     {
       "name": "FlatSiteBuilder",
+      "installname": "FlatSiteBuilder",
       "type": "AppImage",
       "description": "FlatSiteBuilder - CMS to be used for github pages",
       "authors": [
@@ -3430,6 +3548,7 @@
     },
     {
       "name": "flexVDI",
+      "installname": "flexVDI",
       "type": "AppImage",
       "description": "AppImage for flexVDI",
       "authors": [
@@ -3459,6 +3578,7 @@
     },
     {
       "name": "foxfolio",
+      "installname": "foxfolio",
       "type": "AppImage",
       "description": "foxfolio-desktop - Cryptocurrency portfolio management application which automatically retrieves balances and trades using exchange APIs",
       "authors": [
@@ -3488,6 +3608,7 @@
     },
     {
       "name": "Fraktal",
+      "installname": "Fraktal",
       "type": "null",
       "description": "Podcast Manager in Electron",
       "authors": [
@@ -3517,6 +3638,7 @@
     },
     {
       "name": "franz",
+      "installname": "franz",
       "type": "AppImage",
       "description": "franz - Franz is a free messaging app for services like WhatsApp Slack Messenger and many more",
       "authors": [
@@ -3546,6 +3668,7 @@
     },
     {
       "name": "FreeCAD",
+      "installname": "FreeCAD",
       "type": "AppImage",
       "description": "This is the official source code of FreeCAD a free and opensource multiplatform 3D parametric modeler",
       "authors": [
@@ -3575,6 +3698,7 @@
     },
     {
       "name": "Freeter",
+      "installname": "Freeter",
       "type": "AppImage",
       "description": "AppImage for Freeter",
       "authors": [
@@ -3604,6 +3728,7 @@
     },
     {
       "name": "Fulcrum",
+      "installname": "Fulcrum",
       "type": "AppImage",
       "description": "fulcrum-desktop - Fulcrum Desktop",
       "authors": [
@@ -3633,6 +3758,7 @@
     },
     {
       "name": "ganache",
+      "installname": "ganache",
       "type": "AppImage",
       "description": "ganache - Personal blockchain for Ethereum development",
       "authors": [
@@ -3662,6 +3788,7 @@
     },
     {
       "name": "geometrize",
+      "installname": "geometrize",
       "type": "AppImage",
       "description": "AppImage for geometrize",
       "authors": [
@@ -3691,6 +3818,7 @@
     },
     {
       "name": "GetThermal",
+      "installname": "GetThermal",
       "type": "AppImage",
       "description": "GetThermal - Cross-platform USB thermal camera viewer",
       "authors": [
@@ -3720,6 +3848,7 @@
     },
     {
       "name": "gggrotto",
+      "installname": "gggrotto",
       "type": "AppImage",
       "description": "ng2gggrotto - Glorious Glacier Grotto  The Linux Game Jam 2017 participant",
       "authors": [
@@ -3749,6 +3878,7 @@
     },
     {
       "name": "gifcurry",
+      "installname": "gifcurry",
       "type": "AppImage",
       "description": "gifcurry - Your open source video to GIF maker built with Haskell",
       "authors": [
@@ -3778,6 +3908,7 @@
     },
     {
       "name": "gimp",
+      "installname": "gimp",
       "type": "AppImage",
       "description": "Contribute to gimp-appimage development by creating an account on GitHub",
       "authors": [
@@ -3807,6 +3938,7 @@
     },
     {
       "name": "Gingko",
+      "installname": "Gingko",
       "type": "null",
       "description": "Gingko client rewritten in Elm, packaged with Electron.",
       "authors": [
@@ -3836,6 +3968,7 @@
     },
     {
       "name": "githoard",
+      "installname": "githoard",
       "type": "AppImage",
       "description": "githoard - Desktop app that enables users to quickly clone git repositories",
       "authors": [
@@ -3865,6 +3998,7 @@
     },
     {
       "name": "GitHubDesktop",
+      "installname": "GitHubDesktop",
       "type": "AppImage",
       "description": "Simple collaboration from your desktop",
       "authors": [
@@ -3894,6 +4028,7 @@
     },
     {
       "name": "gLabels",
+      "installname": "gLabels",
       "type": "AppImage",
       "description": "glabels-qt - gLabels Label Designer QtC",
       "authors": [
@@ -3923,6 +4058,7 @@
     },
     {
       "name": "Godot",
+      "installname": "Godot",
       "type": "AppImage",
       "description": "AppImage for Godot",
       "authors": [
@@ -3952,6 +4088,7 @@
     },
     {
       "name": "Gpredict",
+      "installname": "Gpredict",
       "type": "AppImage",
       "description": "gpredict - Gpredict satellite tracking application",
       "authors": [
@@ -3981,6 +4118,7 @@
     },
     {
       "name": "GradeStats",
+      "installname": "GradeStats",
       "type": "AppImage",
       "description": "Contribute to GradeStats development by creating an account on GitHub",
       "authors": [
@@ -4010,6 +4148,7 @@
     },
     {
       "name": "GrandView",
+      "installname": "GrandView",
       "type": "AppImage",
       "description": "grand-view - Helps you structure a large set of information units Can be used as a tool to plan and gather resources for reportstheses and so on",
       "authors": [
@@ -4039,6 +4178,7 @@
     },
     {
       "name": "Gulden",
+      "installname": "Gulden",
       "type": "AppImage",
       "description": "gulden-official - The official repository for Gulden core wallet updated at each release",
       "authors": [
@@ -4068,6 +4208,7 @@
     },
     {
       "name": "GVim",
+      "installname": "GVim",
       "type": "AppImage",
       "description": "vim-appimage - AppImage for gVim",
       "authors": [
@@ -4097,6 +4238,7 @@
     },
     {
       "name": "halium-tool",
+      "installname": "halium-tool",
       "type": "AppImage",
       "description": "Contribute to halium-install development by creating an account on GitHub",
       "authors": [
@@ -4126,6 +4268,7 @@
     },
     {
       "name": "halland-proxy",
+      "installname": "halland-proxy",
       "type": "AppImage",
       "description": "halland-proxy - A web debugging proxy written in javascript Electron",
       "authors": [
@@ -4155,6 +4298,7 @@
     },
     {
       "name": "harmony",
+      "installname": "harmony",
       "type": "AppImage",
       "description": "harmony - musicalnote Sleek music player for Spotify SoundCloud Google Play Music and your local files",
       "authors": [
@@ -4184,6 +4328,7 @@
     },
     {
       "name": "HDRMerge",
+      "installname": "HDRMerge",
       "type": "null",
       "description": "Merge several raw images into a single DNG raw image with high dynamic range.",
       "authors": [
@@ -4213,6 +4358,7 @@
     },
     {
       "name": "hexoeditor",
+      "installname": "hexoeditor",
       "type": "AppImage",
       "description": "HexoEditor - this markdown Editor for hexo blog",
       "authors": [
@@ -4242,6 +4388,7 @@
     },
     {
       "name": "HomeAssistantElectron",
+      "installname": "HomeAssistantElectron",
       "type": "AppImage",
       "description": "HomeAssistantElectron - Desktop app for Home Assistant based on Electron",
       "authors": [
@@ -4271,6 +4418,7 @@
     },
     {
       "name": "hotspot",
+      "installname": "hotspot",
       "type": "AppImage",
       "description": "hotspot - The Linux perf GUI for performance analysis",
       "authors": [
@@ -4300,6 +4448,7 @@
     },
     {
       "name": "htmldoc",
+      "installname": "htmldoc",
       "type": "AppImage",
       "description": "htmldoc - HTML Conversion Software",
       "authors": [
@@ -4329,6 +4478,7 @@
     },
     {
       "name": "hyper",
+      "installname": "hyper",
       "type": "AppImage",
       "description": "hyper - A terminal built on web technologies",
       "authors": [
@@ -4358,6 +4508,7 @@
     },
     {
       "name": "IBM_DSX_Desktop",
+      "installname": "IBM_DSX_Desktop",
       "type": "AppImage",
       "description": "AppImage for IBM_DSX_Desktop",
       "authors": [
@@ -4387,6 +4538,7 @@
     },
     {
       "name": "icestudio",
+      "installname": "icestudio",
       "type": "AppImage",
       "description": "icestudio - snowflake Experimental graphic editor for open FPGAs",
       "authors": [
@@ -4416,6 +4568,7 @@
     },
     {
       "name": "iease-music",
+      "installname": "iease-music",
       "type": "AppImage",
       "description": "ieaseMusic -   metal ",
       "authors": [
@@ -4445,6 +4598,7 @@
     },
     {
       "name": "IGdm",
+      "installname": "IGdm",
       "type": "AppImage",
       "description": "igdm - Desktop application for Instagram DMs",
       "authors": [
@@ -4474,6 +4628,7 @@
     },
     {
       "name": "iitmnetworkauthapp",
+      "installname": "iitmnetworkauthapp",
       "type": "AppImage",
       "description": "iitm-network-auth-app - Cross platform application for authentication inside IIT Madras campus network",
       "authors": [
@@ -4503,6 +4658,7 @@
     },
     {
       "name": "ImageMagick",
+      "installname": "ImageMagick",
       "type": "AppImage",
       "description": "ImageMagick",
       "authors": [
@@ -4532,6 +4688,7 @@
     },
     {
       "name": "ImagePlay",
+      "installname": "ImagePlay",
       "type": "AppImage",
       "description": "ImagePlay is a rapid prototyping application for image processing",
       "authors": [
@@ -4561,6 +4718,7 @@
     },
     {
       "name": "Imagine",
+      "installname": "Imagine",
       "type": "AppImage",
       "description": "Imagine -  PNGJPEG optimization app for macOS Windows and Linux",
       "authors": [
@@ -4590,6 +4748,7 @@
     },
     {
       "name": "imapsyncclient",
+      "installname": "imapsyncclient",
       "type": "AppImage",
       "description": "ImapSyncClient - ImapSync Desktop Client",
       "authors": [
@@ -4619,6 +4778,7 @@
     },
     {
       "name": "inboxer",
+      "installname": "inboxer",
       "type": "AppImage",
       "description": "inboxer - Unofficial free and open-source Inbox by Gmail Desktop App",
       "authors": [
@@ -4648,6 +4808,7 @@
     },
     {
       "name": "infinite-electron",
+      "installname": "infinite-electron",
       "type": "AppImage",
       "description": "infinite-electron - An Electron-based cross-platform desktop reader for free ebooks ",
       "authors": [
@@ -4677,6 +4838,7 @@
     },
     {
       "name": "infinitex",
+      "installname": "infinitex",
       "type": "AppImage",
       "description": "Infinitex - A LaTeX and WYSIWYG editor with academic search functionality and other helpful tools",
       "authors": [
@@ -4706,6 +4868,7 @@
     },
     {
       "name": "Insomnia",
+      "installname": "Insomnia",
       "type": "AppImage",
       "description": "insomnia - The most intuitive cross-platform REST API Client ",
       "authors": [
@@ -4735,6 +4898,7 @@
     },
     {
       "name": "Instagram-Py",
+      "installname": "Instagram-Py",
       "type": "null",
       "description": "Hack Instagram Like a Pro.",
       "authors": [
@@ -4764,6 +4928,7 @@
     },
     {
       "name": "invoice-generator",
+      "installname": "invoice-generator",
       "type": "AppImage",
       "description": "Invoice-Generator-Electron - Invoice Generator For Businesses built using Electron",
       "authors": [
@@ -4793,6 +4958,7 @@
     },
     {
       "name": "inxi",
+      "installname": "inxi",
       "type": "AppImage",
       "description": "This repository contains appimagebuild and AppImage build scripts for building AppImages easily",
       "authors": [
@@ -4822,6 +4988,7 @@
     },
     {
       "name": "iota1k",
+      "installname": "iota1k",
       "type": "AppImage",
       "description": "iotalk is a privacy-minded messaging system built on the IOTA Tangle Messages are encrypted so only the intended recipient can read them",
       "authors": [
@@ -4851,6 +5018,7 @@
     },
     {
       "name": "iota-wallet",
+      "installname": "iota-wallet",
       "type": "AppImage",
       "description": "iota-gui-beta - Beta of IOTA GUI client",
       "authors": [
@@ -4880,6 +5048,7 @@
     },
     {
       "name": "ipe",
+      "installname": "ipe",
       "type": "AppImage",
       "description": "null ",
       "authors": [
@@ -4909,6 +5078,7 @@
     },
     {
       "name": "iqpuzzle",
+      "installname": "iqpuzzle",
       "type": "AppImage",
       "description": "iqpuzzle - A diverting IQ challenging pentomino puzzle",
       "authors": [
@@ -4938,6 +5108,7 @@
     },
     {
       "name": "irccloud-desktop",
+      "installname": "irccloud-desktop",
       "type": "AppImage",
       "description": "irccloud-desktop - IRCCloud Desktop App",
       "authors": [
@@ -4967,6 +5138,7 @@
     },
     {
       "name": "i-score",
+      "installname": "i-score",
       "type": "AppImage",
       "description": "ossia score an interactive sequencer for the intermedia arts",
       "authors": [
@@ -4996,6 +5168,7 @@
     },
     {
       "name": "jag",
+      "installname": "jag",
       "type": "AppImage",
       "description": "jag - Simple interactive grapher for 2D plots",
       "authors": [
@@ -5025,6 +5198,7 @@
     },
     {
       "name": "jaxx",
+      "installname": "jaxx",
       "type": "AppImage",
       "description": "Jaxx Bitcoin Wallet",
       "authors": [
@@ -5054,6 +5228,7 @@
     },
     {
       "name": "jiMUD",
+      "installname": "jiMUD",
       "type": "AppImage",
       "description": "jiMUD - MUD client for ShadowMUDcom based on webclient",
       "authors": [
@@ -5083,6 +5258,7 @@
     },
     {
       "name": "joaldesktop",
+      "installname": "joaldesktop",
       "type": "AppImage",
       "description": "joal-desktop - A desktop application for JOAL Plug and play no additional download or configuration needed",
       "authors": [
@@ -5112,6 +5288,7 @@
     },
     {
       "name": "Joplin",
+      "installname": "Joplin",
       "type": "AppImage",
       "description": "joplin - Joplin - a note taking and to-do application with synchronization capabilities for Windows macOS Linux Android and iOS",
       "authors": [
@@ -5141,6 +5318,7 @@
     },
     {
       "name": "jq-linux64",
+      "installname": "jq",
       "type": "binary",
       "description": "jq - Command-line JSON processor",
       "authors": [
@@ -5170,6 +5348,7 @@
     },
     {
       "name": "jscad-desktop",
+      "installname": "jscad-desktop",
       "type": "null",
       "description": "jscad desktop application",
       "authors": [
@@ -5199,6 +5378,7 @@
     },
     {
       "name": "jumpfm",
+      "installname": "jumpfm",
       "type": "AppImage",
       "description": "jumpfm - A file manager that lets you jump",
       "authors": [
@@ -5228,6 +5408,7 @@
     },
     {
       "name": "Kaidan",
+      "installname": "Kaidan",
       "type": "AppImage",
       "description": "Kaidan the first fully convergant and cross-platform JabberXMPP Instant Messenger",
       "authors": [
@@ -5257,6 +5438,7 @@
     },
     {
       "name": "Kate",
+      "installname": "Kate",
       "type": "AppImage",
       "description": "null ",
       "authors": [
@@ -5286,6 +5468,7 @@
     },
     {
       "name": "kate_pdf_converter",
+      "installname": "kate_pdf_converter",
       "type": "AppImage",
       "description": "katepdfconverter - Kate pdf converter is an open source cross-platform application that can be used for image editing and exporting  to pdf",
       "authors": [
@@ -5315,6 +5498,7 @@
     },
     {
       "name": "KawAnime",
+      "installname": "KawAnime",
       "type": "AppImage",
       "description": "",
       "authors": [
@@ -5344,6 +5528,7 @@
     },
     {
       "name": "Kdenlive",
+      "installname": "Kdenlive",
       "type": "AppImage",
       "description": "Video Editor ",
       "authors": [
@@ -5373,6 +5558,7 @@
     },
     {
       "name": "Kdevelop",
+      "installname": "Kdevelop",
       "type": "AppImage",
       "description": "null ",
       "authors": [
@@ -5402,6 +5588,7 @@
     },
     {
       "name": "KeePassXC",
+      "installname": "KeePassXC",
       "type": "AppImage",
       "description": "keepassxc - KeePassXC is a cross-platform community-driven port of the Windows application Keepass Password Safe",
       "authors": [
@@ -5431,6 +5618,7 @@
     },
     {
       "name": "KettleClient",
+      "installname": "KettleClient",
       "type": "AppImage",
       "description": "KettleClient - Graphical client for REST KettleService written in Qt",
       "authors": [
@@ -5460,6 +5648,7 @@
     },
     {
       "name": "kevedit",
+      "installname": "kevedit",
       "type": "AppImage",
       "description": "kevedit - KevEdit ZZT editor",
       "authors": [
@@ -5489,6 +5678,7 @@
     },
     {
       "name": "Krita",
+      "installname": "Krita",
       "type": "AppImage",
       "description": "Digital Painting ",
       "authors": [
@@ -5518,6 +5708,7 @@
     },
     {
       "name": "ksnip",
+      "installname": "ksnip",
       "type": "AppImage",
       "description": "ksnip - Ksnip is a Qt based Linux screenshot tool that provides many annotation features for your screenshots",
       "authors": [
@@ -5547,6 +5738,7 @@
     },
     {
       "name": "Ktube-media-downloader",
+      "installname": "Ktube-media-downloader",
       "type": "AppImage",
       "description": "Ktube-media-downloader - DownloadBrowse Media from various websites    Download - ",
       "authors": [
@@ -5576,6 +5768,7 @@
     },
     {
       "name": "LabPowerQt",
+      "installname": "LabPowerQt",
       "type": "AppImage",
       "description": "labpowerqt - LabPowerQt is an application to control laboratory power supplies",
       "authors": [
@@ -5605,6 +5798,7 @@
     },
     {
       "name": "langly",
+      "installname": "langly",
       "type": "AppImage",
       "description": "langly - Manage JSON language files in Laravel",
       "authors": [
@@ -5634,6 +5828,7 @@
     },
     {
       "name": "LaserWeb",
+      "installname": "LaserWeb",
       "type": "AppImage",
       "description": "LaserWeb4-Binaries - Installers for LaserWeb4",
       "authors": [
@@ -5663,6 +5858,7 @@
     },
     {
       "name": "ldview",
+      "installname": "ldview",
       "type": "AppImage",
       "description": "LDraw Model Viewer ",
       "authors": [
@@ -5692,6 +5888,7 @@
     },
     {
       "name": "leocad",
+      "installname": "leocad",
       "type": "AppImage",
       "description": "leocad - A CAD program for creating virtual LEGO models",
       "authors": [
@@ -5721,6 +5918,7 @@
     },
     {
       "name": "Lepton",
+      "installname": "Lepton",
       "type": "AppImage",
       "description": "Lepton -     Democratizing Code Snippets Management macOSWinLinux",
       "authors": [
@@ -5750,6 +5948,7 @@
     },
     {
       "name": "LibreOfficeDaily",
+      "installname": "LibreOfficeDaily",
       "type": "AppImage",
       "description": "AppImage for LibreOfficeDaily",
       "authors": [
@@ -5779,6 +5978,7 @@
     },
     {
       "name": "LibreOfficeDev",
+      "installname": "LibreOfficeDev",
       "type": "AppImage",
       "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation. ",
       "authors": [
@@ -5808,6 +6008,7 @@
     },
     {
       "name": "LibreOffice",
+      "installname": "LibreOffice",
       "type": "AppImage",
       "description": "AppImage for LibreOffice",
       "authors": [
@@ -5837,6 +6038,7 @@
     },
     {
       "name": "LibrePCB-Nightly",
+      "installname": "LibrePCB-Nightly",
       "type": "AppImage",
       "description": "Design Schematics and PCBs ",
       "authors": [
@@ -5866,6 +6068,7 @@
     },
     {
       "name": "linuxdeployqt",
+      "installname": "linuxdeployqt",
       "type": "AppImage",
       "description": "linuxdeployqt - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses and optionally generates an AppImage Can be used for Qt and other applications",
       "authors": [
@@ -5895,6 +6098,7 @@
     },
     {
       "name": "linux-quiz-generator",
+      "installname": "linux-quiz-generator",
       "type": "AppImage",
       "description": "quizgenerator - Generator of random quizes",
       "authors": [
@@ -5924,6 +6128,7 @@
     },
     {
       "name": "lisk-nano",
+      "installname": "lisk-nano",
       "type": "AppImage",
       "description": "lisk-nano -  Lisk Nano a minimal feature client",
       "authors": [
@@ -5953,6 +6158,7 @@
     },
     {
       "name": "LiveZilla",
+      "installname": "LiveZilla",
       "type": "AppImage",
       "description": "AppImage for LiveZilla",
       "authors": [
@@ -5982,6 +6188,7 @@
     },
     {
       "name": "lmms",
+      "installname": "lmms",
       "type": "AppImage",
       "description": "lmms - cross-platform music production software",
       "authors": [
@@ -6011,6 +6218,7 @@
     },
     {
       "name": "luminance-hdr",
+      "installname": "luminance-hdr",
       "type": "null",
       "description": "Create and tonemap HDR images",
       "authors": [
@@ -6040,6 +6248,7 @@
     },
     {
       "name": "luna",
+      "installname": "luna",
       "type": "null",
       "description": "Manage your NPM packages.",
       "authors": [
@@ -6069,6 +6278,7 @@
     },
     {
       "name": "lxd-ui",
+      "installname": "lxd-ui",
       "type": "AppImage",
       "description": "lxd-ui - A LXD user interface powered by electron-vue",
       "authors": [
@@ -6098,6 +6308,7 @@
     },
     {
       "name": "MagicFountain",
+      "installname": "MagicFountain",
       "type": "AppImage",
       "description": "magicfountain - A screenwriting program available on Linux MacOSX and Windows",
       "authors": [
@@ -6127,6 +6338,7 @@
     },
     {
       "name": "maim",
+      "installname": "maim",
       "type": "AppImage",
       "description": "maim takes screenshots of your desktop It has options to take only a region and relies on slop to query for regions maim is supposed to be an improved scrot",
       "authors": [
@@ -6156,6 +6368,7 @@
     },
     {
       "name": "Makou_Reactor",
+      "installname": "Makou_Reactor",
       "type": "AppImage",
       "description": "makoureactor - Final Fantasy VII field archive editor",
       "authors": [
@@ -6185,6 +6398,7 @@
     },
     {
       "name": "Malice",
+      "installname": "Malice",
       "type": "AppImage",
       "description": "Malice - GTK interface for iceprog with most batteries included",
       "authors": [
@@ -6214,6 +6428,7 @@
     },
     {
       "name": "mandelbulber2",
+      "installname": "mandelbulber2",
       "type": "AppImage",
       "description": "Visit 3D Fractal World ",
       "authors": [
@@ -6243,6 +6458,7 @@
     },
     {
       "name": "manta",
+      "installname": "manta",
       "type": "AppImage",
       "description": "Manta -  Flexible invoicing desktop app with beautiful amp customizable templates",
       "authors": [
@@ -6272,6 +6488,7 @@
     },
     {
       "name": "marktext",
+      "installname": "marktext",
       "type": "AppImage",
       "description": "Next generation markdown editor",
       "authors": [
@@ -6301,6 +6518,7 @@
     },
     {
       "name": "marlin-conf",
+      "installname": "marlin-conf",
       "type": "AppImage",
       "description": "marlin-config - Marlin firmware instant configurator",
       "authors": [
@@ -6330,6 +6548,7 @@
     },
     {
       "name": "MasterVyrn",
+      "installname": "MasterVyrn",
       "type": "AppImage",
       "description": "MasterVyrn is a clean dedicated GBF loader build on top of electron",
       "authors": [
@@ -6359,6 +6578,7 @@
     },
     {
       "name": "maven",
+      "installname": "maven",
       "type": "AppImage",
       "description": "maven - Maven GUI Metabolomics Analysis and Visualization Engine  ",
       "authors": [
@@ -6388,6 +6608,7 @@
     },
     {
       "name": "MazeSolver",
+      "installname": "MazeSolver",
       "type": "AppImage",
       "description": "MazeSolver - Create and solve mazes using DFS or BFS algorithm",
       "authors": [
@@ -6417,6 +6638,7 @@
     },
     {
       "name": "mead",
+      "installname": "mead",
       "type": "AppImage",
       "description": "mead - Mead - Dead simple markdown editor for Windows Linux and Mac",
       "authors": [
@@ -6446,6 +6668,7 @@
     },
     {
       "name": "media_mate",
+      "installname": "media_mate",
       "type": "AppImage",
       "description": "mediamate - A full media serverplayerdownloaderetc - in one",
       "authors": [
@@ -6475,6 +6698,7 @@
     },
     {
       "name": "medium-desktop",
+      "installname": "medium-desktop",
       "type": "AppImage",
       "description": "medium-desktop - Desktop application for Medium",
       "authors": [
@@ -6504,6 +6728,7 @@
     },
     {
       "name": "MedleyText",
+      "installname": "MedleyText",
       "type": "AppImage",
       "description": "AppImage for MedleyText",
       "authors": [
@@ -6533,6 +6758,7 @@
     },
     {
       "name": "MellowPlayer",
+      "installname": "MellowPlayer",
       "type": "AppImage",
       "description": "MellowPlayer - Cloud music integration for your desktop",
       "authors": [
@@ -6562,6 +6788,7 @@
     },
     {
       "name": "MineTime",
+      "installname": "MineTime",
       "type": "AppImage",
       "description": "MineTime public repository for issue tracking",
       "authors": [
@@ -6591,6 +6818,7 @@
     },
     {
       "name": "Minions",
+      "installname": "Minions",
       "type": "AppImage",
       "description": "null",
       "authors": [
@@ -6620,6 +6848,7 @@
     },
     {
       "name": "MIRTK",
+      "installname": "MIRTK",
       "type": "AppImage",
       "description": "AppImage for MIRTK",
       "authors": [
@@ -6649,6 +6878,7 @@
     },
     {
       "name": "MisRCON",
+      "installname": "MisRCON",
       "type": "AppImage",
       "description": "MisRCON - RCON utility for Miscreated",
       "authors": [
@@ -6678,6 +6908,7 @@
     },
     {
       "name": "Mitmproxy",
+      "installname": "Mitmproxy",
       "type": "AppImage",
       "description": "MitmproxyAppImage - for creating appimage for the mitmproxy python program",
       "authors": [
@@ -6707,6 +6938,7 @@
     },
     {
       "name": "mki3dgame",
+      "installname": "mki3dgame",
       "type": "AppImage",
       "description": "mki3dgame - A game that uses designs produced with httpsmki1967githubiomki3d",
       "authors": [
@@ -6736,6 +6968,7 @@
     },
     {
       "name": "MKVToolNix",
+      "installname": "MKVToolNix",
       "type": "AppImage",
       "description": "mkvtoolnix-AppImage - experimental MKVToolNix AppImage",
       "authors": [
@@ -6765,6 +6998,7 @@
     },
     {
       "name": "MLV-App",
+      "installname": "MLV-App",
       "type": "AppImage",
       "description": "MLV-App - An all in one MLV processing app that will become great soon or maybe is already",
       "authors": [
@@ -6794,6 +7028,7 @@
     },
     {
       "name": "mockoon",
+      "installname": "mockoon",
       "type": "AppImage",
       "description": "Mock servers in seconds ",
       "authors": [
@@ -6823,6 +7058,7 @@
     },
     {
       "name": "movie-monad",
+      "installname": "movie-monad",
       "type": "AppImage",
       "description": "movie-monad - A free and simple to use video player built with Haskell",
       "authors": [
@@ -6852,6 +7088,7 @@
     },
     {
       "name": "MrWriter",
+      "installname": "MrWriter",
       "type": "AppImage",
       "description": "MrWriter - Notetaking and blackboard replacement application Inspired by Xournal Written in CQt for Linux  Windows  Mac",
       "authors": [
@@ -6881,6 +7118,7 @@
     },
     {
       "name": "ms-teams-capsule",
+      "installname": "ms-teams-capsule",
       "type": "AppImage",
       "description": "AppImage for ms-teams-capsule",
       "authors": [
@@ -6910,6 +7148,7 @@
     },
     {
       "name": "MultiDir",
+      "installname": "MultiDir",
       "type": "AppImage",
       "description": "multidir - Multiple directory management tool",
       "authors": [
@@ -6939,6 +7178,7 @@
     },
     {
       "name": "Mumble",
+      "installname": "Mumble",
       "type": "AppImage",
       "description": "mumble - Mirror of the Mumble VoIP ClientServer continuously building AppImages -- will be force-pushed with new commits regularly",
       "authors": [
@@ -6968,6 +7208,7 @@
     },
     {
       "name": "MuseScore",
+      "installname": "MuseScore",
       "type": "AppImage",
       "description": "AppImage for MuseScore",
       "authors": [
@@ -6997,6 +7238,7 @@
     },
     {
       "name": "mybelka",
+      "installname": "mybelka",
       "type": "AppImage",
       "description": "Contribute to mybelka development by creating an account on GitHub",
       "authors": [
@@ -7026,6 +7268,7 @@
     },
     {
       "name": "mycard",
+      "installname": "mycard",
       "type": "AppImage",
       "description": "moecube - APP",
       "authors": [
@@ -7055,6 +7298,7 @@
     },
     {
       "name": "nbb",
+      "installname": "nbb",
       "type": "AppImage",
       "description": "AppImage for nbb",
       "authors": [
@@ -7084,6 +7328,7 @@
     },
     {
       "name": "NCSA_Mosaic",
+      "installname": "NCSA_Mosaic",
       "type": "AppImage",
       "description": "NCSA-Mosaic-AppImage - NCSA Mosaic 27 as an AppImage for most Linux distributions",
       "authors": [
@@ -7113,6 +7358,7 @@
     },
     {
       "name": "neofetch",
+      "installname": "neofetch",
       "type": "AppImage",
       "description": "A fast highly customizable system info script that supports a variety of OSes",
       "authors": [
@@ -7142,6 +7388,7 @@
     },
     {
       "name": "Neon",
+      "installname": "Neon",
       "type": "AppImage",
       "description": "neon-wallet - Light wallet for the NEO blockchain",
       "authors": [
@@ -7171,6 +7418,7 @@
     },
     {
       "name": "Nextcloud",
+      "installname": "Nextcloud",
       "type": "AppImage",
       "description": "Nextcloud desktop synchronization client ",
       "authors": [
@@ -7200,6 +7448,7 @@
     },
     {
       "name": "nfeh",
+      "installname": "nfeh",
       "type": "AppImage",
       "description": "nfeh - Electron based GUI for feh",
       "authors": [
@@ -7229,6 +7478,7 @@
     },
     {
       "name": "ngrev",
+      "installname": "ngrev",
       "type": "AppImage",
       "description": "ngrev - Tool for reverse engineering of Angular applications",
       "authors": [
@@ -7258,6 +7508,7 @@
     },
     {
       "name": "nheko",
+      "installname": "nheko",
       "type": "AppImage",
       "description": "nheko - Desktop client for the Matrix protocol",
       "authors": [
@@ -7287,6 +7538,7 @@
     },
     {
       "name": "Nitrokey",
+      "installname": "Nitrokey",
       "type": "AppImage",
       "description": "Manage your Nitrokey devices",
       "authors": [
@@ -7316,6 +7568,7 @@
     },
     {
       "name": "Nootka",
+      "installname": "Nootka",
       "type": "AppImage",
       "description": "Application for learning musical score notation ",
       "authors": [
@@ -7345,6 +7598,7 @@
     },
     {
       "name": "notepadqq",
+      "installname": "notepadqq",
       "type": "AppImage",
       "description": "notepadqq - Notepad-like editor for Linux",
       "authors": [
@@ -7374,6 +7628,7 @@
     },
     {
       "name": "nrf_connect",
+      "installname": "nrf_connect",
       "type": "AppImage",
       "description": "Contribute to pc-nrfconnect-core development by creating an account on GitHub",
       "authors": [
@@ -7403,6 +7658,7 @@
     },
     {
       "name": "nteract",
+      "installname": "nteract",
       "type": "AppImage",
       "description": "nteract -  Desktop Jupyter Extension libraries and more",
       "authors": [
@@ -7432,6 +7688,7 @@
     },
     {
       "name": "nuclear",
+      "installname": "nuclear",
       "type": "AppImage",
       "description": "nuclear - Desktop music player focused on streaming from free sources",
       "authors": [
@@ -7461,6 +7718,7 @@
     },
     {
       "name": "nvim",
+      "installname": "nvim",
       "type": "AppImage",
       "description": "neovim - Vim-fork focused on extensibility and usability",
       "authors": [
@@ -7490,6 +7748,7 @@
     },
     {
       "name": "onenote",
+      "installname": "onenote",
       "type": "AppImage",
       "description": "onenote - Linux Electron Onenote - A Linux compatible version of OneNote",
       "authors": [
@@ -7519,6 +7778,7 @@
     },
     {
       "name": "Onshape",
+      "installname": "Onshape",
       "type": "AppImage",
       "description": "onshape-desktop-shell - Onshape desktop app web application shell Unofficial",
       "authors": [
@@ -7548,6 +7808,7 @@
     },
     {
       "name": "Onyx",
+      "installname": "Onyx",
       "type": "AppImage",
       "description": "onyx - Decentralized messaging application based on PSS",
       "authors": [
@@ -7577,6 +7838,7 @@
     },
     {
       "name": "OpenBlok",
+      "installname": "OpenBlok",
       "type": "AppImage",
       "description": "openblok - A customizable cross platform open-source falling block game packed with a bunch of features",
       "authors": [
@@ -7606,6 +7868,7 @@
     },
     {
       "name": "OpenShot",
+      "installname": "OpenShot",
       "type": "AppImage",
       "description": "openshot-qt - This repo is the primary development home for OpenShot Video Editor version 2 a PyQt video editing application which utilizes the powerful libopenshot C library",
       "authors": [
@@ -7635,6 +7898,7 @@
     },
     {
       "name": "OpenTodoList",
+      "installname": "OpenTodoList",
       "type": "AppImage",
       "description": "AppImage for OpenTodoList",
       "authors": [
@@ -7664,6 +7928,7 @@
     },
     {
       "name": "OpenXcom",
+      "installname": "OpenXcom",
       "type": "AppImage",
       "description": "AppImage for OpenXcom",
       "authors": [
@@ -7693,6 +7958,7 @@
     },
     {
       "name": "Optifmus",
+      "installname": "Optifmus",
       "type": "AppImage",
       "description": "AppImage for Optifmus",
       "authors": [
@@ -7722,6 +7988,7 @@
     },
     {
       "name": "OTPManager",
+      "installname": "OTPManager",
       "type": "AppImage",
       "description": "OTPManager-build - build Repo of OPTManager",
       "authors": [
@@ -7751,6 +8018,7 @@
     },
     {
       "name": "otter-browser",
+      "installname": "otter-browser",
       "type": "AppImage",
       "description": "AppImage for otter-browser",
       "authors": [
@@ -7780,6 +8048,7 @@
     },
     {
       "name": "ownCloud",
+      "installname": "ownCloud",
       "type": "AppImage",
       "description": "AppImage for ownCloud",
       "authors": [
@@ -7809,6 +8078,7 @@
     },
     {
       "name": "p2p-chat",
+      "installname": "p2p-chat",
       "type": "AppImage",
       "description": "p2p-chat - a P2P LAN chatting and file sharing tool",
       "authors": [
@@ -7838,6 +8108,7 @@
     },
     {
       "name": "PacketSender",
+      "installname": "PacketSender",
       "type": "AppImage",
       "description": "PacketSender - Network utility for sending  receiving TCP UDP SSL",
       "authors": [
@@ -7867,6 +8138,7 @@
     },
     {
       "name": "padlock",
+      "installname": "padlock",
       "type": "AppImage",
       "description": "padlock - A minimalist open source password manager",
       "authors": [
@@ -7896,6 +8168,7 @@
     },
     {
       "name": "panini",
+      "installname": "panini",
       "type": "AppImage",
       "description": "panini - visual tool for creating perspective views from panoramic and wide angle photographs",
       "authors": [
@@ -7925,6 +8198,7 @@
     },
     {
       "name": "parsec",
+      "installname": "parsec",
       "type": "null",
       "description": "Parsec game streaming client",
       "authors": [
@@ -7954,6 +8228,7 @@
     },
     {
       "name": "patephone",
+      "installname": "patephone",
       "type": "AppImage",
       "description": "pathephone-desktop - Distributed audio player",
       "authors": [
@@ -7983,6 +8258,7 @@
     },
     {
       "name": "pathephone",
+      "installname": "pathephone",
       "type": "AppImage",
       "description": "pathephone-desktop - Distributed audio player",
       "authors": [
@@ -8012,6 +8288,7 @@
     },
     {
       "name": "PatternPaint",
+      "installname": "PatternPaint",
       "type": "AppImage",
       "description": "PatternPaint - Making beautiful light shows is as easy as drawing a picture with Pattern Paint",
       "authors": [
@@ -8041,6 +8318,7 @@
     },
     {
       "name": "pb-for-desktop",
+      "installname": "pb-for-desktop",
       "type": "AppImage",
       "description": "pb-for-desktop - The missing Desktop application for Pushbullet",
       "authors": [
@@ -8070,6 +8348,7 @@
     },
     {
       "name": "peek",
+      "installname": "peek",
       "type": "AppImage",
       "description": "peek - Simple animated GIF screen recorder with an easy to use interface",
       "authors": [
@@ -8099,6 +8378,7 @@
     },
     {
       "name": "Peerio",
+      "installname": "Peerio",
       "type": "AppImage",
       "description": "peerio-desktop - Peerio 2 for macOS Windows amp Linux",
       "authors": [
@@ -8128,6 +8408,7 @@
     },
     {
       "name": "Pendragon",
+      "installname": "Pendragon",
       "type": "AppImage",
       "description": "pendragon - An exciting 2D RPG game that incorporates gossiping",
       "authors": [
@@ -8157,6 +8438,7 @@
     },
     {
       "name": "Peruse",
+      "installname": "Peruse",
       "type": "AppImage",
       "description": "Document Viewer ",
       "authors": [
@@ -8186,6 +8468,7 @@
     },
     {
       "name": "Pext",
+      "installname": "Pext",
       "type": "AppImage",
       "description": "",
       "authors": [
@@ -8215,6 +8498,7 @@
     },
     {
       "name": "PhotoFlow",
+      "installname": "PhotoFlow",
       "type": "AppImage",
       "description": "PhotoFlow - A fully non-destructive photo retouching program providing a complete layer-based workflow including RAW image development",
       "authors": [
@@ -8244,6 +8528,7 @@
     },
     {
       "name": "pia",
+      "installname": "pia",
       "type": "AppImage",
       "description": "pia-app - Excutable permettant de lancer lapplication front office PIA sur son ordinateur Cest une version portable de loutil PIA  Executable to launch the PIA application on your computer It is a stand-alone version of the PIA application",
       "authors": [
@@ -8273,6 +8558,7 @@
     },
     {
       "name": "pipam",
+      "installname": "pipam",
       "type": "AppImage",
       "description": "pipam - A package manager manager",
       "authors": [
@@ -8302,6 +8588,7 @@
     },
     {
       "name": "PixivDeck",
+      "installname": "PixivDeck",
       "type": "AppImage",
       "description": "PixivDeck - twohearts pixiv client for Desktop like TweetDeck twohearts",
       "authors": [
@@ -8331,6 +8618,7 @@
     },
     {
       "name": "Pixsrt",
+      "installname": "Pixsrt",
       "type": "AppImage",
       "description": "pixsrt - C Pixel Sorter",
       "authors": [
@@ -8360,6 +8648,7 @@
     },
     {
       "name": "planetblupi",
+      "installname": "planetblupi",
       "type": "AppImage",
       "description": "planetblupi-dev - Planet Blupi development bundle main repository",
       "authors": [
@@ -8389,6 +8678,7 @@
     },
     {
       "name": "playground",
+      "installname": "playground",
       "type": "AppImage",
       "description": "graphql-playground -   GraphQL IDE for better development workflows GraphQL Subscriptions interactive docs amp collaboration",
       "authors": [
@@ -8418,6 +8708,7 @@
     },
     {
       "name": "playyourdamnturn.com",
+      "installname": "playyourdamnturn.com",
       "type": "AppImage",
       "description": "Electron client that helps with playing your damn turn",
       "authors": [
@@ -8447,6 +8738,7 @@
     },
     {
       "name": "Plex",
+      "installname": "Plex",
       "type": "AppImage",
       "description": "AppImage for Plex",
       "authors": [
@@ -8476,6 +8768,7 @@
     },
     {
       "name": "Plover",
+      "installname": "Plover",
       "type": "AppImage",
       "description": "plover - Open source stenotype engine",
       "authors": [
@@ -8505,6 +8798,7 @@
     },
     {
       "name": "poddr",
+      "installname": "poddr",
       "type": "AppImage",
       "description": "Poddr - Podcast client built with Electron and Angularjs",
       "authors": [
@@ -8534,6 +8828,7 @@
     },
     {
       "name": "PokeNurse",
+      "installname": "PokeNurse",
       "type": "AppImage",
       "description": "PokeNurse -   A tool for Pokmon Go to aid in transferring and evolving Pokmon",
       "authors": [
@@ -8563,6 +8858,7 @@
     },
     {
       "name": "Pomello",
+      "installname": "Pomello",
       "type": "AppImage",
       "description": "AppImage for Pomello",
       "authors": [
@@ -8592,6 +8888,7 @@
     },
     {
       "name": "Popcorn_Time",
+      "installname": "Popcorn_Time",
       "type": "AppImage",
       "description": "popcorn-time-desktop -     A Modern and Experimental Popcorn Time Client",
       "authors": [
@@ -8621,6 +8918,7 @@
     },
     {
       "name": "postman",
+      "installname": "postman",
       "type": "AppImage",
       "description": "Contribute to postman-appimage development by creating an account on GitHub",
       "authors": [
@@ -8650,6 +8948,7 @@
     },
     {
       "name": "PowerShell",
+      "installname": "PowerShell",
       "type": "AppImage",
       "description": "PowerShell for every system",
       "authors": [
@@ -8679,6 +8978,7 @@
     },
     {
       "name": "prexview-studio",
+      "installname": "prexview-studio",
       "type": "AppImage",
       "description": "prexview-studio - It gives you the power flexibility and speed you have always wanted to craft beautiful designs to generate high volume documents in PDF HTML PNG and JPG",
       "authors": [
@@ -8708,6 +9008,7 @@
     },
     {
       "name": "protonmail",
+      "installname": "protonmail",
       "type": "AppImage",
       "description": "application - envelope Unofficial Electron wrapper for ProtonMail",
       "authors": [
@@ -8737,6 +9038,7 @@
     },
     {
       "name": "PrusaControl",
+      "installname": "PrusaControl",
       "type": "AppImage",
       "description": "null ",
       "authors": [
@@ -8766,6 +9068,7 @@
     },
     {
       "name": "PupaFM",
+      "installname": "PupaFM",
       "type": "AppImage",
       "description": "PupaFM -  doubanfm Music Desktop Player",
       "authors": [
@@ -8795,6 +9098,7 @@
     },
     {
       "name": "Pyslvs",
+      "installname": "Pyslvs",
       "type": "AppImage",
       "description": "Pyslvs-PyQt5 - Open Source Planar Linkage Mechanism Simulation and Mechanical Synthesis System",
       "authors": [
@@ -8824,6 +9128,7 @@
     },
     {
       "name": "qemu_powerpc",
+      "installname": "qemu_powerpc",
       "type": "AppImage",
       "description": "qemu-ppc - Lets you run PowerPC operating systems on 64-bit Intel Linux hosts",
       "authors": [
@@ -8853,6 +9158,7 @@
     },
     {
       "name": "QGroundControl",
+      "installname": "QGroundControl",
       "type": "AppImage",
       "description": "qgroundcontrol - Dronecode cross-platform ground control station for drones Android iOS Mac OS Linux Windows",
       "authors": [
@@ -8882,6 +9188,7 @@
     },
     {
       "name": "QjackCtl",
+      "installname": "QjackCtl",
       "type": "AppImage",
       "description": "AppImage for QjackCtl",
       "authors": [
@@ -8911,6 +9218,7 @@
     },
     {
       "name": "QmidiCtl",
+      "installname": "QmidiCtl",
       "type": "AppImage",
       "description": "AppImage for QmidiCtl",
       "authors": [
@@ -8940,6 +9248,7 @@
     },
     {
       "name": "QmidiNet",
+      "installname": "QmidiNet",
       "type": "AppImage",
       "description": "AppImage for QmidiNet",
       "authors": [
@@ -8969,6 +9278,7 @@
     },
     {
       "name": "QNapi",
+      "installname": "QNapi",
       "type": "AppImage",
       "description": "qnapi - Qt-based multi-engine multi-platform subtitle downloader",
       "authors": [
@@ -8998,6 +9308,7 @@
     },
     {
       "name": "QOwnNotes",
+      "installname": "QOwnNotes",
       "type": "AppImage",
       "description": "Plain text notepad and todo list manager with markdown support that works together with ownCloud/Nextcloud ",
       "authors": [
@@ -9027,6 +9338,7 @@
     },
     {
       "name": "qpdf",
+      "installname": "qpdf",
       "type": "AppImage",
       "description": "qpdf - Primary QPDF source code and documentation",
       "authors": [
@@ -9056,6 +9368,7 @@
     },
     {
       "name": "Qsynth",
+      "installname": "Qsynth",
       "type": "AppImage",
       "description": "AppImage for Qsynth",
       "authors": [
@@ -9085,6 +9398,7 @@
     },
     {
       "name": "Qt_DAB",
+      "installname": "Qt_DAB",
       "type": "AppImage",
       "description": "qt-dab is a software dab decoder for use with a dabstick airspy or sdrplay for RPI and PC",
       "authors": [
@@ -9114,6 +9428,7 @@
     },
     {
       "name": "Qtractor",
+      "installname": "Qtractor",
       "type": "AppImage",
       "description": "AppImage for Qtractor",
       "authors": [
@@ -9143,6 +9458,7 @@
     },
     {
       "name": "QuarkShell",
+      "installname": "QuarkShell",
       "type": "AppImage",
       "description": "Contribute to quark development by creating an account on GitHub",
       "authors": [
@@ -9172,6 +9488,7 @@
     },
     {
       "name": "quentier",
+      "installname": "quentier",
       "type": "AppImage",
       "description": "quentier - Cross-platform desktop Evernote client",
       "authors": [
@@ -9201,6 +9518,7 @@
     },
     {
       "name": "QuickTwitch",
+      "installname": "QuickTwitch",
       "type": "AppImage",
       "description": "electron-react-redux-boilerplate",
       "authors": [
@@ -9230,6 +9548,7 @@
     },
     {
       "name": "QuickViewer",
+      "installname": "QuickViewer",
       "type": "AppImage",
       "description": "quickviewer - A imagecomic viewer application for Windows and Linux it can show images very fast",
       "authors": [
@@ -9259,6 +9578,7 @@
     },
     {
       "name": "QupZilla",
+      "installname": "QupZilla",
       "type": "AppImage",
       "description": "AppImage for QupZilla",
       "authors": [
@@ -9288,6 +9608,7 @@
     },
     {
       "name": "QXGEdit",
+      "installname": "QXGEdit",
       "type": "AppImage",
       "description": "AppImage for QXGEdit",
       "authors": [
@@ -9317,6 +9638,7 @@
     },
     {
       "name": "Rakudo_Star",
+      "installname": "Rakudo_Star",
       "type": "AppImage",
       "description": "rakudo-appimage-module-test-automation - AppImages for Rakudo Star and Rakudo Moar Blead and Testing of Module installation and automation using the same script",
       "authors": [
@@ -9346,6 +9668,7 @@
     },
     {
       "name": "Rambox",
+      "installname": "Rambox",
       "type": "AppImage",
       "description": "rambox - Free and Open Source messaging and emailing app that combines common web applications into one",
       "authors": [
@@ -9375,6 +9698,7 @@
     },
     {
       "name": "rasterview",
+      "installname": "rasterview",
       "type": "AppImage",
       "description": "rasterview - A CUPSPWGApple raster file viewer for Linux macOS and Windows",
       "authors": [
@@ -9404,6 +9728,7 @@
     },
     {
       "name": "rawtherapee",
+      "installname": "rawtherapee",
       "type": "AppImage",
       "description": "Contribute to rt-build development by creating an account on GitHub",
       "authors": [
@@ -9433,6 +9758,7 @@
     },
     {
       "name": "rebaslight",
+      "installname": "rebaslight",
       "type": "AppImage",
       "description": "rebaslight - Rebaslight - an easy to use special effects editor",
       "authors": [
@@ -9462,6 +9788,7 @@
     },
     {
       "name": "Red_Eclipse-Development",
+      "installname": "Red_Eclipse-Development",
       "type": "AppImage",
       "description": "Play the best first-person shooter in the world! Free and open-source! ",
       "authors": [
@@ -9491,6 +9818,7 @@
     },
     {
       "name": "Red_Eclipse-stable",
+      "installname": "Red_Eclipse-stable",
       "type": "AppImage",
       "description": "AppImage for Red_Eclipse-stable",
       "authors": [
@@ -9520,6 +9848,7 @@
     },
     {
       "name": "RedmineTimeTracker",
+      "installname": "RedmineTimeTracker",
       "type": "AppImage",
       "description": "RedmineTimeTracker - ChromeElectron app for tracking work time",
       "authors": [
@@ -9549,6 +9878,7 @@
     },
     {
       "name": "redmine_tracker",
+      "installname": "redmine_tracker",
       "type": "AppImage",
       "description": "redminetracker - Toggle clone directly connected to Redmine",
       "authors": [
@@ -9578,6 +9908,7 @@
     },
     {
       "name": "RedTimer",
+      "installname": "RedTimer",
       "type": "AppImage",
       "description": "redtimer - Redmine Time Tracker",
       "authors": [
@@ -9607,6 +9938,7 @@
     },
     {
       "name": "Redub",
+      "installname": "Redub",
       "type": "AppImage",
       "description": "A program that allows for easily redubbing the audio in a video",
       "authors": [
@@ -9636,6 +9968,7 @@
     },
     {
       "name": "ReliefValve",
+      "installname": "ReliefValve",
       "type": "AppImage",
       "description": "ReliefValve - A tool to help manage the Steam client",
       "authors": [
@@ -9665,6 +9998,7 @@
     },
     {
       "name": "Repetier-Host",
+      "installname": "Repetier-Host",
       "type": "AppImage",
       "description": "AppImage for Repetier-Host",
       "authors": [
@@ -9694,6 +10028,7 @@
     },
     {
       "name": "RetroShare",
+      "installname": "RetroShare",
       "type": "AppImage",
       "description": "RetroShare is a Free and Open Source cross-platform Friend-2-Friend and secure decentralised communication platform upstream Repository",
       "authors": [
@@ -9723,6 +10058,7 @@
     },
     {
       "name": "Ricin",
+      "installname": "Ricin",
       "type": "AppImage",
       "description": "A dead-simple but powerful Tox client. ",
       "authors": [
@@ -9752,6 +10088,7 @@
     },
     {
       "name": "RPCS3",
+      "installname": "RPCS3",
       "type": "AppImage",
       "description": "AppImage for RPCS3",
       "authors": [
@@ -9781,6 +10118,7 @@
     },
     {
       "name": "rssguard",
+      "installname": "rssguard",
       "type": "AppImage",
       "description": "rssguard - RSS Guard is simple yet powerful feed reader This is the official project repository",
       "authors": [
@@ -9810,6 +10148,7 @@
     },
     {
       "name": "Sabaki",
+      "installname": "Sabaki",
       "type": "AppImage",
       "description": "Sabaki - An elegant Go board and SGF editor for a more civilized age",
       "authors": [
@@ -9839,6 +10178,7 @@
     },
     {
       "name": "sACNView",
+      "installname": "sACNView",
       "type": "AppImage",
       "description": "sacnview - sACNView provides a tool for monitoring and sending the Streaming ACN lighting control protocol used for lighting control in theatres TV studios and architectural systems",
       "authors": [
@@ -9868,6 +10208,7 @@
     },
     {
       "name": "ScienceFair",
+      "installname": "ScienceFair",
       "type": "AppImage",
       "description": "sciencefair - The open source p2p desktop science library that puts users in control microscope book",
       "authors": [
@@ -9897,6 +10238,7 @@
     },
     {
       "name": "Scribus",
+      "installname": "Scribus",
       "type": "AppImage",
       "description": "Open Source Page Layout and Desktop Publishing (DTP) ",
       "authors": [
@@ -9926,6 +10268,7 @@
     },
     {
       "name": "SeqPlots",
+      "installname": "SeqPlots",
       "type": "AppImage",
       "description": "Contribute to seqplotselectron development by creating an account on GitHub",
       "authors": [
@@ -9955,6 +10298,7 @@
     },
     {
       "name": "SerialPlot",
+      "installname": "SerialPlot",
       "type": "AppImage",
       "description": "Small and simple software for plotting data from serial port ",
       "authors": [
@@ -9984,6 +10328,7 @@
     },
     {
       "name": "ser-player",
+      "installname": "ser-player",
       "type": "AppImage",
       "description": "ser-player - A simple video player for playing SER files used for solar lunar and planetary astronomy-imaging",
       "authors": [
@@ -10013,6 +10358,7 @@
     },
     {
       "name": "Shadowsocks",
+      "installname": "Shadowsocks",
       "type": "AppImage",
       "description": "shadowsocks-qt5 - A cross-platform shadowsocks GUI client",
       "authors": [
@@ -10042,6 +10388,7 @@
     },
     {
       "name": "ShareXin",
+      "installname": "ShareXin",
       "type": "AppImage",
       "description": "ShareXin - ShareX for Linux FreeBSD and macOS",
       "authors": [
@@ -10071,6 +10418,7 @@
     },
     {
       "name": "shots",
+      "installname": "shots",
       "type": "AppImage",
       "description": "--shots - Simple minimalistic and task-focused application for creating screenshots Available for LInux MacOS WIndows",
       "authors": [
@@ -10100,6 +10448,7 @@
     },
     {
       "name": "SigmaSpectra",
+      "installname": "SigmaSpectra",
       "type": "AppImage",
       "description": "sigmaspectra - GUI application for the selection and scaling of earthquake ground motions",
       "authors": [
@@ -10129,6 +10478,7 @@
     },
     {
       "name": "Sigrok",
+      "installname": "Sigrok",
       "type": "AppImage",
       "description": "AppImage for Sigrok",
       "authors": [
@@ -10158,6 +10508,7 @@
     },
     {
       "name": "simdsp",
+      "installname": "simdsp",
       "type": "AppImage",
       "description": "SimDSP - DSP Simulator",
       "authors": [
@@ -10187,6 +10538,7 @@
     },
     {
       "name": "simplescreenrecorder",
+      "installname": "simplescreenrecorder",
       "type": "AppImage",
       "description": "AppImage for simplescreenrecorder",
       "authors": [
@@ -10216,6 +10568,7 @@
     },
     {
       "name": "simple-updater-example",
+      "installname": "simple-updater-example",
       "type": "AppImage",
       "description": "electron-simple-updater - Simple way to enable update for the electron application",
       "authors": [
@@ -10245,6 +10598,7 @@
     },
     {
       "name": "Skrifa",
+      "installname": "Skrifa",
       "type": "AppImage",
       "description": "Skrifa - A simple word processor built with web technologies",
       "authors": [
@@ -10274,6 +10628,7 @@
     },
     {
       "name": "Skycoin",
+      "installname": "Skycoin",
       "type": "AppImage",
       "description": "AppImage for Skycoin",
       "authors": [
@@ -10303,6 +10658,7 @@
     },
     {
       "name": "Sky",
+      "installname": "Sky",
       "type": "AppImage",
       "description": "AppImage for Sky",
       "authors": [
@@ -10332,6 +10688,7 @@
     },
     {
       "name": "sleep-timer",
+      "installname": "sleep-timer",
       "type": "AppImage",
       "description": "sleep-timer - Graphical sleep timer perfect for netflix and ",
       "authors": [
@@ -10361,6 +10718,7 @@
     },
     {
       "name": "Slic3r_PE",
+      "installname": "Slic3r_PE",
       "type": "AppImage",
       "description": "Slic3r - G-code generator for 3D printers RepRap Makerbot Ultimaker etc",
       "authors": [
@@ -10390,6 +10748,7 @@
     },
     {
       "name": "snake.js",
+      "installname": "snake.js",
       "type": "AppImage",
       "description": "snakejs - CanvasJavaScript based Snake Game with support for controllers SNESPSXBOX",
       "authors": [
@@ -10419,6 +10778,7 @@
     },
     {
       "name": "Snoost",
+      "installname": "Snoost",
       "type": "AppImage",
       "description": "AppImage for Snoost",
       "authors": [
@@ -10448,6 +10808,7 @@
     },
     {
       "name": "spectrum-editor",
+      "installname": "spectrum-editor",
       "type": "AppImage",
       "description": "spectrum-editor - Text editor with ZX Spectrum theme",
       "authors": [
@@ -10477,6 +10838,7 @@
     },
     {
       "name": "speedtest-cli",
+      "installname": "speedtest-cli",
       "type": "AppImage",
       "description": "This repository contains appimagebuild and AppImage build scripts for building AppImages easily",
       "authors": [
@@ -10506,6 +10868,7 @@
     },
     {
       "name": "spivak",
+      "installname": "spivak",
       "type": "AppImage",
       "description": "spivak - A cross-platform Karaoke player",
       "authors": [
@@ -10535,6 +10898,7 @@
     },
     {
       "name": "SPlayer",
+      "installname": "SPlayer",
       "type": "AppImage",
       "description": "a media player",
       "authors": [
@@ -10564,6 +10928,7 @@
     },
     {
       "name": "spm",
+      "installname": "spm",
       "type": "AppImage",
       "description": "spm is a simple commandline package manager that installs AppImages and precompiled tar archives",
       "authors": [
@@ -10593,6 +10958,7 @@
     },
     {
       "name": "Stacer",
+      "installname": "Stacer",
       "type": "AppImage",
       "description": "Stacer - Linux System Optimizer and Monitoring",
       "authors": [
@@ -10622,6 +10988,7 @@
     },
     {
       "name": "Standard_Notes",
+      "installname": "Standard_Notes",
       "type": "AppImage",
       "description": "desktop - A simple and private notes app Mac PC amp Linux app  httpsstandardnotesorg",
       "authors": [
@@ -10651,6 +11018,7 @@
     },
     {
       "name": "steam-rom-manager",
+      "installname": "steam-rom-manager",
       "type": "AppImage",
       "description": "steam-rom-manager - An app for managing ROMs in Steam",
       "authors": [
@@ -10680,6 +11048,7 @@
     },
     {
       "name": "stellarium",
+      "installname": "stellarium",
       "type": "AppImage",
       "description": "stellarium - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL It is available for LinuxUnix Windows and MacOSX With Stellarium you really see what you can see with your eyes binoculars or a small telescope",
       "authors": [
@@ -10709,6 +11078,7 @@
     },
     {
       "name": "stellar-portal",
+      "installname": "stellar-portal",
       "type": "AppImage",
       "description": "stellar-portal - Pure web client for viewing and managing Stellar accounts",
       "authors": [
@@ -10738,6 +11108,7 @@
     },
     {
       "name": "Stemn",
+      "installname": "Stemn",
       "type": "AppImage",
       "description": "Stemn-Desktop - rocket The Version Control System for Google Drive and Dropbox",
       "authors": [
@@ -10767,6 +11138,7 @@
     },
     {
       "name": "Stencila",
+      "installname": "Stencila",
       "type": "AppImage",
       "description": " Stencila on the desktop",
       "authors": [
@@ -10796,6 +11168,7 @@
     },
     {
       "name": "StickyPlatforms",
+      "installname": "StickyPlatforms",
       "type": "AppImage",
       "description": "StickyPlatforms - A 2D platformer for learning",
       "authors": [
@@ -10825,6 +11198,7 @@
     },
     {
       "name": "StopGo",
+      "installname": "StopGo",
       "type": "AppImage",
       "description": "AppImage for StopGo",
       "authors": [
@@ -10854,6 +11228,7 @@
     },
     {
       "name": "StopLight",
+      "installname": "StopLight",
       "type": "AppImage",
       "description": "The Stoplight desktop app  issues repository",
       "authors": [
@@ -10883,6 +11258,7 @@
     },
     {
       "name": "storaji",
+      "installname": "storaji",
       "type": "AppImage",
       "description": "storaji - ledger The lightresponsive inventory management system available on Windows macOS and Linux",
       "authors": [
@@ -10912,6 +11288,7 @@
     },
     {
       "name": "Stremio",
+      "installname": "Stremio",
       "type": "AppImage",
       "description": "AppImage for Stremio",
       "authors": [
@@ -10941,6 +11318,7 @@
     },
     {
       "name": "stretchly",
+      "installname": "stretchly",
       "type": "AppImage",
       "description": "stretchly - break time reminder app",
       "authors": [
@@ -10970,6 +11348,7 @@
     },
     {
       "name": "Subsurface",
+      "installname": "Subsurface",
       "type": "AppImage",
       "description": "subsurface - This is the official upstream of the Subsurface divelog program",
       "authors": [
@@ -10999,6 +11378,7 @@
     },
     {
       "name": "Subvertise",
+      "installname": "Subvertise",
       "type": "AppImage",
       "description": "subvertise - Subvert ISPs selling your data by ruining it",
       "authors": [
@@ -11028,6 +11408,7 @@
     },
     {
       "name": "Summoners.War.Exporter",
+      "installname": "Summoners.War.Exporter",
       "type": "AppImage",
       "description": "sw-exporter - This tool will parse intercepted data from Summoners War and extract information on the monsters and runes of the user",
       "authors": [
@@ -11057,6 +11438,7 @@
     },
     {
       "name": "superProductivity",
+      "installname": "superProductivity",
       "type": "AppImage",
       "description": "Personal Task Management App to help you with your daily struggle with JIRA etc. ",
       "authors": [
@@ -11086,6 +11468,7 @@
     },
     {
       "name": "swradio",
+      "installname": "swradio",
       "type": "AppImage",
       "description": "swradio-8 - shortwave receiver for use with sdrplay",
       "authors": [
@@ -11115,6 +11498,7 @@
     },
     {
       "name": "Sylk",
+      "installname": "Sylk",
       "type": "AppImage",
       "description": "AppImage for Sylk",
       "authors": [
@@ -11144,6 +11528,7 @@
     },
     {
       "name": "Symphytum",
+      "installname": "Symphytum",
       "type": "AppImage",
       "description": "symphytum - Symphytum Personal Database Software",
       "authors": [
@@ -11173,6 +11558,7 @@
     },
     {
       "name": "SynfigStudio",
+      "installname": "SynfigStudio",
       "type": "AppImage",
       "description": "AppImage for SynfigStudio",
       "authors": [
@@ -11202,6 +11588,7 @@
     },
     {
       "name": "TagFlow",
+      "installname": "TagFlow",
       "type": "AppImage",
       "description": "AppImage for TagFlow",
       "authors": [
@@ -11231,6 +11618,7 @@
     },
     {
       "name": "TagTime-desktop",
+      "installname": "TagTime-desktop",
       "type": "AppImage",
       "description": "TagTime-desktop - Cross-platform desktop implementation of TagTime",
       "authors": [
@@ -11260,6 +11648,7 @@
     },
     {
       "name": "taisei",
+      "installname": "taisei",
       "type": "AppImage",
       "description": "AppImage for taisei",
       "authors": [
@@ -11289,6 +11678,7 @@
     },
     {
       "name": "tc-linux",
+      "installname": "tc-linux",
       "type": "AppImage",
       "description": "A desktop chat client for Twitch",
       "authors": [
@@ -11318,6 +11708,7 @@
     },
     {
       "name": "Teleprompter",
+      "installname": "Teleprompter",
       "type": "AppImage",
       "description": "Teleprompter-Electron - Build standalone cross-platform instances of our Teleprompter with Electron",
       "authors": [
@@ -11347,6 +11738,7 @@
     },
     {
       "name": "TeXstudio",
+      "installname": "TeXstudio",
       "type": "AppImage",
       "description": "LaTeX development environment ",
       "authors": [
@@ -11376,6 +11768,7 @@
     },
     {
       "name": "thermusqt",
+      "installname": "thermusqt",
       "type": "AppImage",
       "description": "ThermusQt - Qt implementation of Thermus the thermal statistical model",
       "authors": [
@@ -11405,6 +11798,7 @@
     },
     {
       "name": "Tiled",
+      "installname": "Tiled",
       "type": "AppImage",
       "description": "tiled - A generic tile map editor",
       "authors": [
@@ -11434,6 +11828,7 @@
     },
     {
       "name": "Tockler",
+      "installname": "Tockler",
       "type": "AppImage",
       "description": "tockler - Application that tracks your time by monitoring your active windows only titles and idle time",
       "authors": [
@@ -11463,6 +11858,7 @@
     },
     {
       "name": "todo",
+      "installname": "todo",
       "type": "AppImage",
       "description": "todo is a bash script for Linux that manages todo lists through the command line in an easy to use manner Lists are stored in todoListName with each item in the list stored as a separate file in that directory",
       "authors": [
@@ -11492,6 +11888,7 @@
     },
     {
       "name": "tomorrow-exchange",
+      "installname": "tomorrow-exchange",
       "type": "AppImage",
       "description": "Contribute to tomorrowex-client development by creating an account on GitHub",
       "authors": [
@@ -11521,6 +11918,7 @@
     },
     {
       "name": "TournamenterApp",
+      "installname": "TournamenterApp",
       "type": "AppImage",
       "description": "TournamenterApp -  Manage your Tournament event and show Live views to public",
       "authors": [
@@ -11550,6 +11948,7 @@
     },
     {
       "name": "Transcribe",
+      "installname": "Transcribe",
       "type": "AppImage",
       "description": "Transcribe - A tool for transcribing audio files to text",
       "authors": [
@@ -11579,6 +11978,7 @@
     },
     {
       "name": "tubCloud",
+      "installname": "tubCloud",
       "type": "AppImage",
       "description": "tubCloud desktop synchronization client ",
       "authors": [
@@ -11608,6 +12008,7 @@
     },
     {
       "name": "Tulip",
+      "installname": "Tulip",
       "type": "AppImage",
       "description": "tulip - Large graphs analysis drawing and visualization framework",
       "authors": [
@@ -11637,6 +12038,7 @@
     },
     {
       "name": "Tumblr_Downloader_GUI",
+      "installname": "Tumblr_Downloader_GUI",
       "type": "AppImage",
       "description": "Contribute to tumblr-downloader-client development by creating an account on GitHub",
       "authors": [
@@ -11666,6 +12068,7 @@
     },
     {
       "name": "turntable",
+      "installname": "turntable",
       "type": "AppImage",
       "description": "turntable - Simple youtube DJ app made with Electron and Angular 5",
       "authors": [
@@ -11695,6 +12098,7 @@
     },
     {
       "name": "Tusk",
+      "installname": "Tusk",
       "type": "AppImage",
       "description": "tusk -  Refined Evernote desktop app",
       "authors": [
@@ -11724,6 +12128,7 @@
     },
     {
       "name": "tweet-tray",
+      "installname": "tweet-tray",
       "type": "AppImage",
       "description": "Tweet quickly from the desktop without any more distractions.",
       "authors": [
@@ -11753,6 +12158,7 @@
     },
     {
       "name": "twitch-wrapper",
+      "installname": "twitch-wrapper",
       "type": "AppImage",
       "description": "twitch-wrapper - An Electron wrapper for Twitchtv for Linux with FrankerFaceZ and FFZAP added in  Created using nativefier",
       "authors": [
@@ -11782,6 +12188,7 @@
     },
     {
       "name": "ubports-installer",
+      "installname": "ubports-installer",
       "type": "AppImage",
       "description": "ubports-installer - A simple tool to install Ubuntu Touch on UBports devices",
       "authors": [
@@ -11811,6 +12218,7 @@
     },
     {
       "name": "Unicode",
+      "installname": "Unicode",
       "type": "AppImage",
       "description": "unicode - All Contents code and everything related to Unicode converter App",
       "authors": [
@@ -11840,6 +12248,7 @@
     },
     {
       "name": "unified-communications",
+      "installname": "unified-communications",
       "type": "AppImage",
       "description": "hari",
       "authors": [
@@ -11869,6 +12278,7 @@
     },
     {
       "name": "unoffical-sonos-controller-for-linux",
+      "installname": "unoffical-sonos-controller-for-linux",
       "type": "AppImage",
       "description": "unoffical-sonos-controller-for-linux - An Electron based linux app for controlling your sonos system",
       "authors": [
@@ -11898,6 +12308,7 @@
     },
     {
       "name": "unofficial-desktop-for-ynab",
+      "installname": "unofficial-desktop-for-ynab",
       "type": "AppImage",
       "description": "unofficial-desktop-for-ynab - Unofficial Desktop Wrapper for YNAB using Electron",
       "authors": [
@@ -11927,6 +12338,7 @@
     },
     {
       "name": "unreel",
+      "installname": "unreel",
       "type": "AppImage",
       "description": "unreel - Unreel Reveal your ideas",
       "authors": [
@@ -11956,6 +12368,7 @@
     },
     {
       "name": "upterm",
+      "installname": "upterm",
       "type": "AppImage",
       "description": "upterm - A terminal emulator for the 21st century",
       "authors": [
@@ -11985,6 +12398,7 @@
     },
     {
       "name": "Vespucci",
+      "installname": "Vespucci",
       "type": "AppImage",
       "description": "Vespucci - A free open source cross-platform tool for spectroscopic data analysis and imaging ",
       "authors": [
@@ -12014,6 +12428,7 @@
     },
     {
       "name": "Vessel",
+      "installname": "Vessel",
       "type": "AppImage",
       "description": "vessel - Desktop wallet for the Steem blockchain",
       "authors": [
@@ -12043,6 +12458,7 @@
     },
     {
       "name": "VidCutter",
+      "installname": "VidCutter",
       "type": "AppImage",
       "description": "vidcutter - snap package available  snapcraft store see below for more details  latest release 550",
       "authors": [
@@ -12072,6 +12488,7 @@
     },
     {
       "name": "violetbug",
+      "installname": "violetbug",
       "type": "AppImage",
       "description": "violetbug - Roku Debugger Graphical Interface",
       "authors": [
@@ -12101,6 +12518,7 @@
     },
     {
       "name": "vivifyscrum",
+      "installname": "vivifyscrum",
       "type": "AppImage",
       "description": "Contribute to vivifyscrum2-electron development by creating an account on GitHub",
       "authors": [
@@ -12130,6 +12548,7 @@
     },
     {
       "name": "vkap",
+      "installname": "vkap",
       "type": "null",
       "description": "Desktop VK Audio Player",
       "authors": [
@@ -12159,6 +12578,7 @@
     },
     {
       "name": "VLC",
+      "installname": "VLC",
       "type": "AppImage",
       "description": "vlc-AppImage - VLC AppImage inofficial",
       "authors": [
@@ -12188,6 +12608,7 @@
     },
     {
       "name": "VNote",
+      "installname": "VNote",
       "type": "AppImage",
       "description": "vnote - A Vim-inspired note-taking application that knows programmers and Markdown better",
       "authors": [
@@ -12217,6 +12638,7 @@
     },
     {
       "name": "Voltra",
+      "installname": "Voltra",
       "type": "AppImage",
       "description": "Voltra Co. Music Player ",
       "authors": [
@@ -12246,6 +12668,7 @@
     },
     {
       "name": "vterm",
+      "installname": "vterm",
       "type": "AppImage",
       "description": "vterm - fire Extensible terminal emulator written with the web languages of the future Today",
       "authors": [
@@ -12275,6 +12698,7 @@
     },
     {
       "name": "vue-calc",
+      "installname": "vue-calc",
       "type": "AppImage",
       "description": "An electron-vue project",
       "authors": [
@@ -12304,6 +12728,7 @@
     },
     {
       "name": "webcamoid",
+      "installname": "webcamoid",
       "type": "AppImage",
       "description": "webcamoid - Webcamoid is a full featured and multiplatform webcam suite",
       "authors": [
@@ -12333,6 +12758,7 @@
     },
     {
       "name": "webrecorderplayer-electron",
+      "installname": "webrecorderplayer-electron",
       "type": "AppImage",
       "description": "webrecorderplayer-electron - Webrecorder Player for Desktop OSXWindowsLinux Built with Electron  Webrecorder",
       "authors": [
@@ -12362,6 +12788,7 @@
     },
     {
       "name": "welle.io",
+      "installname": "welle.io",
       "type": "AppImage",
       "description": "welleio - A DABDAB Software Radio",
       "authors": [
@@ -12391,6 +12818,7 @@
     },
     {
       "name": "weweChat",
+      "installname": "weweChat",
       "type": "AppImage",
       "description": "weweChat -  Unofficial WeChat client built with React MobX and Electron",
       "authors": [
@@ -12420,6 +12848,7 @@
     },
     {
       "name": "WhatsDesktop",
+      "installname": "WhatsDesktop",
       "type": "AppImage",
       "description": "whatsdesktop - Unofficial WhatsApp app",
       "authors": [
@@ -12449,6 +12878,7 @@
     },
     {
       "name": "whiteboard",
+      "installname": "whiteboard",
       "type": "AppImage",
       "description": "whiteboard - Activity-based slideshow application for coding webinars and presentations",
       "authors": [
@@ -12478,6 +12908,7 @@
     },
     {
       "name": "Wire",
+      "installname": "Wire",
       "type": "AppImage",
       "description": "wire-desktop - computer Wire for desktop",
       "authors": [
@@ -12507,6 +12938,7 @@
     },
     {
       "name": "Woke",
+      "installname": "Woke",
       "type": "AppImage",
       "description": "Woke - A native multiplatform desktop REST client with grand ambitions and limited scope",
       "authors": [
@@ -12536,6 +12968,7 @@
     },
     {
       "name": "WorkFlowy",
+      "installname": "WorkFlowy",
       "type": "AppImage",
       "description": "Contribute to desktop development by creating an account on GitHub",
       "authors": [
@@ -12565,6 +12998,7 @@
     },
     {
       "name": "x32-mute-matrix",
+      "installname": "x32-mute-matrix",
       "type": "AppImage",
       "description": "x32-mute-matrix - See and configure the mute status of all your Behringer X32's channels on every mixbus in one place",
       "authors": [
@@ -12594,6 +13028,7 @@
     },
     {
       "name": "XChat",
+      "installname": "XChat",
       "type": "AppImage",
       "description": "XChat is an IRC chat program for both Linux and Windows",
       "authors": [
@@ -12623,6 +13058,7 @@
     },
     {
       "name": "xde",
+      "installname": "xde",
       "type": "AppImage",
       "description": "xde - The Expo Development Environment",
       "authors": [
@@ -12652,6 +13088,7 @@
     },
     {
       "name": "xlights",
+      "installname": "xlights",
       "type": "AppImage",
       "description": "Lighting control and sequencing ",
       "authors": [
@@ -12681,6 +13118,7 @@
     },
     {
       "name": "XnViewMP",
+      "installname": "XnViewMP",
       "type": "AppImage",
       "description": "Graphic viewer, browser, converter ",
       "authors": [
@@ -12710,6 +13148,7 @@
     },
     {
       "name": "yadshot",
+      "installname": "yadshot",
       "type": "AppImage",
       "description": "yadshot provides a GUI frontend for taking screenshots using imagemagickslop and uploads files and pastes to teknikio",
       "authors": [
@@ -12739,6 +13178,7 @@
     },
     {
       "name": "yq_linux_amd64",
+      "installname": "yq",
       "type": "binary",
       "description": "Commandline tool to parse YAML and JSON",
       "authors": [
@@ -12768,6 +13208,7 @@
     },
     {
       "name": "zsync2",
+      "installname": "zsync2",
       "type": "AppImage",
       "description": "zsync2 - Rewrite of httpsgithubcomAppImagezsync-curl using modern C providing both a library and standalone tools",
       "authors": [
@@ -12797,6 +13238,7 @@
     },
     {
       "name": "zulip-electron",
+      "installname": "zulip-electron",
       "type": "AppImage",
       "description": "zulip-electron - Zulip Desktop Client",
       "authors": [
