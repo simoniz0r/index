@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Fri Apr 13 00:10:19 CDT 2018",
+  "updated_at": "Fri Apr 13 00:19:42 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -13269,6 +13269,7 @@
     {
       "END": "END",
       "name": "END",
+      "installname": "removeme",
       "type": "END",
         "authors": [
         {
