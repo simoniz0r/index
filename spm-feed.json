@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Thu Apr 12 20:18:49 CDT 2018",
+  "updated_at": "Thu Apr 12 20:43:29 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -5504,7 +5504,7 @@
         },
         {
           "type": "Install",
-          "url": "https://download.kde.org/stable/krita/4.0.0/krita-4.0.0-x86_64.appimage"
+          "url": "https://download.kde.org/stable/krita/4.0.1/krita-4.0.1-x86_64.appimage"
         }
       ],
       "installinfo": [
