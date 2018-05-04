@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Fri Apr 13 00:19:42 CDT 2018",
+  "updated_at": "Fri May  4 16:51:48 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -699,7 +699,7 @@
     {
       "name": "Astroffers",
       "installname": "Astroffers",
-      "type": "null",
+      "type": "AppImage",
       "description": "Take offers to watch at given nights by the NGC2000 catalog",
       "authors": [
         {
@@ -819,7 +819,7 @@
     {
       "name": "autoEdit2",
       "installname": "autoEdit2",
-      "type": "null",
+      "type": "AppImage",
       "description": "autoEdit2 Desktop Client for Linux",
       "authors": [
         {
@@ -908,9 +908,9 @@
     },
     {
       "name": "BaijiMangaViewer",
-      "installname": "BaijiMangaViewer",
+      "installname": "baijimangaviewer",
       "type": "AppImage",
-      "description": "Contribute to manga-viewer development by creating an account on GitHub",
+      "description": "A modern manga viewer inspired by Quivi that uses Material Design",
       "authors": [
         {
           "name": "shizkun",
@@ -923,7 +923,7 @@
           "url": "shizkun/manga-viewer"
         },
         {
-          "type": "Install",
+          "type": "Download",
           "url": "https://github.com/shizkun/manga-viewer/releases"
         }
       ],
@@ -1495,6 +1495,36 @@
         {
           "type": "Install",
           "url": "https://ftp.brainsick.cc/pub/brainsick/bscc/v0.2.1/bscc-x86_64.AppImage"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "Buckets",
+      "installname": "buckets",
+      "type": "AppImage",
+      "description": "Buckets Family Budgeting",
+      "authors": [
+        {
+          "name": "buckets",
+          "url": "https://github.com/buckets"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "buckets/application"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/buckets/application/releases"
         }
       ],
       "installinfo": [
@@ -3609,7 +3639,7 @@
     {
       "name": "Fraktal",
       "installname": "Fraktal",
-      "type": "null",
+      "type": "AppImage",
       "description": "Podcast Manager in Electron",
       "authors": [
         {
@@ -3939,7 +3969,7 @@
     {
       "name": "Gingko",
       "installname": "Gingko",
-      "type": "null",
+      "type": "AppImage",
       "description": "Gingko client rewritten in Elm, packaged with Electron.",
       "authors": [
         {
@@ -4177,6 +4207,36 @@
       ]
     },
     {
+      "name": "gsubs",
+      "installname": "gsubs",
+      "type": "AppImage",
+      "description": "Finds you the perfect subtitle match",
+      "authors": [
+        {
+          "name": "sanjevirau",
+          "url": "https://github.com/sanjevirau"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "sanjevirau/gsubs"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/sanjevirau/gsubs/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "Gulden",
       "installname": "Gulden",
       "type": "AppImage",
@@ -4329,7 +4389,7 @@
     {
       "name": "HDRMerge",
       "installname": "HDRMerge",
-      "type": "null",
+      "type": "AppImage",
       "description": "Merge several raw images into a single DNG raw image with high dynamic range.",
       "authors": [
         {
@@ -4899,7 +4959,7 @@
     {
       "name": "Instagram-Py",
       "installname": "Instagram-Py",
-      "type": "null",
+      "type": "AppImage",
       "description": "Hack Instagram Like a Pro.",
       "authors": [
         {
@@ -5288,9 +5348,9 @@
     },
     {
       "name": "Joplin",
-      "installname": "Joplin",
+      "installname": "joplin",
       "type": "AppImage",
-      "description": "joplin - Joplin - a note taking and to-do application with synchronization capabilities for Windows macOS Linux Android and iOS",
+      "description": "Joplin for Desktop",
       "authors": [
         {
           "name": "laurent22",
@@ -5349,7 +5409,7 @@
     {
       "name": "jscad-desktop",
       "installname": "jscad-desktop",
-      "type": "null",
+      "type": "AppImage",
       "description": "jscad desktop application",
       "authors": [
         {
@@ -5395,6 +5455,36 @@
         {
           "type": "Install",
           "url": "https://github.com/Gilad-Kutiel-App/jumpfm/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "jwm-settings-manager",
+      "installname": "jwm-settings-manager",
+      "type": "AppImage",
+      "description": "Easy configuration of JWM",
+      "authors": [
+        {
+          "name": "Israel-D",
+          "url": "https://github.com/Israel-D"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "Israel-D/jwm-settings-manager"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/Israel-D/jwm-settings-manager/releases"
         }
       ],
       "installinfo": [
@@ -6219,7 +6309,7 @@
     {
       "name": "luminance-hdr",
       "installname": "luminance-hdr",
-      "type": "null",
+      "type": "AppImage",
       "description": "Create and tonemap HDR images",
       "authors": [
         {
@@ -6249,7 +6339,7 @@
     {
       "name": "luna",
       "installname": "luna",
-      "type": "null",
+      "type": "AppImage",
       "description": "Manage your NPM packages.",
       "authors": [
         {
@@ -6925,6 +7015,36 @@
         {
           "type": "Install",
           "url": "https://github.com/nandub/Mitmproxy.AppImage/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "mjml-app",
+      "installname": "mjml-app",
+      "type": "AppImage",
+      "description": "The desktop app for MJML",
+      "authors": [
+        {
+          "name": "mjmlio",
+          "url": "https://github.com/mjmlio"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "mjmlio/mjml-app"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/mjmlio/mjml-app/releases"
         }
       ],
       "installinfo": [
@@ -8199,7 +8319,7 @@
     {
       "name": "parsec",
       "installname": "parsec",
-      "type": "null",
+      "type": "AppImage",
       "description": "Parsec game streaming client",
       "authors": [
         {
@@ -8407,6 +8527,36 @@
       ]
     },
     {
+      "name": "Pencil2D",
+      "installname": "pencil2d",
+      "type": "AppImage",
+      "description": "Create traditional hand-drawn animation using both bitmap and vector graphics",
+      "authors": [
+        {
+          "name": "pencil2d",
+          "url": "https://github.com/pencil2d"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "pencil2d/pencil"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/pencil2d/pencil/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "Pendragon",
       "installname": "Pendragon",
       "type": "AppImage",
@@ -8545,6 +8695,36 @@
         {
           "type": "Install",
           "url": "https://github.com/LINCnil/pia-app/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "pingviewer",
+      "installname": "pingviewer",
+      "type": "AppImage",
+      "description": "ping viewer interface",
+      "authors": [
+        {
+          "name": "bluerobotics",
+          "url": "https://github.com/bluerobotics"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "bluerobotics/ping-components"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/bluerobotics/ping-components/releases"
         }
       ],
       "installinfo": [
@@ -9067,6 +9247,36 @@
       ]
     },
     {
+      "name": "Pullp",
+      "installname": "pullp",
+      "type": "AppImage",
+      "description": "Pull request monitoring app for Github",
+      "authors": [
+        {
+          "name": "rkclark",
+          "url": "https://github.com/rkclark"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "rkclark/pullp"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/rkclark/pullp/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "PupaFM",
       "installname": "PupaFM",
       "type": "AppImage",
@@ -9355,6 +9565,36 @@
         {
           "type": "Install",
           "url": "https://github.com/qpdf/qpdf/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "qSdrSwr",
+      "installname": "qsdrswr",
+      "type": "AppImage",
+      "description": "SDR and SWR Qt Application",
+      "authors": [
+        {
+          "name": "PTDreamer",
+          "url": "https://github.com/PTDreamer"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "PTDreamer/qSdrSwr"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/PTDreamer/qSdrSwr/releases"
         }
       ],
       "installinfo": [
@@ -10448,9 +10688,9 @@
     },
     {
       "name": "SigmaSpectra",
-      "installname": "SigmaSpectra",
+      "installname": "sigmaspectra",
       "type": "AppImage",
-      "description": "sigmaspectra - GUI application for the selection and scaling of earthquake ground motions",
+      "description": "Semi-automated selection and scaling of time series",
       "authors": [
         {
           "name": "arkottke",
@@ -10463,7 +10703,7 @@
           "url": "arkottke/sigmaspectra"
         },
         {
-          "type": "Install",
+          "type": "Download",
           "url": "https://github.com/arkottke/sigmaspectra/releases"
         }
       ],
@@ -12217,6 +12457,36 @@
       ]
     },
     {
+      "name": "UHK.Agent",
+      "installname": "uhk.agent",
+      "type": "AppImage",
+      "description": "Agent is the configuration application of the Ultimate Hacking Keyboard.",
+      "authors": [
+        {
+          "name": "UltimateHackingKeyboard",
+          "url": "https://github.com/UltimateHackingKeyboard"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "UltimateHackingKeyboard/agent"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/UltimateHackingKeyboard/agent/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "Unicode",
       "installname": "Unicode",
       "type": "AppImage",
@@ -12549,7 +12819,7 @@
     {
       "name": "vkap",
       "installname": "vkap",
-      "type": "null",
+      "type": "AppImage",
       "description": "Desktop VK Audio Player",
       "authors": [
         {
@@ -12895,6 +13165,36 @@
         {
           "type": "Install",
           "url": "https://github.com/michaelpb/whiteboard/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "windows2usb",
+      "installname": "windows2usb",
+      "type": "AppImage",
+      "description": "null",
+      "authors": [
+        {
+          "name": "ValdikSS",
+          "url": "https://github.com/ValdikSS"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "ValdikSS/windows2usb"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/ValdikSS/windows2usb/releases"
         }
       ],
       "installinfo": [
