@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Fri May  4 16:51:48 CDT 2018",
+  "updated_at": "Fri May  4 23:33:26 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -7327,6 +7327,36 @@
       ]
     },
     {
+      "name": "Museeks",
+      "installname": "museeks",
+      "type": "AppImage",
+      "description": "A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.",
+      "authors": [
+        {
+          "name": "KeitIG",
+          "url": "https://github.com/KeitIG"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "KeitIG/museeks"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/KeitIG/museeks/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
       "name": "MuseScore",
       "installname": "MuseScore",
       "type": "AppImage",
@@ -11275,6 +11305,36 @@
         {
           "type": "Install",
           "url": "https://github.com/FrogTheFrog/steam-rom-manager/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "Steem_Messenger",
+      "installname": "steem_messenger",
+      "type": "AppImage",
+      "description": "Messer for Steem",
+      "authors": [
+        {
+          "name": "therealwolf42",
+          "url": "https://github.com/therealwolf42"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "therealwolf42/steemmessenger"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/therealwolf42/steemmessenger/releases"
         }
       ],
       "installinfo": [
