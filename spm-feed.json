@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Fri May  4 23:33:26 CDT 2018",
+  "updated_at": "Sat May  5 00:40:30 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -5528,19 +5528,19 @@
     },
     {
       "name": "Kate",
-      "installname": "Kate",
+      "installname": "kate",
       "type": "AppImage",
-      "description": "null ",
+      "description": "Kate is a multi-document editor",
       "authors": [
         {
-          "name": "null",
-          "url": "http://download.kde.org/unstable/kate"
+          "name": "KDE",
+          "url": "https://kate-editor.org/"
         }
       ],
       "links": [
         {
           "type": "Other",
-          "url": "http://download.kde.org/unstable/kate"
+          "url": "https://kate-editor.org/get-it/"
         },
         {
           "type": "Install",
@@ -5618,23 +5618,23 @@
     },
     {
       "name": "Kdenlive",
-      "installname": "Kdenlive",
+      "installname": "kdenlive",
       "type": "AppImage",
-      "description": "Video Editor ",
+      "description": "Kdenlive is an acronym for KDE Non-Linear Video Editor",
       "authors": [
         {
-          "name": "null",
-          "url": "http://files.kde.org/kdenlive/release"
+          "name": "KDE",
+          "url": "https://kdenlive.org/en/"
         }
       ],
       "links": [
         {
           "type": "Other",
-          "url": "http://files.kde.org/kdenlive/release"
+          "url": "https://kdenlive.org/en/download/"
         },
         {
           "type": "Install",
-          "url": "http://files.kde.org/kdenlive/release/Kdenlive-17.12.0d-x86_64.AppImage"
+          "url": "https://files.kde.org/kdenlive/release/kdenlive-18.04.0-x86_64.AppImage"
         }
       ],
       "installinfo": [
@@ -5648,23 +5648,23 @@
     },
     {
       "name": "Kdevelop",
-      "installname": "Kdevelop",
+      "installname": "kdevelop",
       "type": "AppImage",
-      "description": "null ",
+      "description": "KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP",
       "authors": [
         {
-          "name": "null",
-          "url": "http://kfunk.ddns.net:8080/job/kdevelop-appimage-centos/lastSuccessfulBuild/artifact"
+          "name": "KDE",
+          "url": "https://www.kdevelop.org/"
         }
       ],
       "links": [
         {
           "type": "Other",
-          "url": "http://kfunk.ddns.net:8080/job/kdevelop-appimage-centos/lastSuccessfulBuild/artifact"
+          "url": "https://www.kdevelop.org/download"
         },
         {
           "type": "Install",
-          "url": "http://kfunk.ddns.net:8080/job/kdevelop-appimage-centos/lastSuccessfulBuild/artifact/KDevelop-git-x86_64.AppImage"
+          "url": "http://home.kfunk.org:8080/job/kdevelop-appimage-centos/lastSuccessfulBuild/artifact/KDevelop-git-x86_64.AppImage"
         }
       ],
       "installinfo": [
@@ -5768,19 +5768,19 @@
     },
     {
       "name": "Krita",
-      "installname": "Krita",
+      "installname": "krita",
       "type": "AppImage",
-      "description": "Digital Painting ",
+      "description": "Digital Painting",
       "authors": [
         {
-          "name": "null",
-          "url": "https://download.kde.org/stable/krita/"
+          "name": "KDE",
+          "url": "https://krita.org/en/"
         }
       ],
       "links": [
         {
           "type": "Other",
-          "url": "https://download.kde.org/stable/krita/"
+          "url": "https://krita.org/en/download/krita-desktop/"
         },
         {
           "type": "Install",
