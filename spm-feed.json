@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Sat May  5 00:40:30 CDT 2018",
+  "updated_at": "Sat May  5 23:46:49 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -2170,11 +2170,11 @@
       "name": "Cura",
       "installname": "Cura",
       "type": "AppImage",
-      "description": "AppImage for Cura",
+      "description": "Ultimaker Cura prepares your model for 3D printing",
       "authors": [
         {
-          "name": "https://software.ultimaker.com/current",
-          "url": "https://software.ultimaker.com/current"
+          "name": "Ultimaker",
+          "url": "https://ultimaker.com/en/products/ultimaker-cura-software"
         }
       ],
       "links": [
@@ -2184,7 +2184,7 @@
         },
         {
           "type": "Install",
-          "url": "https://software.ultimaker.com/current/Cura-2.7.0.AppImage"
+          "url": "https://software.ultimaker.com/current/Cura-3.3.1.AppImage"
         }
       ],
       "installinfo": [
