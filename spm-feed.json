@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Sun May  6 01:55:07 CDT 2018",
+  "updated_at": "Sun May  6 23:55:57 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -13195,6 +13195,36 @@
         {
           "type": "Install",
           "url": "https://github.com/trazyn/weweChat/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "Wexond",
+      "installname": "wexond",
+      "type": "AppImage",
+      "description": "Extensible, fast and innovative web browser with material UI.",
+      "authors": [
+        {
+          "name": "wexond",
+          "url": "https://github.com/wexond"
+        }
+      ],
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "wexond/wexond"
+        },
+        {
+          "type": "Download",
+          "url": "https://github.com/wexond/wexond/releases"
         }
       ],
       "installinfo": [
