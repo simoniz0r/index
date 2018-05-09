@@ -3,7 +3,7 @@
   "home_page_url": "https://github.com/simoniz0r/spm",
   "feed_url": "https://simoniz0r.github.io/spm-feed.json",
   "description": "json feed containing package information for spm.",
-  "updated_at": "Sun May  6 23:55:57 CDT 2018",
+  "updated_at": "Wed May  9 16:04:28 CDT 2018",
   "expired": false,
   "appimages": [
     {
@@ -3385,6 +3385,36 @@
         {
           "type": "Install",
           "url": "https://github.com/plotly/falcon-sql-client/releases"
+        }
+      ],
+      "installinfo": [
+        {
+          "version": "Not Installed",
+          "size": "Not Installed",
+          "tag": "Not Installed",
+          "status": "Not Installed"
+        }
+      ]
+    },
+    {
+      "name": "Falkon",
+      "installname": "falkon",
+      "type": "AppImage",
+      "description": "Falkon is a QtWebEngine based cross-platform web browser",
+      "authors": [
+        {
+          "name": "KDE",
+          "url": "https://community.kde.org/Incubator/Projects/Falkon"
+        }
+      ],
+      "links": [
+        {
+          "type": "Other",
+          "url": "https://community.kde.org/Incubator/Projects/Falkon"
+        },
+        {
+          "type": "Install",
+          "url": "https://download.kde.org/stable/falkon/3.0.1/Falkon-3.0.1.AppImage"
         }
       ],
       "installinfo": [
@@ -9865,36 +9895,6 @@
         {
           "type": "Install",
           "url": "https://github.com/kanryu/quickviewer/releases"
-        }
-      ],
-      "installinfo": [
-        {
-          "version": "Not Installed",
-          "size": "Not Installed",
-          "tag": "Not Installed",
-          "status": "Not Installed"
-        }
-      ]
-    },
-    {
-      "name": "QupZilla",
-      "installname": "QupZilla",
-      "type": "AppImage",
-      "description": "AppImage for QupZilla",
-      "authors": [
-        {
-          "name": "https://www.qupzilla.com",
-          "url": "https://www.qupzilla.com"
-        }
-      ],
-      "links": [
-        {
-          "type": "Other",
-          "url": "https://www.qupzilla.com"
-        },
-        {
-          "type": "Install",
-          "url": "https://www.qupzilla.com/startdownload?appimage"
         }
       ],
       "installinfo": [
